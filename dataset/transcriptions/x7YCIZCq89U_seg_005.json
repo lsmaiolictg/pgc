@@ -1,0 +1,313 @@
+{
+  "video_id": "x7YCIZCq89U",
+  "segment_file": "x7YCIZCq89U_seg_005.wav",
+  "segment_start": 375,
+  "segment_end": 465,
+  "full_text": " Golada parada porque o Vasco empata e agora virou o famoso Caldeirão em São Jamário.  E com um golaço também do Thiago Mendes, né?  Uma bobeada da defesa do Palmeiras que deixa a parede acontecer.  A liberdade para o Thiago, ninguém o acompanha e ele consegue fazer a finalização.  A bola vem na referência de novo, a pro DVD.  Dessa vez não conseguiu fazer a parede.  Thiago Mendes recuperou a tabelinha com o Rojas.  Andréas, Arias.  Está pressionado o John Arias e vai dar aquela quebrada para o ataque.  E é um Vasco que com as substituições muda um pouco o formato do jogo, né?  Você tem agora as duplas pelos lados, né?  O Andréas Gomes junto com o Cuiabano pelo lado esquerdo.  Você tem o Adson com o PH pelo lado direito.  O Rojas agora flutuando.  Olha o Cuiabano, olha o Cuiabano.  Esplau!  Macalus Miguel!  É outra atmosfera.  São Diocas.  São Diocas.  Explodiu.  Como é que é?  Vai mexer.  São Januário explodiu, Luzinho.  É, agora é o tal do caldeirão.  E o Palmeiras já vai reagir.  Já já pega o detalhe do Massoalangoveia.  Que vem substituições no time do Palmeiras.  Cobrança nesse canteio.  Levantou.  Bola com o desvio.  Tirou o Gustavo Gomes.  Deu o rebote.  Adson.  PH, dá aquela pisada.  Espera.  Mete o lançamento pro Adson.  De cabeça, tira pra escanteio.",
+  "transcription": [
+    {
+      "start": 375.0,
+      "end": 380.84,
+      "duration": 5.84,
+      "text": " Golada parada porque o Vasco empata e agora virou o famoso Caldeirão em São Jamário.",
+      "clean_text": "golada parada porque o vasco empata e agora virou o famoso caldeirão em são jamário",
+      "is_candidate": true
+    },
+    {
+      "start": 381.22,
+      "end": 383.52,
+      "duration": 2.3,
+      "text": " E com um golaço também do Thiago Mendes, né?",
+      "clean_text": "e com um golaço também do thiago mendes né",
+      "is_candidate": true
+    },
+    {
+      "start": 383.58,
+      "end": 387.56,
+      "duration": 3.9800000000000004,
+      "text": " Uma bobeada da defesa do Palmeiras que deixa a parede acontecer.",
+      "clean_text": "uma bobeada da defesa do palmeiras que deixa a parede acontecer",
+      "is_candidate": false
+    },
+    {
+      "start": 387.66,
+      "end": 391.46,
+      "duration": 3.8000000000000007,
+      "text": " A liberdade para o Thiago, ninguém o acompanha e ele consegue fazer a finalização.",
+      "clean_text": "a liberdade para o thiago ninguém o acompanha e ele consegue fazer a finalização",
+      "is_candidate": false
+    },
+    {
+      "start": 392.34,
+      "end": 394.18,
+      "duration": 1.8399999999999999,
+      "text": " A bola vem na referência de novo, a pro DVD.",
+      "clean_text": "a bola vem na referência de novo a pro dvd",
+      "is_candidate": false
+    },
+    {
+      "start": 395.56,
+      "end": 397.08,
+      "duration": 1.5200000000000031,
+      "text": " Dessa vez não conseguiu fazer a parede.",
+      "clean_text": "dessa vez não conseguiu fazer a parede",
+      "is_candidate": false
+    },
+    {
+      "start": 397.4,
+      "end": 399.5,
+      "duration": 2.099999999999998,
+      "text": " Thiago Mendes recuperou a tabelinha com o Rojas.",
+      "clean_text": "thiago mendes recuperou a tabelinha com o rojas",
+      "is_candidate": false
+    },
+    {
+      "start": 399.74,
+      "end": 401.18,
+      "duration": 1.4399999999999977,
+      "text": " Andréas, Arias.",
+      "clean_text": "andréas arias",
+      "is_candidate": false
+    },
+    {
+      "start": 401.18,
+      "end": 406.5,
+      "duration": 5.32,
+      "text": " Está pressionado o John Arias e vai dar aquela quebrada para o ataque.",
+      "clean_text": "está pressionado o john arias e vai dar aquela quebrada para o ataque",
+      "is_candidate": false
+    },
+    {
+      "start": 406.68,
+      "end": 410.68,
+      "duration": 4.0,
+      "text": " E é um Vasco que com as substituições muda um pouco o formato do jogo, né?",
+      "clean_text": "e é um vasco que com as substituições muda um pouco o formato do jogo né",
+      "is_candidate": false
+    },
+    {
+      "start": 411.02,
+      "end": 413.6,
+      "duration": 2.5800000000000054,
+      "text": " Você tem agora as duplas pelos lados, né?",
+      "clean_text": "você tem agora as duplas pelos lados né",
+      "is_candidate": false
+    },
+    {
+      "start": 414.8,
+      "end": 418.54,
+      "duration": 3.740000000000002,
+      "text": " O Andréas Gomes junto com o Cuiabano pelo lado esquerdo.",
+      "clean_text": "o andréas gomes junto com o cuiabano pelo lado esquerdo",
+      "is_candidate": false
+    },
+    {
+      "start": 418.62,
+      "end": 421.1,
+      "duration": 2.479999999999997,
+      "text": " Você tem o Adson com o PH pelo lado direito.",
+      "clean_text": "você tem o adson com o ph pelo lado direito",
+      "is_candidate": false
+    },
+    {
+      "start": 421.22,
+      "end": 422.62,
+      "duration": 1.4000000000000057,
+      "text": " O Rojas agora flutuando.",
+      "clean_text": "o rojas agora flutuando",
+      "is_candidate": false
+    },
+    {
+      "start": 423.02,
+      "end": 424.46,
+      "duration": 1.4400000000000048,
+      "text": " Olha o Cuiabano, olha o Cuiabano.",
+      "clean_text": "olha o cuiabano olha o cuiabano",
+      "is_candidate": false
+    },
+    {
+      "start": 424.78,
+      "end": 425.34000000000003,
+      "duration": 0.5600000000000023,
+      "text": " Esplau!",
+      "clean_text": "esplau",
+      "is_candidate": false
+    },
+    {
+      "start": 425.44,
+      "end": 426.32,
+      "duration": 0.8800000000000026,
+      "text": " Macalus Miguel!",
+      "clean_text": "macalus miguel",
+      "is_candidate": false
+    },
+    {
+      "start": 428.1,
+      "end": 429.18,
+      "duration": 1.0799999999999983,
+      "text": " É outra atmosfera.",
+      "clean_text": "é outra atmosfera",
+      "is_candidate": false
+    },
+    {
+      "start": 429.18,
+      "end": 430.18,
+      "duration": 1.0,
+      "text": " São Diocas.",
+      "clean_text": "são diocas",
+      "is_candidate": false
+    },
+    {
+      "start": 430.18,
+      "end": 430.92,
+      "duration": 0.740000000000002,
+      "text": " São Diocas.",
+      "clean_text": "são diocas",
+      "is_candidate": false
+    },
+    {
+      "start": 431.18,
+      "end": 431.44,
+      "duration": 0.259999999999998,
+      "text": " Explodiu.",
+      "clean_text": "explodiu",
+      "is_candidate": false
+    },
+    {
+      "start": 432.48,
+      "end": 433.15999999999997,
+      "duration": 0.6799999999999997,
+      "text": " Como é que é?",
+      "clean_text": "como é que é",
+      "is_candidate": false
+    },
+    {
+      "start": 434.76,
+      "end": 435.68,
+      "duration": 0.9200000000000017,
+      "text": " Vai mexer.",
+      "clean_text": "vai mexer",
+      "is_candidate": false
+    },
+    {
+      "start": 436.26,
+      "end": 437.88,
+      "duration": 1.6200000000000045,
+      "text": " São Januário explodiu, Luzinho.",
+      "clean_text": "são januário explodiu luzinho",
+      "is_candidate": false
+    },
+    {
+      "start": 438.44,
+      "end": 441.02,
+      "duration": 2.5799999999999983,
+      "text": " É, agora é o tal do caldeirão.",
+      "clean_text": "é agora é o tal do caldeirão",
+      "is_candidate": false
+    },
+    {
+      "start": 442.14,
+      "end": 443.72,
+      "duration": 1.5799999999999983,
+      "text": " E o Palmeiras já vai reagir.",
+      "clean_text": "e o palmeiras já vai reagir",
+      "is_candidate": false
+    },
+    {
+      "start": 443.8,
+      "end": 446.28,
+      "duration": 2.480000000000004,
+      "text": " Já já pega o detalhe do Massoalangoveia.",
+      "clean_text": "já já pega o detalhe do massoalangoveia",
+      "is_candidate": false
+    },
+    {
+      "start": 446.64,
+      "end": 449.08,
+      "duration": 2.4399999999999977,
+      "text": " Que vem substituições no time do Palmeiras.",
+      "clean_text": "que vem substituições no time do palmeiras",
+      "is_candidate": false
+    },
+    {
+      "start": 449.6,
+      "end": 450.82,
+      "duration": 1.2199999999999989,
+      "text": " Cobrança nesse canteio.",
+      "clean_text": "cobrança nesse canteio",
+      "is_candidate": false
+    },
+    {
+      "start": 451.2,
+      "end": 451.76,
+      "duration": 0.5600000000000023,
+      "text": " Levantou.",
+      "clean_text": "levantou",
+      "is_candidate": false
+    },
+    {
+      "start": 451.98,
+      "end": 452.8,
+      "duration": 0.8199999999999932,
+      "text": " Bola com o desvio.",
+      "clean_text": "bola com o desvio",
+      "is_candidate": false
+    },
+    {
+      "start": 453.06,
+      "end": 454.08,
+      "duration": 1.019999999999996,
+      "text": " Tirou o Gustavo Gomes.",
+      "clean_text": "tirou o gustavo gomes",
+      "is_candidate": false
+    },
+    {
+      "start": 454.46000000000004,
+      "end": 455.22,
+      "duration": 0.7599999999999909,
+      "text": " Deu o rebote.",
+      "clean_text": "deu o rebote",
+      "is_candidate": false
+    },
+    {
+      "start": 455.58,
+      "end": 456.18,
+      "duration": 0.6000000000000085,
+      "text": " Adson.",
+      "clean_text": "adson",
+      "is_candidate": false
+    },
+    {
+      "start": 459.56,
+      "end": 461.12,
+      "duration": 1.5600000000000023,
+      "text": " PH, dá aquela pisada.",
+      "clean_text": "ph dá aquela pisada",
+      "is_candidate": false
+    },
+    {
+      "start": 461.18,
+      "end": 461.7,
+      "duration": 0.519999999999996,
+      "text": " Espera.",
+      "clean_text": "espera",
+      "is_candidate": false
+    },
+    {
+      "start": 461.8,
+      "end": 463.46000000000004,
+      "duration": 1.6599999999999966,
+      "text": " Mete o lançamento pro Adson.",
+      "clean_text": "mete o lançamento pro adson",
+      "is_candidate": false
+    },
+    {
+      "start": 463.52,
+      "end": 464.98,
+      "duration": 1.4599999999999937,
+      "text": " De cabeça, tira pra escanteio.",
+      "clean_text": "de cabeça tira pra escanteio",
+      "is_candidate": false
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "video_id": "x7YCIZCq89U",
+  "segment_file": "x7YCIZCq89U_seg_001.wav",
+  "segment_start": 75,
+  "segment_end": 165,
+  "full_text": " que consigam produzir minimamente, consigam atuar num bom nível.  Mas caramba, que coisa, viu?  Outra golpe, 4 contra 2 em alta velocidade, o Watson fresquinho,  dois fresquinhos do jogo, né?  Porras de um lado, Watson do outro, Porras, para a entrada da grande área,  Andrés Gomes, limpou, pá!  Tipo um gol!  Brasileirão na tela da Kazé TV, todo jogo é decisivo,  assim como é decisivo para quem desenrola o próprio negócio.  Todo dia vale muito.  Porque você sabe, trabalhar com vendas na rua ou na loja própria  é para quem sabe e faz acontecer.  E você que faz acontecer, você sabe, não dá para marcar bobeira.  Por isso, o PagBank é a melhor escolha, tem a melhor taxa do mercado,  maquininhas com o melhor preço.  E outra coisa, sempre falo isso aqui, o dinheiro da venda cai na conta na hora.  Isso é coisa de especialista em negócios brasileiros.  Isso é PagBank!  Peça agora a sua maquininha.  Que seja o verdadeiro campeão de vendas!  Luizinho, só para não deixar passar, né?  Eram quatro contra dois, e a hora que o Porras pisa na bola, faz o break dentro da área,  eram oito jogadores do Palmeiras já dentro da área.  É impressionante esse retorno, essa transição, como o Palmeiras conseguiu retornar rapidamente  e povoar a área para impedir a chance do Vasco finalizar.  É difícil você também achar o Palmeiras vulnerável dessa maneira.  E era assim.",
+  "transcription": [
+    {
+      "start": 75.0,
+      "end": 79.58,
+      "duration": 4.58,
+      "text": " que consigam produzir minimamente, consigam atuar num bom nível.",
+      "clean_text": "que consigam produzir minimamente consigam atuar num bom nível",
+      "is_candidate": false
+    },
+    {
+      "start": 80.14,
+      "end": 81.62,
+      "duration": 1.4800000000000004,
+      "text": " Mas caramba, que coisa, viu?",
+      "clean_text": "mas caramba que coisa viu",
+      "is_candidate": false
+    },
+    {
+      "start": 82.98,
+      "end": 87.16,
+      "duration": 4.18,
+      "text": " Outra golpe, 4 contra 2 em alta velocidade, o Watson fresquinho,",
+      "clean_text": "outra golpe 4 contra 2 em alta velocidade o watson fresquinho",
+      "is_candidate": true
+    },
+    {
+      "start": 87.26,
+      "end": 88.4,
+      "duration": 1.1400000000000006,
+      "text": " dois fresquinhos do jogo, né?",
+      "clean_text": "dois fresquinhos do jogo né",
+      "is_candidate": false
+    },
+    {
+      "start": 88.72,
+      "end": 92.18,
+      "duration": 3.459999999999999,
+      "text": " Porras de um lado, Watson do outro, Porras, para a entrada da grande área,",
+      "clean_text": "porras de um lado watson do outro porras para a entrada da grande área",
+      "is_candidate": false
+    },
+    {
+      "start": 92.44,
+      "end": 94.38,
+      "duration": 1.9399999999999977,
+      "text": " Andrés Gomes, limpou, pá!",
+      "clean_text": "andrés gomes limpou pá",
+      "is_candidate": false
+    },
+    {
+      "start": 95.2,
+      "end": 96.12,
+      "duration": 0.9200000000000017,
+      "text": " Tipo um gol!",
+      "clean_text": "tipo um gol",
+      "is_candidate": true
+    },
+    {
+      "start": 99.08,
+      "end": 102.18,
+      "duration": 3.099999999999998,
+      "text": " Brasileirão na tela da Kazé TV, todo jogo é decisivo,",
+      "clean_text": "brasileirão na tela da kazé tv todo jogo é decisivo",
+      "is_candidate": false
+    },
+    {
+      "start": 102.26,
+      "end": 104.86,
+      "duration": 2.599999999999998,
+      "text": " assim como é decisivo para quem desenrola o próprio negócio.",
+      "clean_text": "assim como é decisivo para quem desenrola o próprio negócio",
+      "is_candidate": false
+    },
+    {
+      "start": 105.38,
+      "end": 106.9,
+      "duration": 1.5199999999999996,
+      "text": " Todo dia vale muito.",
+      "clean_text": "todo dia vale muito",
+      "is_candidate": false
+    },
+    {
+      "start": 107.32,
+      "end": 110.22,
+      "duration": 2.8999999999999986,
+      "text": " Porque você sabe, trabalhar com vendas na rua ou na loja própria",
+      "clean_text": "porque você sabe trabalhar com vendas na rua ou na loja própria",
+      "is_candidate": false
+    },
+    {
+      "start": 110.22,
+      "end": 112.74000000000001,
+      "duration": 2.520000000000003,
+      "text": " é para quem sabe e faz acontecer.",
+      "clean_text": "é para quem sabe e faz acontecer",
+      "is_candidate": false
+    },
+    {
+      "start": 113.52,
+      "end": 116.32,
+      "duration": 2.8000000000000043,
+      "text": " E você que faz acontecer, você sabe, não dá para marcar bobeira.",
+      "clean_text": "e você que faz acontecer você sabe não dá para marcar bobeira",
+      "is_candidate": false
+    },
+    {
+      "start": 116.64,
+      "end": 120.75999999999999,
+      "duration": 4.119999999999997,
+      "text": " Por isso, o PagBank é a melhor escolha, tem a melhor taxa do mercado,",
+      "clean_text": "por isso o pagbank é a melhor escolha tem a melhor taxa do mercado",
+      "is_candidate": false
+    },
+    {
+      "start": 120.9,
+      "end": 122.5,
+      "duration": 1.6000000000000014,
+      "text": " maquininhas com o melhor preço.",
+      "clean_text": "maquininhas com o melhor preço",
+      "is_candidate": false
+    },
+    {
+      "start": 122.76,
+      "end": 128.51999999999998,
+      "duration": 5.759999999999991,
+      "text": " E outra coisa, sempre falo isso aqui, o dinheiro da venda cai na conta na hora.",
+      "clean_text": "e outra coisa sempre falo isso aqui o dinheiro da venda cai na conta na hora",
+      "is_candidate": false
+    },
+    {
+      "start": 128.78,
+      "end": 131.2,
+      "duration": 2.4200000000000017,
+      "text": " Isso é coisa de especialista em negócios brasileiros.",
+      "clean_text": "isso é coisa de especialista em negócios brasileiros",
+      "is_candidate": false
+    },
+    {
+      "start": 131.28,
+      "end": 132.62,
+      "duration": 1.3400000000000034,
+      "text": " Isso é PagBank!",
+      "clean_text": "isso é pagbank",
+      "is_candidate": false
+    },
+    {
+      "start": 132.8,
+      "end": 134.18,
+      "duration": 1.3800000000000026,
+      "text": " Peça agora a sua maquininha.",
+      "clean_text": "peça agora a sua maquininha",
+      "is_candidate": false
+    },
+    {
+      "start": 134.18,
+      "end": 136.84,
+      "duration": 2.6600000000000037,
+      "text": " Que seja o verdadeiro campeão de vendas!",
+      "clean_text": "que seja o verdadeiro campeão de vendas",
+      "is_candidate": false
+    },
+    {
+      "start": 138.66,
+      "end": 140.42000000000002,
+      "duration": 1.7600000000000051,
+      "text": " Luizinho, só para não deixar passar, né?",
+      "clean_text": "luizinho só para não deixar passar né",
+      "is_candidate": false
+    },
+    {
+      "start": 142.16,
+      "end": 147.6,
+      "duration": 5.439999999999998,
+      "text": " Eram quatro contra dois, e a hora que o Porras pisa na bola, faz o break dentro da área,",
+      "clean_text": "eram quatro contra dois e a hora que o porras pisa na bola faz o break dentro da área",
+      "is_candidate": false
+    },
+    {
+      "start": 147.72,
+      "end": 150.06,
+      "duration": 2.3400000000000034,
+      "text": " eram oito jogadores do Palmeiras já dentro da área.",
+      "clean_text": "eram oito jogadores do palmeiras já dentro da área",
+      "is_candidate": false
+    },
+    {
+      "start": 150.78,
+      "end": 156.51999999999998,
+      "duration": 5.739999999999995,
+      "text": " É impressionante esse retorno, essa transição, como o Palmeiras conseguiu retornar rapidamente",
+      "clean_text": "é impressionante esse retorno essa transição como o palmeiras conseguiu retornar rapidamente",
+      "is_candidate": false
+    },
+    {
+      "start": 156.51999999999998,
+      "end": 160.04,
+      "duration": 3.519999999999996,
+      "text": " e povoar a área para impedir a chance do Vasco finalizar.",
+      "clean_text": "e povoar a área para impedir a chance do vasco finalizar",
+      "is_candidate": false
+    },
+    {
+      "start": 160.04,
+      "end": 164.04,
+      "duration": 4.0,
+      "text": " É difícil você também achar o Palmeiras vulnerável dessa maneira.",
+      "clean_text": "é difícil você também achar o palmeiras vulnerável dessa maneira",
+      "is_candidate": false
+    },
+    {
+      "start": 164.18,
+      "end": 164.78,
+      "duration": 0.5999999999999943,
+      "text": " E era assim.",
+      "clean_text": "e era assim",
+      "is_candidate": false
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "video_id": "x7YCIZCq89U",
+  "segment_file": "x7YCIZCq89U_seg_002.wav",
+  "events": [
+    {
+      "event_type": "gol",
+      "start_time": 229.51999999999998,
+      "end_time": 239.98,
+      "confidence": 1.0
+    }
+  ]
+}

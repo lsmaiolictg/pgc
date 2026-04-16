@@ -1,0 +1,10 @@
+{
+  "events": [
+    {
+      "event_type": "gol",
+      "start_time": 225.0,
+      "end_time": 242.58,
+      "confidence": 1.0
+    }
+  ]
+}

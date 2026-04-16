@@ -1,0 +1,489 @@
+{
+  "video_id": "x7YCIZCq89U",
+  "segment_file": "x7YCIZCq89U_seg_009.wav",
+  "segment_start": 675,
+  "segment_end": 765,
+  "full_text": " Fala, vem por dentro  PH  Vem no meio de dois  Toca Bruno Fulck, se antecipe  E agora parte  Vem o Cuiabano  Alambri gol  Fala com Andrés Gomes  Thiago Mendes  O Rouras vem pra fazer o giro  Pra tentar organizar, né?  Agora a camisada é a de Vasco  A galera tá no chat mandando mensagem também  Bota aí na tela, vai  O time mais caro do mundo tomando a perda do Vasco  Ficou anetado ainda  Sim  Sim, não, sim  É isso?  É, ele tá na dúvida, né?  Se ele tá na dúvida  O Vasco Verão fica maluco  O Tomos pode ser feliz com esse time  Mandou aqui o...  Digital Art  Tá vendo o Digital Art  Tá?  Eu também, ó  Vem  E aí a galera vai participando  Vai interagindo conosco  Coisinho  O Alan entrando aqui pelo lado direito  E o Arias invertendo de lado  Foi jogar lá pelo lado esquerdo  E um ataque com mais movimentação e velocidade por dentro  O Luide  E o Sosa  Nesse ataque do Palmeiras  Aí saiu jogando errado o Vasco  Chegou o John Arias  Pé direito  Arias na frente  O Alan vai começando a arrastar dali, ó  Gramado  Vai ficando cada vez mais pesado  Foi jogando Argh!  personneira  Aí vai passar uma меньше  Fala o quê?  Çao  É, vamos contra a ponte  O cara gerou desculpa  O Valendo  Aí Pepsi  Saíram  Ah não  Saiam  Vai mudar na Vale  Vamos Coração minha mulher não tem 2 milhões de dólares com n적으로 temari rsgm",
+  "transcription": [
+    {
+      "start": 675.0,
+      "end": 677.0,
+      "duration": 2.0,
+      "text": " Fala, vem por dentro",
+      "clean_text": "fala vem por dentro",
+      "is_candidate": false
+    },
+    {
+      "start": 677.0,
+      "end": 679.62,
+      "duration": 2.62,
+      "text": " PH",
+      "clean_text": "ph",
+      "is_candidate": false
+    },
+    {
+      "start": 679.62,
+      "end": 682.0,
+      "duration": 2.38,
+      "text": " Vem no meio de dois",
+      "clean_text": "vem no meio de dois",
+      "is_candidate": false
+    },
+    {
+      "start": 682.0,
+      "end": 683.94,
+      "duration": 1.9399999999999995,
+      "text": " Toca Bruno Fulck, se antecipe",
+      "clean_text": "toca bruno fulck se antecipe",
+      "is_candidate": false
+    },
+    {
+      "start": 683.94,
+      "end": 684.74,
+      "duration": 0.8000000000000007,
+      "text": " E agora parte",
+      "clean_text": "e agora parte",
+      "is_candidate": false
+    },
+    {
+      "start": 684.74,
+      "end": 689.06,
+      "duration": 4.32,
+      "text": " Vem o Cuiabano",
+      "clean_text": "vem o cuiabano",
+      "is_candidate": false
+    },
+    {
+      "start": 689.06,
+      "end": 690.34,
+      "duration": 1.2799999999999994,
+      "text": " Alambri gol",
+      "clean_text": "alambri gol",
+      "is_candidate": true
+    },
+    {
+      "start": 690.34,
+      "end": 698.34,
+      "duration": 8.0,
+      "text": " Fala com Andrés Gomes",
+      "clean_text": "fala com andrés gomes",
+      "is_candidate": false
+    },
+    {
+      "start": 705.0,
+      "end": 707.14,
+      "duration": 2.1400000000000006,
+      "text": " Thiago Mendes",
+      "clean_text": "thiago mendes",
+      "is_candidate": false
+    },
+    {
+      "start": 707.14,
+      "end": 709.5,
+      "duration": 2.3599999999999994,
+      "text": " O Rouras vem pra fazer o giro",
+      "clean_text": "o rouras vem pra fazer o giro",
+      "is_candidate": false
+    },
+    {
+      "start": 709.5,
+      "end": 710.7,
+      "duration": 1.2000000000000028,
+      "text": " Pra tentar organizar, né?",
+      "clean_text": "pra tentar organizar né",
+      "is_candidate": false
+    },
+    {
+      "start": 711.06,
+      "end": 712.28,
+      "duration": 1.2199999999999989,
+      "text": " Agora a camisada é a de Vasco",
+      "clean_text": "agora a camisada é a de vasco",
+      "is_candidate": false
+    },
+    {
+      "start": 712.28,
+      "end": 713.78,
+      "duration": 1.5,
+      "text": " A galera tá no chat mandando mensagem também",
+      "clean_text": "a galera tá no chat mandando mensagem também",
+      "is_candidate": false
+    },
+    {
+      "start": 713.78,
+      "end": 714.54,
+      "duration": 0.759999999999998,
+      "text": " Bota aí na tela, vai",
+      "clean_text": "bota aí na tela vai",
+      "is_candidate": false
+    },
+    {
+      "start": 714.54,
+      "end": 718.3,
+      "duration": 3.759999999999998,
+      "text": " O time mais caro do mundo tomando a perda do Vasco",
+      "clean_text": "o time mais caro do mundo tomando a perda do vasco",
+      "is_candidate": false
+    },
+    {
+      "start": 718.3,
+      "end": 719.8,
+      "duration": 1.5,
+      "text": " Ficou anetado ainda",
+      "clean_text": "ficou anetado ainda",
+      "is_candidate": false
+    },
+    {
+      "start": 719.8,
+      "end": 721.52,
+      "duration": 1.7199999999999989,
+      "text": " Sim",
+      "clean_text": "sim",
+      "is_candidate": false
+    },
+    {
+      "start": 721.52,
+      "end": 724.2,
+      "duration": 2.680000000000007,
+      "text": " Sim, não, sim",
+      "clean_text": "sim não sim",
+      "is_candidate": false
+    },
+    {
+      "start": 724.2,
+      "end": 725.06,
+      "duration": 0.8599999999999994,
+      "text": " É isso?",
+      "clean_text": "é isso",
+      "is_candidate": false
+    },
+    {
+      "start": 725.62,
+      "end": 726.64,
+      "duration": 1.019999999999996,
+      "text": " É, ele tá na dúvida, né?",
+      "clean_text": "é ele tá na dúvida né",
+      "is_candidate": false
+    },
+    {
+      "start": 726.68,
+      "end": 727.58,
+      "duration": 0.8999999999999986,
+      "text": " Se ele tá na dúvida",
+      "clean_text": "se ele tá na dúvida",
+      "is_candidate": false
+    },
+    {
+      "start": 727.58,
+      "end": 729.12,
+      "duration": 1.5400000000000063,
+      "text": " O Vasco Verão fica maluco",
+      "clean_text": "o vasco verão fica maluco",
+      "is_candidate": false
+    },
+    {
+      "start": 729.12,
+      "end": 730.36,
+      "duration": 1.2399999999999949,
+      "text": " O Tomos pode ser feliz com esse time",
+      "clean_text": "o tomos pode ser feliz com esse time",
+      "is_candidate": false
+    },
+    {
+      "start": 730.36,
+      "end": 731.94,
+      "duration": 1.5799999999999983,
+      "text": " Mandou aqui o...",
+      "clean_text": "mandou aqui o",
+      "is_candidate": false
+    },
+    {
+      "start": 731.94,
+      "end": 733.4,
+      "duration": 1.460000000000008,
+      "text": " Digital Art",
+      "clean_text": "digital art",
+      "is_candidate": false
+    },
+    {
+      "start": 733.4,
+      "end": 734.98,
+      "duration": 1.5799999999999983,
+      "text": " Tá vendo o Digital Art",
+      "clean_text": "tá vendo o digital art",
+      "is_candidate": false
+    },
+    {
+      "start": 734.98,
+      "end": 735.8,
+      "duration": 0.8200000000000003,
+      "text": " Tá?",
+      "clean_text": "tá",
+      "is_candidate": false
+    },
+    {
+      "start": 736.7,
+      "end": 737.38,
+      "duration": 0.6799999999999997,
+      "text": " Eu também, ó",
+      "clean_text": "eu também ó",
+      "is_candidate": false
+    },
+    {
+      "start": 737.38,
+      "end": 737.54,
+      "duration": 0.1600000000000037,
+      "text": " Vem",
+      "clean_text": "vem",
+      "is_candidate": false
+    },
+    {
+      "start": 737.54,
+      "end": 739.98,
+      "duration": 2.4399999999999906,
+      "text": " E aí a galera vai participando",
+      "clean_text": "e aí a galera vai participando",
+      "is_candidate": false
+    },
+    {
+      "start": 739.98,
+      "end": 741.02,
+      "duration": 1.0400000000000063,
+      "text": " Vai interagindo conosco",
+      "clean_text": "vai interagindo conosco",
+      "is_candidate": false
+    },
+    {
+      "start": 741.02,
+      "end": 742.12,
+      "duration": 1.1000000000000085,
+      "text": " Coisinho",
+      "clean_text": "coisinho",
+      "is_candidate": false
+    },
+    {
+      "start": 742.12,
+      "end": 744.66,
+      "duration": 2.539999999999992,
+      "text": " O Alan entrando aqui pelo lado direito",
+      "clean_text": "o alan entrando aqui pelo lado direito",
+      "is_candidate": false
+    },
+    {
+      "start": 744.66,
+      "end": 745.92,
+      "duration": 1.2600000000000051,
+      "text": " E o Arias invertendo de lado",
+      "clean_text": "e o arias invertendo de lado",
+      "is_candidate": false
+    },
+    {
+      "start": 745.92,
+      "end": 747.28,
+      "duration": 1.3599999999999994,
+      "text": " Foi jogar lá pelo lado esquerdo",
+      "clean_text": "foi jogar lá pelo lado esquerdo",
+      "is_candidate": false
+    },
+    {
+      "start": 747.28,
+      "end": 751.16,
+      "duration": 3.8799999999999955,
+      "text": " E um ataque com mais movimentação e velocidade por dentro",
+      "clean_text": "e um ataque com mais movimentação e velocidade por dentro",
+      "is_candidate": false
+    },
+    {
+      "start": 751.16,
+      "end": 751.84,
+      "duration": 0.6800000000000068,
+      "text": " O Luide",
+      "clean_text": "o luide",
+      "is_candidate": false
+    },
+    {
+      "start": 751.84,
+      "end": 753.46,
+      "duration": 1.6199999999999903,
+      "text": " E o Sosa",
+      "clean_text": "e o sosa",
+      "is_candidate": false
+    },
+    {
+      "start": 753.46,
+      "end": 755.08,
+      "duration": 1.6200000000000045,
+      "text": " Nesse ataque do Palmeiras",
+      "clean_text": "nesse ataque do palmeiras",
+      "is_candidate": false
+    },
+    {
+      "start": 755.08,
+      "end": 757.28,
+      "duration": 2.200000000000003,
+      "text": " Aí saiu jogando errado o Vasco",
+      "clean_text": "aí saiu jogando errado o vasco",
+      "is_candidate": false
+    },
+    {
+      "start": 757.28,
+      "end": 758.6,
+      "duration": 1.3199999999999932,
+      "text": " Chegou o John Arias",
+      "clean_text": "chegou o john arias",
+      "is_candidate": false
+    },
+    {
+      "start": 758.6,
+      "end": 759.28,
+      "duration": 0.6800000000000068,
+      "text": " Pé direito",
+      "clean_text": "pé direito",
+      "is_candidate": false
+    },
+    {
+      "start": 759.28,
+      "end": 760.26,
+      "duration": 0.9799999999999898,
+      "text": " Arias na frente",
+      "clean_text": "arias na frente",
+      "is_candidate": false
+    },
+    {
+      "start": 760.26,
+      "end": 762.52,
+      "duration": 2.260000000000005,
+      "text": " O Alan vai começando a arrastar dali, ó",
+      "clean_text": "o alan vai começando a arrastar dali ó",
+      "is_candidate": false
+    },
+    {
+      "start": 762.52,
+      "end": 763.3199999999999,
+      "duration": 0.7999999999999972,
+      "text": " Gramado",
+      "clean_text": "gramado",
+      "is_candidate": false
+    },
+    {
+      "start": 763.3199999999999,
+      "end": 764.72,
+      "duration": 1.4000000000000057,
+      "text": " Vai ficando cada vez mais pesado",
+      "clean_text": "vai ficando cada vez mais pesado",
+      "is_candidate": false
+    },
+    {
+      "start": 764.98,
+      "end": 766.98,
+      "duration": 2.0,
+      "text": " Foi jogando Argh!",
+      "clean_text": "foi jogando argh",
+      "is_candidate": false
+    },
+    {
+      "start": 766.98,
+      "end": 767.98,
+      "duration": 1.0,
+      "text": " personneira",
+      "clean_text": "personneira",
+      "is_candidate": false
+    },
+    {
+      "start": 767.98,
+      "end": 769.02,
+      "duration": 1.0400000000000063,
+      "text": " Aí vai passar uma меньше",
+      "clean_text": "aí vai passar uma меньше",
+      "is_candidate": false
+    },
+    {
+      "start": 769.02,
+      "end": 770.24,
+      "duration": 1.2199999999999989,
+      "text": " Fala o quê?",
+      "clean_text": "fala o quê",
+      "is_candidate": false
+    },
+    {
+      "start": 770.24,
+      "end": 783.6,
+      "duration": 13.36,
+      "text": " Çao",
+      "clean_text": "çao",
+      "is_candidate": false
+    },
+    {
+      "start": 783.6,
+      "end": 785.38,
+      "duration": 1.7800000000000011,
+      "text": " É, vamos contra a ponte",
+      "clean_text": "é vamos contra a ponte",
+      "is_candidate": false
+    },
+    {
+      "start": 785.88,
+      "end": 787.1,
+      "duration": 1.2199999999999989,
+      "text": " O cara gerou desculpa",
+      "clean_text": "o cara gerou desculpa",
+      "is_candidate": false
+    },
+    {
+      "start": 789.42,
+      "end": 790.62,
+      "duration": 1.2000000000000028,
+      "text": " O Valendo",
+      "clean_text": "o valendo",
+      "is_candidate": false
+    },
+    {
+      "start": 790.62,
+      "end": 791.76,
+      "duration": 1.1400000000000006,
+      "text": " Aí Pepsi",
+      "clean_text": "aí pepsi",
+      "is_candidate": false
+    },
+    {
+      "start": 791.76,
+      "end": 792.32,
+      "duration": 0.5600000000000023,
+      "text": " Saíram",
+      "clean_text": "saíram",
+      "is_candidate": false
+    },
+    {
+      "start": 792.32,
+      "end": 793.06,
+      "duration": 0.7399999999999949,
+      "text": " Ah não",
+      "clean_text": "ah não",
+      "is_candidate": false
+    },
+    {
+      "start": 793.06,
+      "end": 793.72,
+      "duration": 0.6599999999999966,
+      "text": " Saiam",
+      "clean_text": "saiam",
+      "is_candidate": false
+    },
+    {
+      "start": 793.72,
+      "end": 794.82,
+      "duration": 1.1000000000000085,
+      "text": " Vai mudar na Vale",
+      "clean_text": "vai mudar na vale",
+      "is_candidate": false
+    },
+    {
+      "start": 794.82,
+      "end": 794.84,
+      "duration": 0.01999999999999602,
+      "text": " Vamos Coração minha mulher não tem 2 milhões de dólares com n적으로 temari rsgm",
+      "clean_text": "vamos coração minha mulher não tem 2 milhões de dólares com n적으로 temari rsgm",
+      "is_candidate": false
+    }
+  ]
+}

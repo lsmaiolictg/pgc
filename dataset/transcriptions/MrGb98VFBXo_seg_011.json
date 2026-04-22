@@ -1,0 +1,153 @@
+{
+  "video_id": "MrGb98VFBXo",
+  "segment_file": "MrGb98VFBXo_seg_011.wav",
+  "segment_start": 825,
+  "segment_end": 915,
+  "full_text": " Isola Marcinho, curtiu a narração do gol?  Segue o narrador aí, eu sou Bruno Cantarelli, arroba Cantarelli Bruno.  Lá no Instagram, duvido que tenha uma invasão mais caída lá no meu Instagram, arroba Cantarelli Bruno, beleza?  Robertinho, 1x0 para o Vasco e o Pais Santo quase empata em Veloso.  Rapaz, essa bola aí foi parar no teto do palco aqui do show do Guns N' Roses de sábado.  Mudança dupla na equipe do Pais Santo.  Logo depois do gol, saíram o Rinkel com a camisa 94 e o Ítalo com a camisa 9.  Para as entradas de Juninho, 98, Lucas Cardoso com a 98, o Adson já está pronto para entrar aqui no Vasco.  E o detalhe do gol é que na hora que o Bruno Bispo chegou zerando a bola aqui para a arquibancada,  o Rojas viu aquela bola que fica na tartaruguinha, pegou correndo e deixou em belas condições.  O Andrés, porque o marcador dele estava caído na pista de atletismo, tá amigo?  É isso, foi inteligente demais o Rojas na cobrança do lateral.  Já vou perguntar para o Robertinho de novas alterações, porque o Vasco está no ataque.  Olha o lançamento sensacional do Cuiabano.  É para o Andrés, a bola saiu, é tiro de meta para o Pais Santo.  Atualiza aí novamente o Robertinho as alterações do jogo, manda aí.  Saíram o Rinkel, camisa 94.  9, Ítalo, para exemplo.",
+  "transcription": [
+    {
+      "start": 825.0,
+      "end": 827.2,
+      "duration": 2.2,
+      "text": " Isola Marcinho, curtiu a narração do gol?",
+      "clean_text": "isola marcinho curtiu a narração do gol",
+      "is_candidate": true
+    },
+    {
+      "start": 827.64,
+      "end": 830.96,
+      "duration": 3.32,
+      "text": " Segue o narrador aí, eu sou Bruno Cantarelli, arroba Cantarelli Bruno.",
+      "clean_text": "segue o narrador aí eu sou bruno cantarelli arroba cantarelli bruno",
+      "is_candidate": false
+    },
+    {
+      "start": 831.5,
+      "end": 837.24,
+      "duration": 5.74,
+      "text": " Lá no Instagram, duvido que tenha uma invasão mais caída lá no meu Instagram, arroba Cantarelli Bruno, beleza?",
+      "clean_text": "lá no instagram duvido que tenha uma invasão mais caída lá no meu instagram arroba cantarelli bruno beleza",
+      "is_candidate": false
+    },
+    {
+      "start": 838.82,
+      "end": 843.7,
+      "duration": 4.879999999999999,
+      "text": " Robertinho, 1x0 para o Vasco e o Pais Santo quase empata em Veloso.",
+      "clean_text": "robertinho 1x0 para o vasco e o pais santo quase empata em veloso",
+      "is_candidate": false
+    },
+    {
+      "start": 847.36,
+      "end": 853.08,
+      "duration": 5.720000000000002,
+      "text": " Rapaz, essa bola aí foi parar no teto do palco aqui do show do Guns N' Roses de sábado.",
+      "clean_text": "rapaz essa bola aí foi parar no teto do palco aqui do show do guns n roses de sábado",
+      "is_candidate": false
+    },
+    {
+      "start": 853.08,
+      "end": 856.5,
+      "duration": 3.4200000000000017,
+      "text": " Mudança dupla na equipe do Pais Santo.",
+      "clean_text": "mudança dupla na equipe do pais santo",
+      "is_candidate": false
+    },
+    {
+      "start": 856.64,
+      "end": 862.56,
+      "duration": 5.920000000000005,
+      "text": " Logo depois do gol, saíram o Rinkel com a camisa 94 e o Ítalo com a camisa 9.",
+      "clean_text": "logo depois do gol saíram o rinkel com a camisa 94 e o ítalo com a camisa 9",
+      "is_candidate": true
+    },
+    {
+      "start": 863.1,
+      "end": 869.96,
+      "duration": 6.859999999999999,
+      "text": " Para as entradas de Juninho, 98, Lucas Cardoso com a 98, o Adson já está pronto para entrar aqui no Vasco.",
+      "clean_text": "para as entradas de juninho 98 lucas cardoso com a 98 o adson já está pronto para entrar aqui no vasco",
+      "is_candidate": false
+    },
+    {
+      "start": 870.3,
+      "end": 875.44,
+      "duration": 5.140000000000001,
+      "text": " E o detalhe do gol é que na hora que o Bruno Bispo chegou zerando a bola aqui para a arquibancada,",
+      "clean_text": "e o detalhe do gol é que na hora que o bruno bispo chegou zerando a bola aqui para a arquibancada",
+      "is_candidate": true
+    },
+    {
+      "start": 875.44,
+      "end": 882.76,
+      "duration": 7.32,
+      "text": " o Rojas viu aquela bola que fica na tartaruguinha, pegou correndo e deixou em belas condições.",
+      "clean_text": "o rojas viu aquela bola que fica na tartaruguinha pegou correndo e deixou em belas condições",
+      "is_candidate": false
+    },
+    {
+      "start": 882.76,
+      "end": 887.02,
+      "duration": 4.259999999999998,
+      "text": " O Andrés, porque o marcador dele estava caído na pista de atletismo, tá amigo?",
+      "clean_text": "o andrés porque o marcador dele estava caído na pista de atletismo tá amigo",
+      "is_candidate": false
+    },
+    {
+      "start": 888.08,
+      "end": 891.54,
+      "duration": 3.4599999999999937,
+      "text": " É isso, foi inteligente demais o Rojas na cobrança do lateral.",
+      "clean_text": "é isso foi inteligente demais o rojas na cobrança do lateral",
+      "is_candidate": false
+    },
+    {
+      "start": 893.18,
+      "end": 896.28,
+      "duration": 3.1000000000000085,
+      "text": " Já vou perguntar para o Robertinho de novas alterações, porque o Vasco está no ataque.",
+      "clean_text": "já vou perguntar para o robertinho de novas alterações porque o vasco está no ataque",
+      "is_candidate": false
+    },
+    {
+      "start": 896.42,
+      "end": 898.42,
+      "duration": 2.0,
+      "text": " Olha o lançamento sensacional do Cuiabano.",
+      "clean_text": "olha o lançamento sensacional do cuiabano",
+      "is_candidate": false
+    },
+    {
+      "start": 899.06,
+      "end": 902.02,
+      "duration": 2.9599999999999937,
+      "text": " É para o Andrés, a bola saiu, é tiro de meta para o Pais Santo.",
+      "clean_text": "é para o andrés a bola saiu é tiro de meta para o pais santo",
+      "is_candidate": false
+    },
+    {
+      "start": 902.9,
+      "end": 906.3199999999999,
+      "duration": 3.4199999999999875,
+      "text": " Atualiza aí novamente o Robertinho as alterações do jogo, manda aí.",
+      "clean_text": "atualiza aí novamente o robertinho as alterações do jogo manda aí",
+      "is_candidate": false
+    },
+    {
+      "start": 909.8199999999999,
+      "end": 912.1800000000001,
+      "duration": 2.3600000000000136,
+      "text": " Saíram o Rinkel, camisa 94.",
+      "clean_text": "saíram o rinkel camisa 94",
+      "is_candidate": false
+    },
+    {
+      "start": 912.76,
+      "end": 914.96,
+      "duration": 2.200000000000003,
+      "text": " 9, Ítalo, para exemplo.",
+      "clean_text": "9 ítalo para exemplo",
+      "is_candidate": false
+    }
+  ]
+}

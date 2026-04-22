@@ -1,0 +1,273 @@
+{
+  "video_id": "MrGb98VFBXo",
+  "segment_file": "MrGb98VFBXo_seg_009.wav",
+  "segment_start": 675,
+  "segment_end": 765,
+  "full_text": " Andrés, para trás!  Spinelli!  Está dentro!  Gol!  É do Vasco, galera!  Spinelli!  Eu te amo demais!  O Vasco é para quem acredita!  A torcida que mais merece ser feliz no planeta!  E se liga aí!  Rojas!  Eu nunca critiquei!  Saga a cidade no camisa número 10 do Vasco!  No lateral não tem impedimento!  O Colômbia!  Inteligência total!  E a bola para trás por Spinelli!  E isto farra!  Bate no Paissandu!  Respeite o gigantesco clube de regatas Vasco da Gama!  O Vasco!  É para quem acredita, Spinelli!  Bate!  Bate!  Bate no peito!  Diz assim, ó!  Eu sou Vascão, galera!  Vasco da Gama, 1!  Paissandu, 0! Bastos!  Sabe por que o Renato ficou chateado?  Porque o Andrés Gomes não terminou a jogada!  E sabe por quê?  Porque o Andrés Gomes não terminou a jogada!",
+  "transcription": [
+    {
+      "start": 675.0,
+      "end": 676.42,
+      "duration": 1.42,
+      "text": " Andrés, para trás!",
+      "clean_text": "andrés para trás",
+      "is_candidate": false
+    },
+    {
+      "start": 676.74,
+      "end": 677.78,
+      "duration": 1.0400000000000003,
+      "text": " Spinelli!",
+      "clean_text": "spinelli",
+      "is_candidate": false
+    },
+    {
+      "start": 678.3,
+      "end": 680.16,
+      "duration": 1.8599999999999999,
+      "text": " Está dentro!",
+      "clean_text": "está dentro",
+      "is_candidate": false
+    },
+    {
+      "start": 682.98,
+      "end": 683.82,
+      "duration": 0.8399999999999999,
+      "text": " Gol!",
+      "clean_text": "gol",
+      "is_candidate": true
+    },
+    {
+      "start": 689.54,
+      "end": 693.52,
+      "duration": 3.9799999999999986,
+      "text": " É do Vasco, galera!",
+      "clean_text": "é do vasco galera",
+      "is_candidate": false
+    },
+    {
+      "start": 695.28,
+      "end": 696.44,
+      "duration": 1.1600000000000001,
+      "text": " Spinelli!",
+      "clean_text": "spinelli",
+      "is_candidate": false
+    },
+    {
+      "start": 697.3,
+      "end": 701.34,
+      "duration": 4.039999999999999,
+      "text": " Eu te amo demais!",
+      "clean_text": "eu te amo demais",
+      "is_candidate": false
+    },
+    {
+      "start": 701.34,
+      "end": 705.52,
+      "duration": 4.18,
+      "text": " O Vasco é para quem acredita!",
+      "clean_text": "o vasco é para quem acredita",
+      "is_candidate": false
+    },
+    {
+      "start": 706.22,
+      "end": 710.06,
+      "duration": 3.8400000000000034,
+      "text": " A torcida que mais merece ser feliz no planeta!",
+      "clean_text": "a torcida que mais merece ser feliz no planeta",
+      "is_candidate": false
+    },
+    {
+      "start": 710.68,
+      "end": 711.82,
+      "duration": 1.1400000000000006,
+      "text": " E se liga aí!",
+      "clean_text": "e se liga aí",
+      "is_candidate": false
+    },
+    {
+      "start": 712.58,
+      "end": 713.38,
+      "duration": 0.8000000000000043,
+      "text": " Rojas!",
+      "clean_text": "rojas",
+      "is_candidate": false
+    },
+    {
+      "start": 713.86,
+      "end": 716.48,
+      "duration": 2.6200000000000045,
+      "text": " Eu nunca critiquei!",
+      "clean_text": "eu nunca critiquei",
+      "is_candidate": false
+    },
+    {
+      "start": 717.02,
+      "end": 719.96,
+      "duration": 2.940000000000005,
+      "text": " Saga a cidade no camisa número 10 do Vasco!",
+      "clean_text": "saga a cidade no camisa número 10 do vasco",
+      "is_candidate": false
+    },
+    {
+      "start": 720.42,
+      "end": 722.5,
+      "duration": 2.0799999999999983,
+      "text": " No lateral não tem impedimento!",
+      "clean_text": "no lateral não tem impedimento",
+      "is_candidate": false
+    },
+    {
+      "start": 723.26,
+      "end": 724.46,
+      "duration": 1.1999999999999957,
+      "text": " O Colômbia!",
+      "clean_text": "o colômbia",
+      "is_candidate": false
+    },
+    {
+      "start": 725.06,
+      "end": 726.34,
+      "duration": 1.2800000000000011,
+      "text": " Inteligência total!",
+      "clean_text": "inteligência total",
+      "is_candidate": false
+    },
+    {
+      "start": 726.88,
+      "end": 728.62,
+      "duration": 1.740000000000009,
+      "text": " E a bola para trás por Spinelli!",
+      "clean_text": "e a bola para trás por spinelli",
+      "is_candidate": false
+    },
+    {
+      "start": 728.62,
+      "end": 730.62,
+      "duration": 2.0,
+      "text": " E isto farra!",
+      "clean_text": "e isto farra",
+      "is_candidate": false
+    },
+    {
+      "start": 730.62,
+      "end": 732.62,
+      "duration": 2.0,
+      "text": " Bate no Paissandu!",
+      "clean_text": "bate no paissandu",
+      "is_candidate": false
+    },
+    {
+      "start": 733.38,
+      "end": 739.06,
+      "duration": 5.680000000000007,
+      "text": " Respeite o gigantesco clube de regatas Vasco da Gama!",
+      "clean_text": "respeite o gigantesco clube de regatas vasco da gama",
+      "is_candidate": false
+    },
+    {
+      "start": 739.54,
+      "end": 741.54,
+      "duration": 2.0,
+      "text": " O Vasco!",
+      "clean_text": "o vasco",
+      "is_candidate": false
+    },
+    {
+      "start": 741.54,
+      "end": 743.54,
+      "duration": 2.0,
+      "text": " É para quem acredita, Spinelli!",
+      "clean_text": "é para quem acredita spinelli",
+      "is_candidate": false
+    },
+    {
+      "start": 743.54,
+      "end": 745.54,
+      "duration": 2.0,
+      "text": " Bate!",
+      "clean_text": "bate",
+      "is_candidate": false
+    },
+    {
+      "start": 745.54,
+      "end": 746.54,
+      "duration": 1.0,
+      "text": " Bate!",
+      "clean_text": "bate",
+      "is_candidate": false
+    },
+    {
+      "start": 746.54,
+      "end": 747.54,
+      "duration": 1.0,
+      "text": " Bate no peito!",
+      "clean_text": "bate no peito",
+      "is_candidate": false
+    },
+    {
+      "start": 747.54,
+      "end": 749.54,
+      "duration": 2.0,
+      "text": " Diz assim, ó!",
+      "clean_text": "diz assim ó",
+      "is_candidate": false
+    },
+    {
+      "start": 749.54,
+      "end": 753.54,
+      "duration": 4.0,
+      "text": " Eu sou Vascão, galera!",
+      "clean_text": "eu sou vascão galera",
+      "is_candidate": false
+    },
+    {
+      "start": 753.54,
+      "end": 755.54,
+      "duration": 2.0,
+      "text": " Vasco da Gama, 1!",
+      "clean_text": "vasco da gama 1",
+      "is_candidate": false
+    },
+    {
+      "start": 756.54,
+      "end": 758.54,
+      "duration": 2.0,
+      "text": " Paissandu, 0! Bastos!",
+      "clean_text": "paissandu 0 bastos",
+      "is_candidate": false
+    },
+    {
+      "start": 758.54,
+      "end": 760.54,
+      "duration": 2.0,
+      "text": " Sabe por que o Renato ficou chateado?",
+      "clean_text": "sabe por que o renato ficou chateado",
+      "is_candidate": false
+    },
+    {
+      "start": 760.62,
+      "end": 762.62,
+      "duration": 2.0,
+      "text": " Porque o Andrés Gomes não terminou a jogada!",
+      "clean_text": "porque o andrés gomes não terminou a jogada",
+      "is_candidate": false
+    },
+    {
+      "start": 762.62,
+      "end": 764.62,
+      "duration": 2.0,
+      "text": " E sabe por quê?",
+      "clean_text": "e sabe por quê",
+      "is_candidate": false
+    },
+    {
+      "start": 764.62,
+      "end": 766.62,
+      "duration": 2.0,
+      "text": " Porque o Andrés Gomes não terminou a jogada!",
+      "clean_text": "porque o andrés gomes não terminou a jogada",
+      "is_candidate": false
+    }
+  ]
+}

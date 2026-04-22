@@ -1,0 +1,169 @@
+{
+  "video_id": "x7YCIZCq89U",
+  "segment_file": "x7YCIZCq89U_seg_002.wav",
+  "segment_start": 150,
+  "segment_end": 240,
+  "full_text": " É impressionante esse retorno, essa transição, como o Palmeiras conseguiu retornar rapidamente e povoar a área para impedir a chance do Vasco finalizar.  É difícil você também achar o Palmeiras vulnerável dessa maneira.  Ele teve o espaço para dar o passe para o Aderson, o Thiago Mendes principalmente, e tomou a pior decisão possível.  Ele busca o passe para o Rojas aqui pelo lado esquerdo, ele ainda tinha o Andrés Gomes um pouco mais por dentro.  Então uma oportunidade de ouro, um contra-ataque com a defesa do Palmeiras exposta.  O Thiago Mendes que vem muito bem desde o final do ano passado, dessa vez escolheu a pior decisão possível buscando o Rojas.  O correto era no Aderson pelo lado direito, tinha um clarão ali para ser explorado.  O Aderson entrou ligeiro, querendo o jogo.  PH, aí o Aderson.  O Rojas.  E a chuva vai apertando ainda.  Aderson errou o passe.  Marlon Freitas, a bola vem por dentro.  Chegou Saldívia.  Thiago Mendes na referência, devolução para ele, Thiago Mendes!  Gol!  Gol!  Gol!  Gol!  No Capitão!",
+  "transcription": [
+    {
+      "start": 150.0,
+      "end": 160.04,
+      "duration": 10.040000000000001,
+      "text": " É impressionante esse retorno, essa transição, como o Palmeiras conseguiu retornar rapidamente e povoar a área para impedir a chance do Vasco finalizar.",
+      "clean_text": "é impressionante esse retorno essa transição como o palmeiras conseguiu retornar rapidamente e povoar a área para impedir a chance do vasco finalizar",
+      "is_candidate": false
+    },
+    {
+      "start": 160.2,
+      "end": 164.4,
+      "duration": 4.199999999999999,
+      "text": " É difícil você também achar o Palmeiras vulnerável dessa maneira.",
+      "clean_text": "é difícil você também achar o palmeiras vulnerável dessa maneira",
+      "is_candidate": false
+    },
+    {
+      "start": 164.78,
+      "end": 171.22,
+      "duration": 6.439999999999998,
+      "text": " Ele teve o espaço para dar o passe para o Aderson, o Thiago Mendes principalmente, e tomou a pior decisão possível.",
+      "clean_text": "ele teve o espaço para dar o passe para o aderson o thiago mendes principalmente e tomou a pior decisão possível",
+      "is_candidate": false
+    },
+    {
+      "start": 172.12,
+      "end": 177.16,
+      "duration": 5.039999999999999,
+      "text": " Ele busca o passe para o Rojas aqui pelo lado esquerdo, ele ainda tinha o Andrés Gomes um pouco mais por dentro.",
+      "clean_text": "ele busca o passe para o rojas aqui pelo lado esquerdo ele ainda tinha o andrés gomes um pouco mais por dentro",
+      "is_candidate": false
+    },
+    {
+      "start": 177.16,
+      "end": 181.46,
+      "duration": 4.300000000000001,
+      "text": " Então uma oportunidade de ouro, um contra-ataque com a defesa do Palmeiras exposta.",
+      "clean_text": "então uma oportunidade de ouro um contraataque com a defesa do palmeiras exposta",
+      "is_candidate": false
+    },
+    {
+      "start": 181.56,
+      "end": 189.07999999999998,
+      "duration": 7.519999999999996,
+      "text": " O Thiago Mendes que vem muito bem desde o final do ano passado, dessa vez escolheu a pior decisão possível buscando o Rojas.",
+      "clean_text": "o thiago mendes que vem muito bem desde o final do ano passado dessa vez escolheu a pior decisão possível buscando o rojas",
+      "is_candidate": false
+    },
+    {
+      "start": 189.18,
+      "end": 194.0,
+      "duration": 4.82,
+      "text": " O correto era no Aderson pelo lado direito, tinha um clarão ali para ser explorado.",
+      "clean_text": "o correto era no aderson pelo lado direito tinha um clarão ali para ser explorado",
+      "is_candidate": false
+    },
+    {
+      "start": 197.07999999999998,
+      "end": 201.0,
+      "duration": 3.9200000000000017,
+      "text": " O Aderson entrou ligeiro, querendo o jogo.",
+      "clean_text": "o aderson entrou ligeiro querendo o jogo",
+      "is_candidate": false
+    },
+    {
+      "start": 203.26,
+      "end": 204.98000000000002,
+      "duration": 1.7199999999999989,
+      "text": " PH, aí o Aderson.",
+      "clean_text": "ph aí o aderson",
+      "is_candidate": false
+    },
+    {
+      "start": 207.16,
+      "end": 208.44,
+      "duration": 1.2800000000000011,
+      "text": " O Rojas.",
+      "clean_text": "o rojas",
+      "is_candidate": false
+    },
+    {
+      "start": 213.12,
+      "end": 215.12,
+      "duration": 1.999999999999993,
+      "text": " E a chuva vai apertando ainda.",
+      "clean_text": "e a chuva vai apertando ainda",
+      "is_candidate": false
+    },
+    {
+      "start": 215.38,
+      "end": 216.3,
+      "duration": 0.9200000000000017,
+      "text": " Aderson errou o passe.",
+      "clean_text": "aderson errou o passe",
+      "is_candidate": false
+    },
+    {
+      "start": 218.72,
+      "end": 220.94,
+      "duration": 2.219999999999999,
+      "text": " Marlon Freitas, a bola vem por dentro.",
+      "clean_text": "marlon freitas a bola vem por dentro",
+      "is_candidate": false
+    },
+    {
+      "start": 221.89999999999998,
+      "end": 223.28,
+      "duration": 1.3800000000000097,
+      "text": " Chegou Saldívia.",
+      "clean_text": "chegou saldívia",
+      "is_candidate": false
+    },
+    {
+      "start": 225.14,
+      "end": 228.68,
+      "duration": 3.539999999999992,
+      "text": " Thiago Mendes na referência, devolução para ele, Thiago Mendes!",
+      "clean_text": "thiago mendes na referência devolução para ele thiago mendes",
+      "is_candidate": false
+    },
+    {
+      "start": 229.51999999999998,
+      "end": 230.12,
+      "duration": 0.6000000000000085,
+      "text": " Gol!",
+      "clean_text": "gol",
+      "is_candidate": true
+    },
+    {
+      "start": 230.12,
+      "end": 230.62,
+      "duration": 0.5,
+      "text": " Gol!",
+      "clean_text": "gol",
+      "is_candidate": true
+    },
+    {
+      "start": 236.07999999999998,
+      "end": 236.68,
+      "duration": 0.5999999999999943,
+      "text": " Gol!",
+      "clean_text": "gol",
+      "is_candidate": true
+    },
+    {
+      "start": 237.16,
+      "end": 238.04,
+      "duration": 0.8799999999999955,
+      "text": " Gol!",
+      "clean_text": "gol",
+      "is_candidate": true
+    },
+    {
+      "start": 239.34,
+      "end": 239.98,
+      "duration": 0.6399999999999864,
+      "text": " No Capitão!",
+      "clean_text": "no capitão",
+      "is_candidate": false
+    }
+  ]
+}

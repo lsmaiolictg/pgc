@@ -1,0 +1,241 @@
+{
+  "video_id": "MrGb98VFBXo",
+  "segment_file": "MrGb98VFBXo_seg_024.wav",
+  "segment_start": 1800,
+  "segment_end": 1890,
+  "full_text": " 4 gols no ano, se iguala com o Pumita como artilheiro do Vasco nessa temporada  e vai receber esse atendimento especial aí por conta da lesão no ombro.  Dá pra dizer que hoje, no linguajar jovem, o Spinelli sai aqui do Mangueirão farmando aura.  Farmando aura.  Então sai bem aí.  Separada.  O Baixos farmava aura antes de cobrar falta.  Farmava mesmo.  Falando em farmar aura, vou mandar um abraço pro meu filho que acabou de mandar mensagem aqui,  Matheus Bastos, junto com os amigos dele que estão assistindo o jogo.  Agora minha filha me inventou uma outra, farmando aura-laura.  Aura-laura.  Muito bom. Aura-laura.  Ó, tem reclamação e pode ser pênalti pro Pai Sandu.  Ramon Abate Abel tá ouvindo ali as orientações no Vasco.  Você vê que o Léo Jardim me dá a bola aí, ô Ramon.  Pra recomeçar a jogada aqui, nada disso.  Tá sendo analisado o lance.  Nada a ser marcado.  Mas por algum momento ali o Ramon ouvia a comunicação com o além.  Falou o Ramon Abate Abel.  Olha a ansiedade do Léo Jardim pra que a bola role logo.  Hugo Moura.  Bosta de bola da equipe do Vasco da Gama.  Hugo Moura daqui a pouquinho no Vasco.  Chama não.  Um abraço pra um outro ex-jogador do Vasco.  Bernardo Vascaíno, de coração.  Alô, Bernardo.",
+  "transcription": [
+    {
+      "start": 1800.0,
+      "end": 1804.66,
+      "duration": 4.66,
+      "text": " 4 gols no ano, se iguala com o Pumita como artilheiro do Vasco nessa temporada",
+      "clean_text": "4 gols no ano se iguala com o pumita como artilheiro do vasco nessa temporada",
+      "is_candidate": true
+    },
+    {
+      "start": 1804.66,
+      "end": 1808.52,
+      "duration": 3.8599999999999994,
+      "text": " e vai receber esse atendimento especial aí por conta da lesão no ombro.",
+      "clean_text": "e vai receber esse atendimento especial aí por conta da lesão no ombro",
+      "is_candidate": false
+    },
+    {
+      "start": 1808.96,
+      "end": 1814.92,
+      "duration": 5.959999999999999,
+      "text": " Dá pra dizer que hoje, no linguajar jovem, o Spinelli sai aqui do Mangueirão farmando aura.",
+      "clean_text": "dá pra dizer que hoje no linguajar jovem o spinelli sai aqui do mangueirão farmando aura",
+      "is_candidate": false
+    },
+    {
+      "start": 1816.44,
+      "end": 1817.38,
+      "duration": 0.9399999999999977,
+      "text": " Farmando aura.",
+      "clean_text": "farmando aura",
+      "is_candidate": false
+    },
+    {
+      "start": 1817.76,
+      "end": 1818.7,
+      "duration": 0.9399999999999977,
+      "text": " Então sai bem aí.",
+      "clean_text": "então sai bem aí",
+      "is_candidate": false
+    },
+    {
+      "start": 1819.98,
+      "end": 1820.58,
+      "duration": 0.6000000000000014,
+      "text": " Separada.",
+      "clean_text": "separada",
+      "is_candidate": false
+    },
+    {
+      "start": 1822.0,
+      "end": 1824.74,
+      "duration": 2.740000000000002,
+      "text": " O Baixos farmava aura antes de cobrar falta.",
+      "clean_text": "o baixos farmava aura antes de cobrar falta",
+      "is_candidate": false
+    },
+    {
+      "start": 1825.5,
+      "end": 1826.26,
+      "duration": 0.7600000000000016,
+      "text": " Farmava mesmo.",
+      "clean_text": "farmava mesmo",
+      "is_candidate": false
+    },
+    {
+      "start": 1826.26,
+      "end": 1831.16,
+      "duration": 4.900000000000002,
+      "text": " Falando em farmar aura, vou mandar um abraço pro meu filho que acabou de mandar mensagem aqui,",
+      "clean_text": "falando em farmar aura vou mandar um abraço pro meu filho que acabou de mandar mensagem aqui",
+      "is_candidate": false
+    },
+    {
+      "start": 1831.22,
+      "end": 1834.22,
+      "duration": 2.9999999999999964,
+      "text": " Matheus Bastos, junto com os amigos dele que estão assistindo o jogo.",
+      "clean_text": "matheus bastos junto com os amigos dele que estão assistindo o jogo",
+      "is_candidate": false
+    },
+    {
+      "start": 1834.88,
+      "end": 1838.14,
+      "duration": 3.259999999999998,
+      "text": " Agora minha filha me inventou uma outra, farmando aura-laura.",
+      "clean_text": "agora minha filha me inventou uma outra farmando auralaura",
+      "is_candidate": false
+    },
+    {
+      "start": 1838.48,
+      "end": 1838.92,
+      "duration": 0.4399999999999977,
+      "text": " Aura-laura.",
+      "clean_text": "auralaura",
+      "is_candidate": false
+    },
+    {
+      "start": 1838.94,
+      "end": 1840.56,
+      "duration": 1.6200000000000045,
+      "text": " Muito bom. Aura-laura.",
+      "clean_text": "muito bom auralaura",
+      "is_candidate": false
+    },
+    {
+      "start": 1841.84,
+      "end": 1846.04,
+      "duration": 4.200000000000003,
+      "text": " Ó, tem reclamação e pode ser pênalti pro Pai Sandu.",
+      "clean_text": "ó tem reclamação e pode ser pênalti pro pai sandu",
+      "is_candidate": true
+    },
+    {
+      "start": 1847.78,
+      "end": 1851.34,
+      "duration": 3.5600000000000023,
+      "text": " Ramon Abate Abel tá ouvindo ali as orientações no Vasco.",
+      "clean_text": "ramon abate abel tá ouvindo ali as orientações no vasco",
+      "is_candidate": false
+    },
+    {
+      "start": 1851.44,
+      "end": 1853.04,
+      "duration": 1.6000000000000085,
+      "text": " Você vê que o Léo Jardim me dá a bola aí, ô Ramon.",
+      "clean_text": "você vê que o léo jardim me dá a bola aí ô ramon",
+      "is_candidate": false
+    },
+    {
+      "start": 1853.04,
+      "end": 1855.7,
+      "duration": 2.6599999999999966,
+      "text": " Pra recomeçar a jogada aqui, nada disso.",
+      "clean_text": "pra recomeçar a jogada aqui nada disso",
+      "is_candidate": false
+    },
+    {
+      "start": 1856.26,
+      "end": 1858.94,
+      "duration": 2.6799999999999997,
+      "text": " Tá sendo analisado o lance.",
+      "clean_text": "tá sendo analisado o lance",
+      "is_candidate": false
+    },
+    {
+      "start": 1861.56,
+      "end": 1862.94,
+      "duration": 1.3800000000000026,
+      "text": " Nada a ser marcado.",
+      "clean_text": "nada a ser marcado",
+      "is_candidate": false
+    },
+    {
+      "start": 1863.46,
+      "end": 1869.74,
+      "duration": 6.279999999999994,
+      "text": " Mas por algum momento ali o Ramon ouvia a comunicação com o além.",
+      "clean_text": "mas por algum momento ali o ramon ouvia a comunicação com o além",
+      "is_candidate": false
+    },
+    {
+      "start": 1870.72,
+      "end": 1872.0,
+      "duration": 1.2800000000000011,
+      "text": " Falou o Ramon Abate Abel.",
+      "clean_text": "falou o ramon abate abel",
+      "is_candidate": false
+    },
+    {
+      "start": 1873.96,
+      "end": 1876.6,
+      "duration": 2.6400000000000006,
+      "text": " Olha a ansiedade do Léo Jardim pra que a bola role logo.",
+      "clean_text": "olha a ansiedade do léo jardim pra que a bola role logo",
+      "is_candidate": false
+    },
+    {
+      "start": 1876.66,
+      "end": 1877.24,
+      "duration": 0.5799999999999983,
+      "text": " Hugo Moura.",
+      "clean_text": "hugo moura",
+      "is_candidate": false
+    },
+    {
+      "start": 1879.24,
+      "end": 1882.34,
+      "duration": 3.1000000000000085,
+      "text": " Bosta de bola da equipe do Vasco da Gama.",
+      "clean_text": "bosta de bola da equipe do vasco da gama",
+      "is_candidate": false
+    },
+    {
+      "start": 1882.4,
+      "end": 1884.04,
+      "duration": 1.6399999999999864,
+      "text": " Hugo Moura daqui a pouquinho no Vasco.",
+      "clean_text": "hugo moura daqui a pouquinho no vasco",
+      "is_candidate": false
+    },
+    {
+      "start": 1884.68,
+      "end": 1885.34,
+      "duration": 0.6599999999999966,
+      "text": " Chama não.",
+      "clean_text": "chama não",
+      "is_candidate": false
+    },
+    {
+      "start": 1885.34,
+      "end": 1887.48,
+      "duration": 2.1400000000000006,
+      "text": " Um abraço pra um outro ex-jogador do Vasco.",
+      "clean_text": "um abraço pra um outro exjogador do vasco",
+      "is_candidate": false
+    },
+    {
+      "start": 1887.82,
+      "end": 1889.56,
+      "duration": 1.7399999999999949,
+      "text": " Bernardo Vascaíno, de coração.",
+      "clean_text": "bernardo vascaíno de coração",
+      "is_candidate": false
+    },
+    {
+      "start": 1889.68,
+      "end": 1890.0,
+      "duration": 0.3199999999999932,
+      "text": " Alô, Bernardo.",
+      "clean_text": "alô bernardo",
+      "is_candidate": false
+    }
+  ]
+}

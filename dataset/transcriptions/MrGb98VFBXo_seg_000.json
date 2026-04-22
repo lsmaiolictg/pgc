@@ -1,0 +1,417 @@
+{
+  "video_id": "MrGb98VFBXo",
+  "segment_file": "MrGb98VFBXo_seg_000.wav",
+  "segment_start": 0,
+  "segment_end": 90,
+  "full_text": " certo momento, o domínio, né? O controle  do jogo.  Vamos pro jogo!  Bola rolando no segundo tempo!  Copa  do Brasil.  É na GTV, rapaz!  Primeiro  lance do segundo tempo, deixa ali  a sola do pé.  Amostra o Thiago Mendes, leva o cartão  amarelo. Já tem  pedido de expulsão aí pelo lado  do Paysandu com 10  segundos de jogo.  O Thiago Mendes tem que esfriar a cabeça  nesse momento, né? E não era o Pumita, hein?  Não era o Pumita!  É o Thiago Mendes  tapilhado.  Discutiu com o Pumita ali na saída  do gramado. Já leva o cartão amarelo, tem  pedido de expulsão aí pelo lado do Paysandu.  No lance corrido  eu não achei que foi pra expulsão. Vou ter que rever  aqui. Vamos ver agora.  Na tela... Não, ele  recolhe, né?  O Adão encosta no jogador do  Paysandu. Até porque  ele tá brigando pela bola, mas eu não sei se é  pra expulsão, não. O cartão amarelo  foi muito bem dado pelo Ramon Batabel, mas  não sei se é pra expulsão, não.  Tem que se ligar ali. Olha lá, tá dizendo o jogador  do Paysandu. Pegou, pegou, né?  Pro Thiago.  10 segundos de jogo.  O jogo tá milhão, é falta pra equipe do Paysandu.  Tem lançamento no comando de ataque.  Subiu o Pumita pra atirar.  Spinelli.  O quadrileta só foi uma coisa da collaboración de um  de Winzler, Half-Life 2 da themed.  Ainda mais pra aparecer essa bíblia sobre  o grupo technically playing.  Olha isso.  Isso é fantástico.  Ruim do و  Fui...  born again With you...",
+  "transcription": [
+    {
+      "start": 0.0,
+      "end": 2.2800000000000002,
+      "duration": 2.2800000000000002,
+      "text": " certo momento, o domínio, né? O controle",
+      "clean_text": "certo momento o domínio né o controle",
+      "is_candidate": false
+    },
+    {
+      "start": 2.2800000000000002,
+      "end": 2.86,
+      "duration": 0.5799999999999996,
+      "text": " do jogo.",
+      "clean_text": "do jogo",
+      "is_candidate": false
+    },
+    {
+      "start": 3.86,
+      "end": 4.86,
+      "duration": 1.0000000000000004,
+      "text": " Vamos pro jogo!",
+      "clean_text": "vamos pro jogo",
+      "is_candidate": false
+    },
+    {
+      "start": 5.96,
+      "end": 8.06,
+      "duration": 2.1000000000000005,
+      "text": " Bola rolando no segundo tempo!",
+      "clean_text": "bola rolando no segundo tempo",
+      "is_candidate": false
+    },
+    {
+      "start": 9.6,
+      "end": 10.200000000000001,
+      "duration": 0.6000000000000014,
+      "text": " Copa",
+      "clean_text": "copa",
+      "is_candidate": false
+    },
+    {
+      "start": 10.200000000000001,
+      "end": 10.8,
+      "duration": 0.5999999999999996,
+      "text": " do Brasil.",
+      "clean_text": "do brasil",
+      "is_candidate": false
+    },
+    {
+      "start": 11.74,
+      "end": 14.540000000000001,
+      "duration": 2.8000000000000007,
+      "text": " É na GTV, rapaz!",
+      "clean_text": "é na gtv rapaz",
+      "is_candidate": false
+    },
+    {
+      "start": 15.44,
+      "end": 16.04,
+      "duration": 0.5999999999999996,
+      "text": " Primeiro",
+      "clean_text": "primeiro",
+      "is_candidate": false
+    },
+    {
+      "start": 16.04,
+      "end": 17.900000000000002,
+      "duration": 1.860000000000003,
+      "text": " lance do segundo tempo, deixa ali",
+      "clean_text": "lance do segundo tempo deixa ali",
+      "is_candidate": false
+    },
+    {
+      "start": 17.900000000000002,
+      "end": 19.1,
+      "duration": 1.1999999999999993,
+      "text": " a sola do pé.",
+      "clean_text": "a sola do pé",
+      "is_candidate": false
+    },
+    {
+      "start": 19.94,
+      "end": 21.98,
+      "duration": 2.039999999999999,
+      "text": " Amostra o Thiago Mendes, leva o cartão",
+      "clean_text": "amostra o thiago mendes leva o cartão",
+      "is_candidate": true
+    },
+    {
+      "start": 21.98,
+      "end": 24.1,
+      "duration": 2.120000000000001,
+      "text": " amarelo. Já tem",
+      "clean_text": "amarelo já tem",
+      "is_candidate": true
+    },
+    {
+      "start": 24.1,
+      "end": 25.92,
+      "duration": 1.8200000000000003,
+      "text": " pedido de expulsão aí pelo lado",
+      "clean_text": "pedido de expulsão aí pelo lado",
+      "is_candidate": false
+    },
+    {
+      "start": 25.92,
+      "end": 27.98,
+      "duration": 2.0599999999999987,
+      "text": " do Paysandu com 10",
+      "clean_text": "do paysandu com 10",
+      "is_candidate": false
+    },
+    {
+      "start": 27.98,
+      "end": 28.94,
+      "duration": 0.9600000000000009,
+      "text": " segundos de jogo.",
+      "clean_text": "segundos de jogo",
+      "is_candidate": false
+    },
+    {
+      "start": 30.0,
+      "end": 32.78,
+      "duration": 2.780000000000001,
+      "text": " O Thiago Mendes tem que esfriar a cabeça",
+      "clean_text": "o thiago mendes tem que esfriar a cabeça",
+      "is_candidate": false
+    },
+    {
+      "start": 32.78,
+      "end": 34.4,
+      "duration": 1.6199999999999974,
+      "text": " nesse momento, né? E não era o Pumita, hein?",
+      "clean_text": "nesse momento né e não era o pumita hein",
+      "is_candidate": false
+    },
+    {
+      "start": 34.82,
+      "end": 36.06,
+      "duration": 1.240000000000002,
+      "text": " Não era o Pumita!",
+      "clean_text": "não era o pumita",
+      "is_candidate": false
+    },
+    {
+      "start": 38.06,
+      "end": 39.06,
+      "duration": 1.0,
+      "text": " É o Thiago Mendes",
+      "clean_text": "é o thiago mendes",
+      "is_candidate": false
+    },
+    {
+      "start": 39.06,
+      "end": 39.9,
+      "duration": 0.8399999999999963,
+      "text": " tapilhado.",
+      "clean_text": "tapilhado",
+      "is_candidate": false
+    },
+    {
+      "start": 40.86,
+      "end": 42.38,
+      "duration": 1.5200000000000031,
+      "text": " Discutiu com o Pumita ali na saída",
+      "clean_text": "discutiu com o pumita ali na saída",
+      "is_candidate": false
+    },
+    {
+      "start": 42.38,
+      "end": 44.72,
+      "duration": 2.3399999999999963,
+      "text": " do gramado. Já leva o cartão amarelo, tem",
+      "clean_text": "do gramado já leva o cartão amarelo tem",
+      "is_candidate": true
+    },
+    {
+      "start": 44.72,
+      "end": 46.620000000000005,
+      "duration": 1.9000000000000057,
+      "text": " pedido de expulsão aí pelo lado do Paysandu.",
+      "clean_text": "pedido de expulsão aí pelo lado do paysandu",
+      "is_candidate": false
+    },
+    {
+      "start": 47.58,
+      "end": 48.879999999999995,
+      "duration": 1.2999999999999972,
+      "text": " No lance corrido",
+      "clean_text": "no lance corrido",
+      "is_candidate": false
+    },
+    {
+      "start": 48.879999999999995,
+      "end": 50.86,
+      "duration": 1.980000000000004,
+      "text": " eu não achei que foi pra expulsão. Vou ter que rever",
+      "clean_text": "eu não achei que foi pra expulsão vou ter que rever",
+      "is_candidate": false
+    },
+    {
+      "start": 50.86,
+      "end": 52.66,
+      "duration": 1.7999999999999972,
+      "text": " aqui. Vamos ver agora.",
+      "clean_text": "aqui vamos ver agora",
+      "is_candidate": false
+    },
+    {
+      "start": 54.66,
+      "end": 56.56,
+      "duration": 1.9000000000000057,
+      "text": " Na tela... Não, ele",
+      "clean_text": "na tela não ele",
+      "is_candidate": false
+    },
+    {
+      "start": 56.56,
+      "end": 57.24,
+      "duration": 0.6799999999999997,
+      "text": " recolhe, né?",
+      "clean_text": "recolhe né",
+      "is_candidate": false
+    },
+    {
+      "start": 58.04,
+      "end": 59.980000000000004,
+      "duration": 1.9400000000000048,
+      "text": " O Adão encosta no jogador do",
+      "clean_text": "o adão encosta no jogador do",
+      "is_candidate": false
+    },
+    {
+      "start": 59.98,
+      "end": 62.0,
+      "duration": 2.020000000000003,
+      "text": " Paysandu. Até porque",
+      "clean_text": "paysandu até porque",
+      "is_candidate": false
+    },
+    {
+      "start": 62.0,
+      "end": 63.919999999999995,
+      "duration": 1.9199999999999946,
+      "text": " ele tá brigando pela bola, mas eu não sei se é",
+      "clean_text": "ele tá brigando pela bola mas eu não sei se é",
+      "is_candidate": false
+    },
+    {
+      "start": 63.919999999999995,
+      "end": 66.17999999999999,
+      "duration": 2.259999999999998,
+      "text": " pra expulsão, não. O cartão amarelo",
+      "clean_text": "pra expulsão não o cartão amarelo",
+      "is_candidate": true
+    },
+    {
+      "start": 66.17999999999999,
+      "end": 68.02,
+      "duration": 1.8400000000000034,
+      "text": " foi muito bem dado pelo Ramon Batabel, mas",
+      "clean_text": "foi muito bem dado pelo ramon batabel mas",
+      "is_candidate": false
+    },
+    {
+      "start": 68.02,
+      "end": 69.34,
+      "duration": 1.3200000000000074,
+      "text": " não sei se é pra expulsão, não.",
+      "clean_text": "não sei se é pra expulsão não",
+      "is_candidate": false
+    },
+    {
+      "start": 69.58,
+      "end": 72.02,
+      "duration": 2.4399999999999977,
+      "text": " Tem que se ligar ali. Olha lá, tá dizendo o jogador",
+      "clean_text": "tem que se ligar ali olha lá tá dizendo o jogador",
+      "is_candidate": false
+    },
+    {
+      "start": 72.02,
+      "end": 73.8,
+      "duration": 1.7800000000000011,
+      "text": " do Paysandu. Pegou, pegou, né?",
+      "clean_text": "do paysandu pegou pegou né",
+      "is_candidate": false
+    },
+    {
+      "start": 74.53999999999999,
+      "end": 75.36,
+      "duration": 0.8200000000000074,
+      "text": " Pro Thiago.",
+      "clean_text": "pro thiago",
+      "is_candidate": false
+    },
+    {
+      "start": 76.53999999999999,
+      "end": 78.06,
+      "duration": 1.5200000000000102,
+      "text": " 10 segundos de jogo.",
+      "clean_text": "10 segundos de jogo",
+      "is_candidate": false
+    },
+    {
+      "start": 79.94,
+      "end": 82.24,
+      "duration": 2.299999999999997,
+      "text": " O jogo tá milhão, é falta pra equipe do Paysandu.",
+      "clean_text": "o jogo tá milhão é falta pra equipe do paysandu",
+      "is_candidate": false
+    },
+    {
+      "start": 83.88,
+      "end": 85.3,
+      "duration": 1.4200000000000017,
+      "text": " Tem lançamento no comando de ataque.",
+      "clean_text": "tem lançamento no comando de ataque",
+      "is_candidate": false
+    },
+    {
+      "start": 86.66,
+      "end": 88.03999999999999,
+      "duration": 1.3799999999999955,
+      "text": " Subiu o Pumita pra atirar.",
+      "clean_text": "subiu o pumita pra atirar",
+      "is_candidate": false
+    },
+    {
+      "start": 88.78,
+      "end": 89.25999999999999,
+      "duration": 0.47999999999998977,
+      "text": " Spinelli.",
+      "clean_text": "spinelli",
+      "is_candidate": false
+    },
+    {
+      "start": 89.98,
+      "end": 99.52000000000001,
+      "duration": 9.540000000000006,
+      "text": " O quadrileta só foi uma coisa da collaboración de um",
+      "clean_text": "o quadrileta só foi uma coisa da collaboración de um",
+      "is_candidate": false
+    },
+    {
+      "start": 99.52000000000001,
+      "end": 100.82000000000001,
+      "duration": 1.2999999999999972,
+      "text": " de Winzler, Half-Life 2 da themed.",
+      "clean_text": "de winzler halflife 2 da themed",
+      "is_candidate": false
+    },
+    {
+      "start": 101.02000000000001,
+      "end": 102.72,
+      "duration": 1.6999999999999886,
+      "text": " Ainda mais pra aparecer essa bíblia sobre",
+      "clean_text": "ainda mais pra aparecer essa bíblia sobre",
+      "is_candidate": false
+    },
+    {
+      "start": 102.72,
+      "end": 104.72,
+      "duration": 2.0,
+      "text": " o grupo technically playing.",
+      "clean_text": "o grupo technically playing",
+      "is_candidate": false
+    },
+    {
+      "start": 106.72,
+      "end": 108.76,
+      "duration": 2.0400000000000063,
+      "text": " Olha isso.",
+      "clean_text": "olha isso",
+      "is_candidate": false
+    },
+    {
+      "start": 108.76,
+      "end": 110.22,
+      "duration": 1.4599999999999937,
+      "text": " Isso é fantástico.",
+      "clean_text": "isso é fantástico",
+      "is_candidate": false
+    },
+    {
+      "start": 113.42,
+      "end": 115.68,
+      "duration": 2.260000000000005,
+      "text": " Ruim do و",
+      "clean_text": "ruim do و",
+      "is_candidate": false
+    },
+    {
+      "start": 115.68,
+      "end": 118.60000000000001,
+      "duration": 2.9200000000000017,
+      "text": " Fui...",
+      "clean_text": "fui",
+      "is_candidate": false
+    },
+    {
+      "start": 118.60000000000001,
+      "end": 119.82000000000001,
+      "duration": 1.2199999999999989,
+      "text": " born again With you...",
+      "clean_text": "born again with you",
+      "is_candidate": false
+    }
+  ]
+}

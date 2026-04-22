@@ -1,0 +1,369 @@
+{
+  "video_id": "MrGb98VFBXo",
+  "segment_file": "MrGb98VFBXo_seg_022.wav",
+  "segment_start": 1650,
+  "segment_end": 1740,
+  "full_text": " Andrés Edilson  Teve um trança a pé, né?  Só que aí depois ele deu um salto  Caiu com o Dele  É isso  Caiu com o Dele, o nosso Colômbia  Aí o Andrés Gomes  Escanteio pro Vasco  Cobrado agora pelo Cuiabano  Vem cruzamento na área, tira o goleirão  A bola voltava na entrada da área  Agora se manda o papão  Vai embora o Pai Sandu  Tentou passar ali pela marcação, não conseguiu  Ficou preso o Tarnison dele pro Marcinho  Fecha o espaço, o Cuiabano  E a bola pra fora, lateral pra equipe do Pai Sandu  E você faz uma boa vantagem  No jogo de ida na casa dos caras, né Vasco?  Você tava falando pro calendário  Elenco do Vasco  Três competições  Aí você consegue poupar jogadores na volta  Fazer um 2x0 lá, dá pra negociar, né?  É, e aí o Vasco voltou melhor no segundo tempo  Então dá pra você fazer um jogo  É  Dá pra você buscar mais um gol  E faz um jogo mais tranquilo no jogo da volta  Já priorizando também  Outras competições  Até porque na Sul-Americana o Vasco precisa pontuar também  É  Mas é um jogo melhor no segundo tempo  Do que o primeiro tempo do Vasco  E o Pai Sandu é a mesma coisa  Melhor primeiro tempo do que o segundo tempo do Pai Sandu  Que não consegue jogar muito impulsionado  Pelo que o Vasco marca  Pelo que o Vasco termina as jogadas  Fez isso no primeiro gol com o Andrés Gomes  Fez isso no segundo gol também com o Rojas  Fez isso no segundo gol também com o Rojas  E o Spinelli muito feliz nessa noite, né?  Com dois gols",
+  "transcription": [
+    {
+      "start": 1650.0,
+      "end": 1652.88,
+      "duration": 2.88,
+      "text": " Andrés Edilson",
+      "clean_text": "andrés edilson",
+      "is_candidate": false
+    },
+    {
+      "start": 1652.88,
+      "end": 1655.26,
+      "duration": 2.38,
+      "text": " Teve um trança a pé, né?",
+      "clean_text": "teve um trança a pé né",
+      "is_candidate": false
+    },
+    {
+      "start": 1656.0,
+      "end": 1657.66,
+      "duration": 1.6600000000000001,
+      "text": " Só que aí depois ele deu um salto",
+      "clean_text": "só que aí depois ele deu um salto",
+      "is_candidate": false
+    },
+    {
+      "start": 1657.66,
+      "end": 1658.4,
+      "duration": 0.7400000000000002,
+      "text": " Caiu com o Dele",
+      "clean_text": "caiu com o dele",
+      "is_candidate": false
+    },
+    {
+      "start": 1658.4,
+      "end": 1659.76,
+      "duration": 1.3599999999999994,
+      "text": " É isso",
+      "clean_text": "é isso",
+      "is_candidate": false
+    },
+    {
+      "start": 1659.76,
+      "end": 1663.38,
+      "duration": 3.620000000000001,
+      "text": " Caiu com o Dele, o nosso Colômbia",
+      "clean_text": "caiu com o dele o nosso colômbia",
+      "is_candidate": false
+    },
+    {
+      "start": 1663.38,
+      "end": 1665.06,
+      "duration": 1.6799999999999997,
+      "text": " Aí o Andrés Gomes",
+      "clean_text": "aí o andrés gomes",
+      "is_candidate": false
+    },
+    {
+      "start": 1665.06,
+      "end": 1668.12,
+      "duration": 3.0600000000000005,
+      "text": " Escanteio pro Vasco",
+      "clean_text": "escanteio pro vasco",
+      "is_candidate": false
+    },
+    {
+      "start": 1668.12,
+      "end": 1669.64,
+      "duration": 1.5199999999999996,
+      "text": " Cobrado agora pelo Cuiabano",
+      "clean_text": "cobrado agora pelo cuiabano",
+      "is_candidate": false
+    },
+    {
+      "start": 1669.64,
+      "end": 1671.32,
+      "duration": 1.6799999999999997,
+      "text": " Vem cruzamento na área, tira o goleirão",
+      "clean_text": "vem cruzamento na área tira o goleirão",
+      "is_candidate": true
+    },
+    {
+      "start": 1671.32,
+      "end": 1673.88,
+      "duration": 2.5599999999999987,
+      "text": " A bola voltava na entrada da área",
+      "clean_text": "a bola voltava na entrada da área",
+      "is_candidate": false
+    },
+    {
+      "start": 1673.88,
+      "end": 1675.64,
+      "duration": 1.7600000000000016,
+      "text": " Agora se manda o papão",
+      "clean_text": "agora se manda o papão",
+      "is_candidate": false
+    },
+    {
+      "start": 1675.64,
+      "end": 1677.04,
+      "duration": 1.3999999999999986,
+      "text": " Vai embora o Pai Sandu",
+      "clean_text": "vai embora o pai sandu",
+      "is_candidate": false
+    },
+    {
+      "start": 1677.04,
+      "end": 1680.82,
+      "duration": 3.780000000000001,
+      "text": " Tentou passar ali pela marcação, não conseguiu",
+      "clean_text": "tentou passar ali pela marcação não conseguiu",
+      "is_candidate": false
+    },
+    {
+      "start": 1680.82,
+      "end": 1682.68,
+      "duration": 1.8599999999999994,
+      "text": " Ficou preso o Tarnison dele pro Marcinho",
+      "clean_text": "ficou preso o tarnison dele pro marcinho",
+      "is_candidate": false
+    },
+    {
+      "start": 1682.68,
+      "end": 1684.96,
+      "duration": 2.280000000000001,
+      "text": " Fecha o espaço, o Cuiabano",
+      "clean_text": "fecha o espaço o cuiabano",
+      "is_candidate": false
+    },
+    {
+      "start": 1684.96,
+      "end": 1687.86,
+      "duration": 2.8999999999999986,
+      "text": " E a bola pra fora, lateral pra equipe do Pai Sandu",
+      "clean_text": "e a bola pra fora lateral pra equipe do pai sandu",
+      "is_candidate": false
+    },
+    {
+      "start": 1687.86,
+      "end": 1689.5,
+      "duration": 1.6400000000000006,
+      "text": " E você faz uma boa vantagem",
+      "clean_text": "e você faz uma boa vantagem",
+      "is_candidate": false
+    },
+    {
+      "start": 1689.5,
+      "end": 1691.54,
+      "duration": 2.039999999999999,
+      "text": " No jogo de ida na casa dos caras, né Vasco?",
+      "clean_text": "no jogo de ida na casa dos caras né vasco",
+      "is_candidate": false
+    },
+    {
+      "start": 1691.62,
+      "end": 1693.1,
+      "duration": 1.4799999999999969,
+      "text": " Você tava falando pro calendário",
+      "clean_text": "você tava falando pro calendário",
+      "is_candidate": false
+    },
+    {
+      "start": 1693.1,
+      "end": 1694.74,
+      "duration": 1.6400000000000006,
+      "text": " Elenco do Vasco",
+      "clean_text": "elenco do vasco",
+      "is_candidate": false
+    },
+    {
+      "start": 1694.74,
+      "end": 1696.72,
+      "duration": 1.980000000000004,
+      "text": " Três competições",
+      "clean_text": "três competições",
+      "is_candidate": false
+    },
+    {
+      "start": 1696.72,
+      "end": 1698.58,
+      "duration": 1.8599999999999994,
+      "text": " Aí você consegue poupar jogadores na volta",
+      "clean_text": "aí você consegue poupar jogadores na volta",
+      "is_candidate": false
+    },
+    {
+      "start": 1698.58,
+      "end": 1700.96,
+      "duration": 2.3800000000000026,
+      "text": " Fazer um 2x0 lá, dá pra negociar, né?",
+      "clean_text": "fazer um 2x0 lá dá pra negociar né",
+      "is_candidate": false
+    },
+    {
+      "start": 1701.3,
+      "end": 1703.6,
+      "duration": 2.3000000000000043,
+      "text": " É, e aí o Vasco voltou melhor no segundo tempo",
+      "clean_text": "é e aí o vasco voltou melhor no segundo tempo",
+      "is_candidate": false
+    },
+    {
+      "start": 1703.6,
+      "end": 1706.02,
+      "duration": 2.4199999999999946,
+      "text": " Então dá pra você fazer um jogo",
+      "clean_text": "então dá pra você fazer um jogo",
+      "is_candidate": false
+    },
+    {
+      "start": 1706.02,
+      "end": 1706.92,
+      "duration": 0.9000000000000057,
+      "text": " É",
+      "clean_text": "é",
+      "is_candidate": false
+    },
+    {
+      "start": 1706.92,
+      "end": 1708.66,
+      "duration": 1.740000000000002,
+      "text": " Dá pra você buscar mais um gol",
+      "clean_text": "dá pra você buscar mais um gol",
+      "is_candidate": true
+    },
+    {
+      "start": 1708.66,
+      "end": 1711.0,
+      "duration": 2.3399999999999963,
+      "text": " E faz um jogo mais tranquilo no jogo da volta",
+      "clean_text": "e faz um jogo mais tranquilo no jogo da volta",
+      "is_candidate": false
+    },
+    {
+      "start": 1711.0,
+      "end": 1713.16,
+      "duration": 2.1600000000000037,
+      "text": " Já priorizando também",
+      "clean_text": "já priorizando também",
+      "is_candidate": false
+    },
+    {
+      "start": 1713.16,
+      "end": 1714.26,
+      "duration": 1.1000000000000014,
+      "text": " Outras competições",
+      "clean_text": "outras competições",
+      "is_candidate": false
+    },
+    {
+      "start": 1714.26,
+      "end": 1716.96,
+      "duration": 2.700000000000003,
+      "text": " Até porque na Sul-Americana o Vasco precisa pontuar também",
+      "clean_text": "até porque na sulamericana o vasco precisa pontuar também",
+      "is_candidate": false
+    },
+    {
+      "start": 1716.96,
+      "end": 1718.08,
+      "duration": 1.1199999999999903,
+      "text": " É",
+      "clean_text": "é",
+      "is_candidate": false
+    },
+    {
+      "start": 1718.08,
+      "end": 1720.6,
+      "duration": 2.519999999999996,
+      "text": " Mas é um jogo melhor no segundo tempo",
+      "clean_text": "mas é um jogo melhor no segundo tempo",
+      "is_candidate": false
+    },
+    {
+      "start": 1720.6,
+      "end": 1721.94,
+      "duration": 1.3400000000000034,
+      "text": " Do que o primeiro tempo do Vasco",
+      "clean_text": "do que o primeiro tempo do vasco",
+      "is_candidate": false
+    },
+    {
+      "start": 1721.94,
+      "end": 1723.16,
+      "duration": 1.2199999999999989,
+      "text": " E o Pai Sandu é a mesma coisa",
+      "clean_text": "e o pai sandu é a mesma coisa",
+      "is_candidate": false
+    },
+    {
+      "start": 1723.16,
+      "end": 1726.38,
+      "duration": 3.219999999999999,
+      "text": " Melhor primeiro tempo do que o segundo tempo do Pai Sandu",
+      "clean_text": "melhor primeiro tempo do que o segundo tempo do pai sandu",
+      "is_candidate": false
+    },
+    {
+      "start": 1726.38,
+      "end": 1728.42,
+      "duration": 2.0400000000000063,
+      "text": " Que não consegue jogar muito impulsionado",
+      "clean_text": "que não consegue jogar muito impulsionado",
+      "is_candidate": false
+    },
+    {
+      "start": 1728.42,
+      "end": 1729.54,
+      "duration": 1.1200000000000045,
+      "text": " Pelo que o Vasco marca",
+      "clean_text": "pelo que o vasco marca",
+      "is_candidate": false
+    },
+    {
+      "start": 1729.54,
+      "end": 1732.34,
+      "duration": 2.799999999999997,
+      "text": " Pelo que o Vasco termina as jogadas",
+      "clean_text": "pelo que o vasco termina as jogadas",
+      "is_candidate": false
+    },
+    {
+      "start": 1732.34,
+      "end": 1734.3,
+      "duration": 1.9599999999999937,
+      "text": " Fez isso no primeiro gol com o Andrés Gomes",
+      "clean_text": "fez isso no primeiro gol com o andrés gomes",
+      "is_candidate": true
+    },
+    {
+      "start": 1734.3,
+      "end": 1736.52,
+      "duration": 2.220000000000013,
+      "text": " Fez isso no segundo gol também com o Rojas",
+      "clean_text": "fez isso no segundo gol também com o rojas",
+      "is_candidate": true
+    },
+    {
+      "start": 1736.52,
+      "end": 1736.9,
+      "duration": 0.37999999999999545,
+      "text": " Fez isso no segundo gol também com o Rojas",
+      "clean_text": "fez isso no segundo gol também com o rojas",
+      "is_candidate": true
+    },
+    {
+      "start": 1736.9,
+      "end": 1739.44,
+      "duration": 2.5400000000000063,
+      "text": " E o Spinelli muito feliz nessa noite, né?",
+      "clean_text": "e o spinelli muito feliz nessa noite né",
+      "is_candidate": false
+    },
+    {
+      "start": 1739.44,
+      "end": 1740.02,
+      "duration": 0.5799999999999983,
+      "text": " Com dois gols",
+      "clean_text": "com dois gols",
+      "is_candidate": true
+    }
+  ]
+}

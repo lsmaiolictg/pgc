@@ -1,0 +1,209 @@
+{
+  "video_id": "MrGb98VFBXo",
+  "segment_file": "MrGb98VFBXo_seg_003.wav",
+  "segment_start": 225,
+  "segment_end": 315,
+  "full_text": " também para ajudar e tirar as costas, né?  Então ele não consegue fazer esse jogo de associação que a gente tanto destacou.  Então o Paissandu até aqui vai fazendo isso muito bem.  Em alguns momentos tem um volante também que fecha, né?  Uma marcação com três jogadores ali, mas sem perder o domínio desse lado do campo.  Agora acertaram o Thiago Mendes por ali, mas o Vasco segue no ataque.  Tietê acelerou!  Spinelli para trás com o Iapano, bateu em cima da zaga.  O Paissandu já tenta buscar o contra-ataque, tem contra-ataque, vem com o Iapano.  Rouba para o Vasco.  Se manda pelo Vasco da Gama, bola do Spinelli para o Tietê.  Andrés Gomes bateu travado, a bola vai para fora.  Que jogo é esse?  Esquenta ainda mais o jogo no segundo tempo, a bola vai para fora.  Ó galera, passamos de 150 mil likes na nossa live, era a meta.  A segunda meta do jogo agora.  Eu tô maluco, eu vou dobrar a meta, hein?  300 mil likes, tá bom, Vasco?  Tá ótimo.  Tem o Vasco jogando ensaiada com o Iapano, cruzamento pelota, cabeçada, Pumita!  Subiu sozinho, Pumita testou para fora.  Pela linha de fundo, atira de meta aí para a equipe do Paissandu, reveja aí.  Subiu ali o Pumita quase na linha da pequena área.  Testando essa bola pela linha.  A linha de fundo é a Copa do Brasil.",
+  "transcription": [
+    {
+      "start": 225.0,
+      "end": 228.04,
+      "duration": 3.04,
+      "text": " também para ajudar e tirar as costas, né?",
+      "clean_text": "também para ajudar e tirar as costas né",
+      "is_candidate": false
+    },
+    {
+      "start": 228.12,
+      "end": 232.92,
+      "duration": 4.8,
+      "text": " Então ele não consegue fazer esse jogo de associação que a gente tanto destacou.",
+      "clean_text": "então ele não consegue fazer esse jogo de associação que a gente tanto destacou",
+      "is_candidate": false
+    },
+    {
+      "start": 233.24,
+      "end": 235.92,
+      "duration": 2.6799999999999997,
+      "text": " Então o Paissandu até aqui vai fazendo isso muito bem.",
+      "clean_text": "então o paissandu até aqui vai fazendo isso muito bem",
+      "is_candidate": false
+    },
+    {
+      "start": 236.2,
+      "end": 238.88,
+      "duration": 2.6799999999999997,
+      "text": " Em alguns momentos tem um volante também que fecha, né?",
+      "clean_text": "em alguns momentos tem um volante também que fecha né",
+      "is_candidate": false
+    },
+    {
+      "start": 238.88,
+      "end": 244.18,
+      "duration": 5.299999999999999,
+      "text": " Uma marcação com três jogadores ali, mas sem perder o domínio desse lado do campo.",
+      "clean_text": "uma marcação com três jogadores ali mas sem perder o domínio desse lado do campo",
+      "is_candidate": false
+    },
+    {
+      "start": 245.08,
+      "end": 248.52,
+      "duration": 3.4399999999999977,
+      "text": " Agora acertaram o Thiago Mendes por ali, mas o Vasco segue no ataque.",
+      "clean_text": "agora acertaram o thiago mendes por ali mas o vasco segue no ataque",
+      "is_candidate": false
+    },
+    {
+      "start": 248.68,
+      "end": 250.32,
+      "duration": 1.6400000000000006,
+      "text": " Tietê acelerou!",
+      "clean_text": "tietê acelerou",
+      "is_candidate": false
+    },
+    {
+      "start": 250.86,
+      "end": 253.76,
+      "duration": 2.900000000000002,
+      "text": " Spinelli para trás com o Iapano, bateu em cima da zaga.",
+      "clean_text": "spinelli para trás com o iapano bateu em cima da zaga",
+      "is_candidate": false
+    },
+    {
+      "start": 253.76,
+      "end": 258.8,
+      "duration": 5.040000000000003,
+      "text": " O Paissandu já tenta buscar o contra-ataque, tem contra-ataque, vem com o Iapano.",
+      "clean_text": "o paissandu já tenta buscar o contraataque tem contraataque vem com o iapano",
+      "is_candidate": false
+    },
+    {
+      "start": 259.34000000000003,
+      "end": 260.34000000000003,
+      "duration": 1.0,
+      "text": " Rouba para o Vasco.",
+      "clean_text": "rouba para o vasco",
+      "is_candidate": false
+    },
+    {
+      "start": 261.72,
+      "end": 264.8,
+      "duration": 3.0800000000000054,
+      "text": " Se manda pelo Vasco da Gama, bola do Spinelli para o Tietê.",
+      "clean_text": "se manda pelo vasco da gama bola do spinelli para o tietê",
+      "is_candidate": false
+    },
+    {
+      "start": 265.4,
+      "end": 267.88,
+      "duration": 2.479999999999997,
+      "text": " Andrés Gomes bateu travado, a bola vai para fora.",
+      "clean_text": "andrés gomes bateu travado a bola vai para fora",
+      "is_candidate": false
+    },
+    {
+      "start": 268.04,
+      "end": 269.36,
+      "duration": 1.3199999999999932,
+      "text": " Que jogo é esse?",
+      "clean_text": "que jogo é esse",
+      "is_candidate": false
+    },
+    {
+      "start": 271.02,
+      "end": 273.7,
+      "duration": 2.6799999999999997,
+      "text": " Esquenta ainda mais o jogo no segundo tempo, a bola vai para fora.",
+      "clean_text": "esquenta ainda mais o jogo no segundo tempo a bola vai para fora",
+      "is_candidate": false
+    },
+    {
+      "start": 276.32,
+      "end": 281.16,
+      "duration": 4.840000000000003,
+      "text": " Ó galera, passamos de 150 mil likes na nossa live, era a meta.",
+      "clean_text": "ó galera passamos de 150 mil likes na nossa live era a meta",
+      "is_candidate": false
+    },
+    {
+      "start": 281.16,
+      "end": 283.7,
+      "duration": 2.539999999999999,
+      "text": " A segunda meta do jogo agora.",
+      "clean_text": "a segunda meta do jogo agora",
+      "is_candidate": false
+    },
+    {
+      "start": 283.76,
+      "end": 287.24,
+      "duration": 3.479999999999997,
+      "text": " Eu tô maluco, eu vou dobrar a meta, hein?",
+      "clean_text": "eu tô maluco eu vou dobrar a meta hein",
+      "is_candidate": false
+    },
+    {
+      "start": 289.03999999999996,
+      "end": 290.98,
+      "duration": 1.940000000000012,
+      "text": " 300 mil likes, tá bom, Vasco?",
+      "clean_text": "300 mil likes tá bom vasco",
+      "is_candidate": false
+    },
+    {
+      "start": 291.1,
+      "end": 291.64,
+      "duration": 0.5400000000000063,
+      "text": " Tá ótimo.",
+      "clean_text": "tá ótimo",
+      "is_candidate": false
+    },
+    {
+      "start": 291.98,
+      "end": 296.64,
+      "duration": 4.659999999999997,
+      "text": " Tem o Vasco jogando ensaiada com o Iapano, cruzamento pelota, cabeçada, Pumita!",
+      "clean_text": "tem o vasco jogando ensaiada com o iapano cruzamento pelota cabeçada pumita",
+      "is_candidate": false
+    },
+    {
+      "start": 298.38,
+      "end": 300.9,
+      "duration": 2.5200000000000102,
+      "text": " Subiu sozinho, Pumita testou para fora.",
+      "clean_text": "subiu sozinho pumita testou para fora",
+      "is_candidate": false
+    },
+    {
+      "start": 304.2,
+      "end": 307.5,
+      "duration": 3.299999999999997,
+      "text": " Pela linha de fundo, atira de meta aí para a equipe do Paissandu, reveja aí.",
+      "clean_text": "pela linha de fundo atira de meta aí para a equipe do paissandu reveja aí",
+      "is_candidate": false
+    },
+    {
+      "start": 308.76,
+      "end": 310.98,
+      "duration": 2.219999999999999,
+      "text": " Subiu ali o Pumita quase na linha da pequena área.",
+      "clean_text": "subiu ali o pumita quase na linha da pequena área",
+      "is_candidate": false
+    },
+    {
+      "start": 312.46,
+      "end": 313.74,
+      "duration": 1.2800000000000011,
+      "text": " Testando essa bola pela linha.",
+      "clean_text": "testando essa bola pela linha",
+      "is_candidate": false
+    },
+    {
+      "start": 313.76,
+      "end": 314.98,
+      "duration": 1.2199999999999989,
+      "text": " A linha de fundo é a Copa do Brasil.",
+      "clean_text": "a linha de fundo é a copa do brasil",
+      "is_candidate": false
+    }
+  ]
+}

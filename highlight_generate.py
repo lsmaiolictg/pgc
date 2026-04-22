@@ -3,7 +3,8 @@ import json
 import subprocess
 
 #Configurações e Constantes
-VIDEO_URL = "https://www.youtube.com/watch?v=x7YCIZCq89U" #Vasco x Palmeiras
+#VIDEO_URL = "https://www.youtube.com/watch?v=x7YCIZCq89U" #Vasco x Palmeiras
+VIDEO_URL = "https://www.youtube.com/watch?v=MrGb98VFBXo" #Vasco x Paysandu
 
 BASE_FOLDER = "dataset"
 VIDEO_FOLDER = os.path.join(BASE_FOLDER, "video")
@@ -12,7 +13,7 @@ CLIP_FOLDER = os.path.join(BASE_FOLDER, "clips")
 
 VIDEO_FILE = os.path.join(VIDEO_FOLDER, "video.mp4")
 
-MAX_CLIP_DURATION = 20  # duração máxima de cada clip
+MAX_CLIP_DURATION = 30  # duração máxima de cada clip
 
 #Funções auxiliares
 def run_command(cmd):

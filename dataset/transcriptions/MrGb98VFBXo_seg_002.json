@@ -1,0 +1,201 @@
+{
+  "video_id": "MrGb98VFBXo",
+  "segment_file": "MrGb98VFBXo_seg_002.wav",
+  "segment_start": 150,
+  "segment_end": 240,
+  "full_text": " Claramente há uma atenção específica ao Andrés Gomes pelo lado do Paissandu na marcação, né?  Daqui a pouco eu vou perguntar para a Jordana se a estratégia de marcar o Andrés está sendo bem executada aí pelo Paissandu.  Thiago Mendes.  Contra o Marcinho, levou aí o Thiago.  Cuiabano!  Domina a posse de bola a equipe do Vasco.  Está aí Robert Renan.  Levanta a cabeça, lançamento é lá do outro lado agora para a movimentação do Pumita.  Se desmarca Rojas.  Para o Escapulil, segue Rojas, bom passe, Pumita.  Vem Tietchan tirar a saga do Paissandu.  Recomendação do Caimão Barro, já começa tudo o time do Vasco.  Há uma marcação específica para o Andrés Gomes aí executada pelo Paissandu, hein Jordana?  Sim, muito bem executado.  Edilson Berrante.  Ele vem por dentro, né, tira o espaço dele.  Quando ele tenta trazer essa bola para abrir o campo, hum, está perigoso isso aí, hein?  Olha só, o Spinelli foi até o final ali.  Quando ele tenta abrir o campo, né, você tem o Edilson que faz essa cobertura e o Henkel,  que é um cara que está descendo também para ajudar e tirar as costas, né?  Então ele não consegue fazer esse jogo de associação que a gente tanto destacou.  Então o Paissandu até aqui vai fazendo isso muito bem.  Em alguns momentos tem um volante.  Também que fecha, né, uma marcação com três.",
+  "transcription": [
+    {
+      "start": 150.0,
+      "end": 156.3,
+      "duration": 6.3,
+      "text": " Claramente há uma atenção específica ao Andrés Gomes pelo lado do Paissandu na marcação, né?",
+      "clean_text": "claramente há uma atenção específica ao andrés gomes pelo lado do paissandu na marcação né",
+      "is_candidate": false
+    },
+    {
+      "start": 156.74,
+      "end": 162.82,
+      "duration": 6.08,
+      "text": " Daqui a pouco eu vou perguntar para a Jordana se a estratégia de marcar o Andrés está sendo bem executada aí pelo Paissandu.",
+      "clean_text": "daqui a pouco eu vou perguntar para a jordana se a estratégia de marcar o andrés está sendo bem executada aí pelo paissandu",
+      "is_candidate": false
+    },
+    {
+      "start": 164.62,
+      "end": 165.66,
+      "duration": 1.0399999999999991,
+      "text": " Thiago Mendes.",
+      "clean_text": "thiago mendes",
+      "is_candidate": false
+    },
+    {
+      "start": 167.96,
+      "end": 169.98,
+      "duration": 2.0199999999999996,
+      "text": " Contra o Marcinho, levou aí o Thiago.",
+      "clean_text": "contra o marcinho levou aí o thiago",
+      "is_candidate": false
+    },
+    {
+      "start": 172.5,
+      "end": 172.94,
+      "duration": 0.4400000000000013,
+      "text": " Cuiabano!",
+      "clean_text": "cuiabano",
+      "is_candidate": false
+    },
+    {
+      "start": 173.66,
+      "end": 175.64,
+      "duration": 1.9800000000000004,
+      "text": " Domina a posse de bola a equipe do Vasco.",
+      "clean_text": "domina a posse de bola a equipe do vasco",
+      "is_candidate": false
+    },
+    {
+      "start": 176.38,
+      "end": 177.64,
+      "duration": 1.2600000000000016,
+      "text": " Está aí Robert Renan.",
+      "clean_text": "está aí robert renan",
+      "is_candidate": false
+    },
+    {
+      "start": 177.64,
+      "end": 182.32,
+      "duration": 4.68,
+      "text": " Levanta a cabeça, lançamento é lá do outro lado agora para a movimentação do Pumita.",
+      "clean_text": "levanta a cabeça lançamento é lá do outro lado agora para a movimentação do pumita",
+      "is_candidate": false
+    },
+    {
+      "start": 184.4,
+      "end": 185.64,
+      "duration": 1.240000000000002,
+      "text": " Se desmarca Rojas.",
+      "clean_text": "se desmarca rojas",
+      "is_candidate": false
+    },
+    {
+      "start": 186.68,
+      "end": 189.76,
+      "duration": 3.0800000000000054,
+      "text": " Para o Escapulil, segue Rojas, bom passe, Pumita.",
+      "clean_text": "para o escapulil segue rojas bom passe pumita",
+      "is_candidate": false
+    },
+    {
+      "start": 190.46,
+      "end": 192.34,
+      "duration": 1.8800000000000026,
+      "text": " Vem Tietchan tirar a saga do Paissandu.",
+      "clean_text": "vem tietchan tirar a saga do paissandu",
+      "is_candidate": false
+    },
+    {
+      "start": 193.54,
+      "end": 196.94,
+      "duration": 3.3999999999999986,
+      "text": " Recomendação do Caimão Barro, já começa tudo o time do Vasco.",
+      "clean_text": "recomendação do caimão barro já começa tudo o time do vasco",
+      "is_candidate": false
+    },
+    {
+      "start": 198.9,
+      "end": 205.07999999999998,
+      "duration": 6.179999999999993,
+      "text": " Há uma marcação específica para o Andrés Gomes aí executada pelo Paissandu, hein Jordana?",
+      "clean_text": "há uma marcação específica para o andrés gomes aí executada pelo paissandu hein jordana",
+      "is_candidate": false
+    },
+    {
+      "start": 205.07999999999998,
+      "end": 207.01999999999998,
+      "duration": 1.9399999999999977,
+      "text": " Sim, muito bem executado.",
+      "clean_text": "sim muito bem executado",
+      "is_candidate": false
+    },
+    {
+      "start": 207.12,
+      "end": 207.57999999999998,
+      "duration": 0.45999999999999375,
+      "text": " Edilson Berrante.",
+      "clean_text": "edilson berrante",
+      "is_candidate": false
+    },
+    {
+      "start": 207.64,
+      "end": 209.78,
+      "duration": 2.1400000000000006,
+      "text": " Ele vem por dentro, né, tira o espaço dele.",
+      "clean_text": "ele vem por dentro né tira o espaço dele",
+      "is_candidate": false
+    },
+    {
+      "start": 209.88,
+      "end": 215.07999999999998,
+      "duration": 5.199999999999996,
+      "text": " Quando ele tenta trazer essa bola para abrir o campo, hum, está perigoso isso aí, hein?",
+      "clean_text": "quando ele tenta trazer essa bola para abrir o campo hum está perigoso isso aí hein",
+      "is_candidate": false
+    },
+    {
+      "start": 215.28,
+      "end": 217.46,
+      "duration": 2.180000000000007,
+      "text": " Olha só, o Spinelli foi até o final ali.",
+      "clean_text": "olha só o spinelli foi até o final ali",
+      "is_candidate": false
+    },
+    {
+      "start": 217.98000000000002,
+      "end": 223.46,
+      "duration": 5.480000000000004,
+      "text": " Quando ele tenta abrir o campo, né, você tem o Edilson que faz essa cobertura e o Henkel,",
+      "clean_text": "quando ele tenta abrir o campo né você tem o edilson que faz essa cobertura e o henkel",
+      "is_candidate": false
+    },
+    {
+      "start": 223.72,
+      "end": 228.04000000000002,
+      "duration": 4.320000000000007,
+      "text": " que é um cara que está descendo também para ajudar e tirar as costas, né?",
+      "clean_text": "que é um cara que está descendo também para ajudar e tirar as costas né",
+      "is_candidate": false
+    },
+    {
+      "start": 228.12,
+      "end": 232.9,
+      "duration": 4.780000000000001,
+      "text": " Então ele não consegue fazer esse jogo de associação que a gente tanto destacou.",
+      "clean_text": "então ele não consegue fazer esse jogo de associação que a gente tanto destacou",
+      "is_candidate": false
+    },
+    {
+      "start": 232.9,
+      "end": 235.94,
+      "duration": 3.039999999999992,
+      "text": " Então o Paissandu até aqui vai fazendo isso muito bem.",
+      "clean_text": "então o paissandu até aqui vai fazendo isso muito bem",
+      "is_candidate": false
+    },
+    {
+      "start": 236.26,
+      "end": 237.56,
+      "duration": 1.2999999999999972,
+      "text": " Em alguns momentos tem um volante.",
+      "clean_text": "em alguns momentos tem um volante",
+      "is_candidate": false
+    },
+    {
+      "start": 237.64,
+      "end": 239.92000000000002,
+      "duration": 2.280000000000001,
+      "text": " Também que fecha, né, uma marcação com três.",
+      "clean_text": "também que fecha né uma marcação com três",
+      "is_candidate": false
+    }
+  ]
+}

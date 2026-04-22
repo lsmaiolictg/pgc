@@ -1,0 +1,273 @@
+{
+  "video_id": "MrGb98VFBXo",
+  "segment_file": "MrGb98VFBXo_seg_018.wav",
+  "segment_start": 1350,
+  "segment_end": 1440,
+  "full_text": " Cabeça quente o Thiago Mendes hoje, hein, Robertinho?  Manda aí.  Exatamente.  O pessoal foi pra cima dele ali pra cobrar.  Tem um jogador, o Brian, tá caído ali.  Jogador do Paysandu.  E foram cobrar o Spinelli, ele chegou junto.  Aí foi todo mundo pra cima do Thiago Mendes, sabendo que ele tem cartão amarelo.  Foi todo mundo pra cima dele.  Ô, Cantarelli, eu vou falar, mas com 0% de convicção, tá?  Agora vai.  Brenner vai entrar.  O Adson vai entrar.  E o Renato chamou o Nuno Moreira também pra entrar no time do Vasco.  Então vão ser três alterações de uma só vez.  Estão na beira do campo.  Ao que tudo indica, vão entrar.  E o jogador do Paysandu tá sendo carregado agora pra deixar o campo, cara.  O Barros tá carregando ele ali junto do médico do Paysandu.  Bem impressionante essa imagem aqui.  O jogador saindo carregado do Paysandu.  Vai ter alteração já já também.  O Camisa 5 vai entrar.  O Henrico no lugar do Brian, que acabou de entrar, cara.  Que azar, hein?  Cara, o Brian entrou, se machucou, que não seja nada grave.  Três alterações aí na equipe do Vasco.  A gente já já atualiza.  Vem aí, Brenner.  Vem aí, Nuno Moreira, o Tietê, um dos jogadores que vai sair, né?  Não é?  Não é?  A equipe do Vasco da Gama.",
+  "transcription": [
+    {
+      "start": 1350.0,
+      "end": 1352.6,
+      "duration": 2.6,
+      "text": " Cabeça quente o Thiago Mendes hoje, hein, Robertinho?",
+      "clean_text": "cabeça quente o thiago mendes hoje hein robertinho",
+      "is_candidate": false
+    },
+    {
+      "start": 1352.7,
+      "end": 1353.08,
+      "duration": 0.3799999999999999,
+      "text": " Manda aí.",
+      "clean_text": "manda aí",
+      "is_candidate": false
+    },
+    {
+      "start": 1356.96,
+      "end": 1357.44,
+      "duration": 0.4800000000000004,
+      "text": " Exatamente.",
+      "clean_text": "exatamente",
+      "is_candidate": false
+    },
+    {
+      "start": 1357.72,
+      "end": 1360.34,
+      "duration": 2.62,
+      "text": " O pessoal foi pra cima dele ali pra cobrar.",
+      "clean_text": "o pessoal foi pra cima dele ali pra cobrar",
+      "is_candidate": false
+    },
+    {
+      "start": 1360.5,
+      "end": 1363.84,
+      "duration": 3.34,
+      "text": " Tem um jogador, o Brian, tá caído ali.",
+      "clean_text": "tem um jogador o brian tá caído ali",
+      "is_candidate": false
+    },
+    {
+      "start": 1364.34,
+      "end": 1365.56,
+      "duration": 1.2200000000000006,
+      "text": " Jogador do Paysandu.",
+      "clean_text": "jogador do paysandu",
+      "is_candidate": false
+    },
+    {
+      "start": 1366.08,
+      "end": 1368.26,
+      "duration": 2.1799999999999997,
+      "text": " E foram cobrar o Spinelli, ele chegou junto.",
+      "clean_text": "e foram cobrar o spinelli ele chegou junto",
+      "is_candidate": false
+    },
+    {
+      "start": 1368.78,
+      "end": 1372.4,
+      "duration": 3.620000000000001,
+      "text": " Aí foi todo mundo pra cima do Thiago Mendes, sabendo que ele tem cartão amarelo.",
+      "clean_text": "aí foi todo mundo pra cima do thiago mendes sabendo que ele tem cartão amarelo",
+      "is_candidate": true
+    },
+    {
+      "start": 1372.8,
+      "end": 1374.04,
+      "duration": 1.2399999999999984,
+      "text": " Foi todo mundo pra cima dele.",
+      "clean_text": "foi todo mundo pra cima dele",
+      "is_candidate": false
+    },
+    {
+      "start": 1374.04,
+      "end": 1378.7,
+      "duration": 4.66,
+      "text": " Ô, Cantarelli, eu vou falar, mas com 0% de convicção, tá?",
+      "clean_text": "ô cantarelli eu vou falar mas com 0 de convicção tá",
+      "is_candidate": false
+    },
+    {
+      "start": 1378.7,
+      "end": 1380.08,
+      "duration": 1.379999999999999,
+      "text": " Agora vai.",
+      "clean_text": "agora vai",
+      "is_candidate": false
+    },
+    {
+      "start": 1380.78,
+      "end": 1381.9,
+      "duration": 1.1199999999999974,
+      "text": " Brenner vai entrar.",
+      "clean_text": "brenner vai entrar",
+      "is_candidate": false
+    },
+    {
+      "start": 1382.44,
+      "end": 1383.9,
+      "duration": 1.4600000000000009,
+      "text": " O Adson vai entrar.",
+      "clean_text": "o adson vai entrar",
+      "is_candidate": false
+    },
+    {
+      "start": 1384.34,
+      "end": 1388.62,
+      "duration": 4.280000000000001,
+      "text": " E o Renato chamou o Nuno Moreira também pra entrar no time do Vasco.",
+      "clean_text": "e o renato chamou o nuno moreira também pra entrar no time do vasco",
+      "is_candidate": false
+    },
+    {
+      "start": 1388.7,
+      "end": 1391.9,
+      "duration": 3.1999999999999957,
+      "text": " Então vão ser três alterações de uma só vez.",
+      "clean_text": "então vão ser três alterações de uma só vez",
+      "is_candidate": false
+    },
+    {
+      "start": 1392.42,
+      "end": 1393.96,
+      "duration": 1.5399999999999991,
+      "text": " Estão na beira do campo.",
+      "clean_text": "estão na beira do campo",
+      "is_candidate": false
+    },
+    {
+      "start": 1394.52,
+      "end": 1396.92,
+      "duration": 2.4000000000000057,
+      "text": " Ao que tudo indica, vão entrar.",
+      "clean_text": "ao que tudo indica vão entrar",
+      "is_candidate": false
+    },
+    {
+      "start": 1397.6,
+      "end": 1402.02,
+      "duration": 4.419999999999995,
+      "text": " E o jogador do Paysandu tá sendo carregado agora pra deixar o campo, cara.",
+      "clean_text": "e o jogador do paysandu tá sendo carregado agora pra deixar o campo cara",
+      "is_candidate": false
+    },
+    {
+      "start": 1403.24,
+      "end": 1407.58,
+      "duration": 4.340000000000003,
+      "text": " O Barros tá carregando ele ali junto do médico do Paysandu.",
+      "clean_text": "o barros tá carregando ele ali junto do médico do paysandu",
+      "is_candidate": false
+    },
+    {
+      "start": 1407.58,
+      "end": 1411.82,
+      "duration": 4.240000000000002,
+      "text": " Bem impressionante essa imagem aqui.",
+      "clean_text": "bem impressionante essa imagem aqui",
+      "is_candidate": false
+    },
+    {
+      "start": 1412.16,
+      "end": 1414.86,
+      "duration": 2.700000000000003,
+      "text": " O jogador saindo carregado do Paysandu.",
+      "clean_text": "o jogador saindo carregado do paysandu",
+      "is_candidate": false
+    },
+    {
+      "start": 1414.96,
+      "end": 1417.22,
+      "duration": 2.260000000000005,
+      "text": " Vai ter alteração já já também.",
+      "clean_text": "vai ter alteração já já também",
+      "is_candidate": false
+    },
+    {
+      "start": 1418.16,
+      "end": 1419.98,
+      "duration": 1.8200000000000074,
+      "text": " O Camisa 5 vai entrar.",
+      "clean_text": "o camisa 5 vai entrar",
+      "is_candidate": false
+    },
+    {
+      "start": 1420.4,
+      "end": 1423.76,
+      "duration": 3.359999999999985,
+      "text": " O Henrico no lugar do Brian, que acabou de entrar, cara.",
+      "clean_text": "o henrico no lugar do brian que acabou de entrar cara",
+      "is_candidate": false
+    },
+    {
+      "start": 1423.82,
+      "end": 1424.5,
+      "duration": 0.6800000000000068,
+      "text": " Que azar, hein?",
+      "clean_text": "que azar hein",
+      "is_candidate": false
+    },
+    {
+      "start": 1424.76,
+      "end": 1427.62,
+      "duration": 2.8600000000000136,
+      "text": " Cara, o Brian entrou, se machucou, que não seja nada grave.",
+      "clean_text": "cara o brian entrou se machucou que não seja nada grave",
+      "is_candidate": false
+    },
+    {
+      "start": 1428.3,
+      "end": 1429.8,
+      "duration": 1.5,
+      "text": " Três alterações aí na equipe do Vasco.",
+      "clean_text": "três alterações aí na equipe do vasco",
+      "is_candidate": false
+    },
+    {
+      "start": 1429.86,
+      "end": 1430.8,
+      "duration": 0.9399999999999977,
+      "text": " A gente já já atualiza.",
+      "clean_text": "a gente já já atualiza",
+      "is_candidate": false
+    },
+    {
+      "start": 1430.92,
+      "end": 1431.58,
+      "duration": 0.6599999999999966,
+      "text": " Vem aí, Brenner.",
+      "clean_text": "vem aí brenner",
+      "is_candidate": false
+    },
+    {
+      "start": 1432.18,
+      "end": 1435.04,
+      "duration": 2.859999999999985,
+      "text": " Vem aí, Nuno Moreira, o Tietê, um dos jogadores que vai sair, né?",
+      "clean_text": "vem aí nuno moreira o tietê um dos jogadores que vai sair né",
+      "is_candidate": false
+    },
+    {
+      "start": 1435.04,
+      "end": 1435.1,
+      "duration": 0.060000000000002274,
+      "text": " Não é?",
+      "clean_text": "não é",
+      "is_candidate": false
+    },
+    {
+      "start": 1436.76,
+      "end": 1437.56,
+      "duration": 0.8000000000000114,
+      "text": " Não é?",
+      "clean_text": "não é",
+      "is_candidate": false
+    },
+    {
+      "start": 1437.58,
+      "end": 1439.6,
+      "duration": 2.019999999999996,
+      "text": " A equipe do Vasco da Gama.",
+      "clean_text": "a equipe do vasco da gama",
+      "is_candidate": false
+    }
+  ]
+}

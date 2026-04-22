@@ -28,10 +28,13 @@ def download_audio_segment(url, start, end, output):
 
 def main():
 
-    url = "https://www.youtube.com/watch?v=x7YCIZCq89U" #Vasco x Palmeiras
+    #url = "https://www.youtube.com/watch?v=x7YCIZCq89U" #Vasco x Palmeiras
+    url = "https://www.youtube.com/watch?v=MrGb98VFBXo" #Vasco x Paysandu
 
-    start_time = "03:24:20"
-    end_time   = "03:37:00"
+    #Empate do Vasco contra o Palmeiras: 03:24:20 - 03:37:00
+    #Segundo tempo Vasco X Paysandu: 02:06:44 - 03:00:00
+    start_time = "02:06:44"
+    end_time   = "03:00:00"
 
     os.makedirs("test_audio", exist_ok=True)
     output_file = "test_audio/game_segment.%(ext)s"

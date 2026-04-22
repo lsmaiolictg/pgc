@@ -1,0 +1,401 @@
+{
+  "video_id": "MrGb98VFBXo",
+  "segment_file": "MrGb98VFBXo_seg_004.wav",
+  "segment_start": 300,
+  "segment_end": 390,
+  "full_text": " Testou para fora.  Pela linha de fundo, atira o de meta aí para a equipe do Paysandu.  Reveja aí.  Subiu ali o pulmão da quase na linha da pequena área.  Testando essa bola pela linha de fundo.  É a Copa do Brasil aqui na GTV.  Eu duvido que o torcedor do Papão, que o torcedor do Vascão,  consegue chegar a essa meta.  Seria espetacular.  300 mil likes na nossa live.  É só dobrar a meta.  Chegamos a 150 mil.  Faltam outros 150 mil.  A meta é altíssima, hein?  Eu não estou nem aí.  Eu estou maluco.  Eu quero 300 mil likes na nossa live.  Solta o dedo no like.  De graça a Copa do Brasil para você, cara.  Só aqui na GTV.  Sensacional.  Jogo desse, né?  A milhão.  Jogo do cara de mata-mata.  Fala, Jordana.  O Vasco pode explorar um pouco mais seu lado direito.  No primeiro tempo.  Até em off aqui, conversando com o Vasco.  A gente estava falando sobre isso.  Como é que vem chegando ali o Andrés até o final.  A bola vai para fora.  Mas escanteio, hein?  Escanteio para o Vasco.  Vai lá o Rojas para fazer a cobrança.  Calma.  Renato Gaúcho tem o plano.  Jogada ensaiada.  Bola para o Rojas.  Cruzamento na área.  Subiu a zaga do Papão para aliviar.  Insiste, Tietê.  Si.  Tua ação foi sua.  Tipo, falha ela para me  Tchau.  Obrigado.  Foi headphones?  Tudo bemNathan?  Na hora, Lilo?",
+  "transcription": [
+    {
+      "start": 300.0,
+      "end": 300.88,
+      "duration": 0.88,
+      "text": " Testou para fora.",
+      "clean_text": "testou para fora",
+      "is_candidate": false
+    },
+    {
+      "start": 304.2,
+      "end": 306.8,
+      "duration": 2.5999999999999996,
+      "text": " Pela linha de fundo, atira o de meta aí para a equipe do Paysandu.",
+      "clean_text": "pela linha de fundo atira o de meta aí para a equipe do paysandu",
+      "is_candidate": false
+    },
+    {
+      "start": 306.86,
+      "end": 307.5,
+      "duration": 0.6399999999999997,
+      "text": " Reveja aí.",
+      "clean_text": "reveja aí",
+      "is_candidate": false
+    },
+    {
+      "start": 308.8,
+      "end": 310.96,
+      "duration": 2.16,
+      "text": " Subiu ali o pulmão da quase na linha da pequena área.",
+      "clean_text": "subiu ali o pulmão da quase na linha da pequena área",
+      "is_candidate": false
+    },
+    {
+      "start": 312.64,
+      "end": 314.14,
+      "duration": 1.5,
+      "text": " Testando essa bola pela linha de fundo.",
+      "clean_text": "testando essa bola pela linha de fundo",
+      "is_candidate": false
+    },
+    {
+      "start": 314.2,
+      "end": 315.8,
+      "duration": 1.5999999999999996,
+      "text": " É a Copa do Brasil aqui na GTV.",
+      "clean_text": "é a copa do brasil aqui na gtv",
+      "is_candidate": false
+    },
+    {
+      "start": 316.8,
+      "end": 321.96,
+      "duration": 5.16,
+      "text": " Eu duvido que o torcedor do Papão, que o torcedor do Vascão,",
+      "clean_text": "eu duvido que o torcedor do papão que o torcedor do vascão",
+      "is_candidate": false
+    },
+    {
+      "start": 322.58,
+      "end": 323.78,
+      "duration": 1.1999999999999993,
+      "text": " consegue chegar a essa meta.",
+      "clean_text": "consegue chegar a essa meta",
+      "is_candidate": false
+    },
+    {
+      "start": 323.78,
+      "end": 326.0,
+      "duration": 2.219999999999999,
+      "text": " Seria espetacular.",
+      "clean_text": "seria espetacular",
+      "is_candidate": false
+    },
+    {
+      "start": 326.18,
+      "end": 328.86,
+      "duration": 2.6799999999999997,
+      "text": " 300 mil likes na nossa live.",
+      "clean_text": "300 mil likes na nossa live",
+      "is_candidate": false
+    },
+    {
+      "start": 330.0,
+      "end": 331.34,
+      "duration": 1.3399999999999999,
+      "text": " É só dobrar a meta.",
+      "clean_text": "é só dobrar a meta",
+      "is_candidate": false
+    },
+    {
+      "start": 331.44,
+      "end": 332.8,
+      "duration": 1.3599999999999959,
+      "text": " Chegamos a 150 mil.",
+      "clean_text": "chegamos a 150 mil",
+      "is_candidate": false
+    },
+    {
+      "start": 333.76,
+      "end": 335.6,
+      "duration": 1.8400000000000034,
+      "text": " Faltam outros 150 mil.",
+      "clean_text": "faltam outros 150 mil",
+      "is_candidate": false
+    },
+    {
+      "start": 335.68,
+      "end": 336.96,
+      "duration": 1.2800000000000011,
+      "text": " A meta é altíssima, hein?",
+      "clean_text": "a meta é altíssima hein",
+      "is_candidate": false
+    },
+    {
+      "start": 339.08,
+      "end": 340.12,
+      "duration": 1.0400000000000063,
+      "text": " Eu não estou nem aí.",
+      "clean_text": "eu não estou nem aí",
+      "is_candidate": false
+    },
+    {
+      "start": 340.15999999999997,
+      "end": 340.92,
+      "duration": 0.7600000000000051,
+      "text": " Eu estou maluco.",
+      "clean_text": "eu estou maluco",
+      "is_candidate": false
+    },
+    {
+      "start": 341.0,
+      "end": 343.06,
+      "duration": 2.0600000000000023,
+      "text": " Eu quero 300 mil likes na nossa live.",
+      "clean_text": "eu quero 300 mil likes na nossa live",
+      "is_candidate": false
+    },
+    {
+      "start": 343.24,
+      "end": 344.28,
+      "duration": 1.0399999999999991,
+      "text": " Solta o dedo no like.",
+      "clean_text": "solta o dedo no like",
+      "is_candidate": false
+    },
+    {
+      "start": 345.3,
+      "end": 347.28,
+      "duration": 1.980000000000004,
+      "text": " De graça a Copa do Brasil para você, cara.",
+      "clean_text": "de graça a copa do brasil para você cara",
+      "is_candidate": false
+    },
+    {
+      "start": 347.44,
+      "end": 348.44,
+      "duration": 1.0,
+      "text": " Só aqui na GTV.",
+      "clean_text": "só aqui na gtv",
+      "is_candidate": false
+    },
+    {
+      "start": 348.96,
+      "end": 349.4,
+      "duration": 0.44000000000000483,
+      "text": " Sensacional.",
+      "clean_text": "sensacional",
+      "is_candidate": false
+    },
+    {
+      "start": 350.72,
+      "end": 351.64,
+      "duration": 0.9200000000000017,
+      "text": " Jogo desse, né?",
+      "clean_text": "jogo desse né",
+      "is_candidate": false
+    },
+    {
+      "start": 351.64,
+      "end": 352.12,
+      "duration": 0.480000000000004,
+      "text": " A milhão.",
+      "clean_text": "a milhão",
+      "is_candidate": false
+    },
+    {
+      "start": 352.82,
+      "end": 354.28,
+      "duration": 1.4600000000000009,
+      "text": " Jogo do cara de mata-mata.",
+      "clean_text": "jogo do cara de matamata",
+      "is_candidate": false
+    },
+    {
+      "start": 354.28,
+      "end": 355.1,
+      "duration": 0.8200000000000003,
+      "text": " Fala, Jordana.",
+      "clean_text": "fala jordana",
+      "is_candidate": false
+    },
+    {
+      "start": 355.32,
+      "end": 358.1,
+      "duration": 2.780000000000001,
+      "text": " O Vasco pode explorar um pouco mais seu lado direito.",
+      "clean_text": "o vasco pode explorar um pouco mais seu lado direito",
+      "is_candidate": false
+    },
+    {
+      "start": 358.5,
+      "end": 359.42,
+      "duration": 0.9200000000000017,
+      "text": " No primeiro tempo.",
+      "clean_text": "no primeiro tempo",
+      "is_candidate": false
+    },
+    {
+      "start": 359.42,
+      "end": 361.38,
+      "duration": 1.9600000000000009,
+      "text": " Até em off aqui, conversando com o Vasco.",
+      "clean_text": "até em off aqui conversando com o vasco",
+      "is_candidate": false
+    },
+    {
+      "start": 361.48,
+      "end": 363.72,
+      "duration": 2.239999999999995,
+      "text": " A gente estava falando sobre isso.",
+      "clean_text": "a gente estava falando sobre isso",
+      "is_candidate": false
+    },
+    {
+      "start": 365.54,
+      "end": 367.54,
+      "duration": 2.0,
+      "text": " Como é que vem chegando ali o Andrés até o final.",
+      "clean_text": "como é que vem chegando ali o andrés até o final",
+      "is_candidate": false
+    },
+    {
+      "start": 367.68,
+      "end": 368.46000000000004,
+      "duration": 0.7800000000000011,
+      "text": " A bola vai para fora.",
+      "clean_text": "a bola vai para fora",
+      "is_candidate": false
+    },
+    {
+      "start": 370.86,
+      "end": 371.74,
+      "duration": 0.8800000000000097,
+      "text": " Mas escanteio, hein?",
+      "clean_text": "mas escanteio hein",
+      "is_candidate": false
+    },
+    {
+      "start": 372.84000000000003,
+      "end": 373.74,
+      "duration": 0.9000000000000057,
+      "text": " Escanteio para o Vasco.",
+      "clean_text": "escanteio para o vasco",
+      "is_candidate": false
+    },
+    {
+      "start": 373.84000000000003,
+      "end": 375.6,
+      "duration": 1.759999999999991,
+      "text": " Vai lá o Rojas para fazer a cobrança.",
+      "clean_text": "vai lá o rojas para fazer a cobrança",
+      "is_candidate": false
+    },
+    {
+      "start": 377.14,
+      "end": 377.58,
+      "duration": 0.4399999999999977,
+      "text": " Calma.",
+      "clean_text": "calma",
+      "is_candidate": false
+    },
+    {
+      "start": 378.0,
+      "end": 379.72,
+      "duration": 1.7199999999999989,
+      "text": " Renato Gaúcho tem o plano.",
+      "clean_text": "renato gaúcho tem o plano",
+      "is_candidate": false
+    },
+    {
+      "start": 382.52,
+      "end": 383.65999999999997,
+      "duration": 1.1399999999999864,
+      "text": " Jogada ensaiada.",
+      "clean_text": "jogada ensaiada",
+      "is_candidate": false
+    },
+    {
+      "start": 383.78,
+      "end": 384.62,
+      "duration": 0.8400000000000034,
+      "text": " Bola para o Rojas.",
+      "clean_text": "bola para o rojas",
+      "is_candidate": false
+    },
+    {
+      "start": 384.94,
+      "end": 385.72,
+      "duration": 0.7800000000000011,
+      "text": " Cruzamento na área.",
+      "clean_text": "cruzamento na área",
+      "is_candidate": false
+    },
+    {
+      "start": 385.88,
+      "end": 387.5,
+      "duration": 1.6200000000000045,
+      "text": " Subiu a zaga do Papão para aliviar.",
+      "clean_text": "subiu a zaga do papão para aliviar",
+      "is_candidate": false
+    },
+    {
+      "start": 388.06,
+      "end": 389.04,
+      "duration": 0.980000000000004,
+      "text": " Insiste, Tietê.",
+      "clean_text": "insiste tietê",
+      "is_candidate": false
+    },
+    {
+      "start": 389.42,
+      "end": 389.92,
+      "duration": 0.5,
+      "text": " Si.",
+      "clean_text": "si",
+      "is_candidate": false
+    },
+    {
+      "start": 390.0,
+      "end": 392.08,
+      "duration": 2.0799999999999983,
+      "text": " Tua ação foi sua.",
+      "clean_text": "tua ação foi sua",
+      "is_candidate": false
+    },
+    {
+      "start": 392.18,
+      "end": 409.62,
+      "duration": 17.439999999999998,
+      "text": " Tipo, falha ela para me",
+      "clean_text": "tipo falha ela para me",
+      "is_candidate": false
+    },
+    {
+      "start": 412.84000000000003,
+      "end": 416.9,
+      "duration": 4.060000000000002,
+      "text": " Tchau.",
+      "clean_text": "tchau",
+      "is_candidate": false
+    },
+    {
+      "start": 418.46000000000004,
+      "end": 418.74,
+      "duration": 0.28000000000000114,
+      "text": " Obrigado.",
+      "clean_text": "obrigado",
+      "is_candidate": false
+    },
+    {
+      "start": 418.76,
+      "end": 419.26,
+      "duration": 0.5,
+      "text": " Foi headphones?",
+      "clean_text": "foi headphones",
+      "is_candidate": false
+    },
+    {
+      "start": 419.28,
+      "end": 419.3,
+      "duration": 0.01999999999999602,
+      "text": " Tudo bemNathan?",
+      "clean_text": "tudo bemnathan",
+      "is_candidate": false
+    },
+    {
+      "start": 419.3,
+      "end": 419.4,
+      "duration": 0.10000000000000853,
+      "text": " Na hora, Lilo?",
+      "clean_text": "na hora lilo",
+      "is_candidate": false
+    }
+  ]
+}

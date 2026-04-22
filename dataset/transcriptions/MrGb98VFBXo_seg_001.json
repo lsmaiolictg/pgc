@@ -1,0 +1,465 @@
+{
+  "video_id": "MrGb98VFBXo",
+  "segment_file": "MrGb98VFBXo_seg_001.wav",
+  "segment_start": 75,
+  "segment_end": 165,
+  "full_text": " Thiago. Quero 10  segundos de jogo.  O jogo tá a milhão.  É falta pra equipe do Paissandu.  Tem lançamento no comando  de ataque. Subiu  por Mita pra tirar. Spinelli.  Andrés Gomes  dispara.  Funcionou a marcação aí do Edilson.  Cruzamento na área.  Atira a zaga do Vasco. A bola era pro Ítalo.  Insiste o Papão.  Fez um bom primeiro tempo o Paissandu.  Rola agora pra Edilson.  Levantou a cabeça. Travado. Bola pra fora.  E a bola no palco do  Guns N' Roses. Se apresentará  no estádio do Mangueirão  em breve.  Já disse que o calendário do Guns N' Roses  tá mais difícil do que  a logística dos clubes brasileiros.  Movimentação na grande área do Vasco da Gama.  Tá observando tudo ali o Léo Jardim.  Vai lá o Marcinho  pra fazer cobrança.  Aí o Camisa 10 é 10.  E faixa do Paissandu. Marcinho.  Cruzamento na área. Subiu a zaga.  De dando a defesa do Vasco ali.  O centroavante Spinelli.  Claramente há uma atenção  específica ao Andrés Gomes pelo lado  do Paissandu na marcação, né?  Vou perguntar pra Jordana se  a estratégia de marcar o Andrés  está sendo bem executada aí pelo Paissandu.  Gemos.  Vamos ver.  Vai lá.  Vamos lá.  Vamos ver.  Vamos ver.  Vamos ver.  Vamos ver.  Vamos ver.  Vamos ver.  Vamos ver.  Vamos ver.  Vamos ver.  Vamos ver.  Vamos ver.  Vamos ver.  Vamos ver.  Vamos ver.  Vamos ver.",
+  "transcription": [
+    {
+      "start": 75.0,
+      "end": 77.0,
+      "duration": 2.0,
+      "text": " Thiago. Quero 10",
+      "clean_text": "thiago quero 10",
+      "is_candidate": false
+    },
+    {
+      "start": 77.0,
+      "end": 78.06,
+      "duration": 1.06,
+      "text": " segundos de jogo.",
+      "clean_text": "segundos de jogo",
+      "is_candidate": false
+    },
+    {
+      "start": 79.94,
+      "end": 80.74,
+      "duration": 0.7999999999999998,
+      "text": " O jogo tá a milhão.",
+      "clean_text": "o jogo tá a milhão",
+      "is_candidate": false
+    },
+    {
+      "start": 80.84,
+      "end": 82.18,
+      "duration": 1.3399999999999999,
+      "text": " É falta pra equipe do Paissandu.",
+      "clean_text": "é falta pra equipe do paissandu",
+      "is_candidate": false
+    },
+    {
+      "start": 83.94,
+      "end": 84.84,
+      "duration": 0.9000000000000004,
+      "text": " Tem lançamento no comando",
+      "clean_text": "tem lançamento no comando",
+      "is_candidate": false
+    },
+    {
+      "start": 84.84,
+      "end": 86.92,
+      "duration": 2.08,
+      "text": " de ataque. Subiu",
+      "clean_text": "de ataque subiu",
+      "is_candidate": false
+    },
+    {
+      "start": 86.92,
+      "end": 89.26,
+      "duration": 2.34,
+      "text": " por Mita pra tirar. Spinelli.",
+      "clean_text": "por mita pra tirar spinelli",
+      "is_candidate": false
+    },
+    {
+      "start": 89.9,
+      "end": 90.7,
+      "duration": 0.8000000000000007,
+      "text": " Andrés Gomes",
+      "clean_text": "andrés gomes",
+      "is_candidate": false
+    },
+    {
+      "start": 90.7,
+      "end": 91.46000000000001,
+      "duration": 0.7599999999999998,
+      "text": " dispara.",
+      "clean_text": "dispara",
+      "is_candidate": false
+    },
+    {
+      "start": 92.88,
+      "end": 94.88,
+      "duration": 2.0,
+      "text": " Funcionou a marcação aí do Edilson.",
+      "clean_text": "funcionou a marcação aí do edilson",
+      "is_candidate": false
+    },
+    {
+      "start": 95.96000000000001,
+      "end": 97.1,
+      "duration": 1.1400000000000006,
+      "text": " Cruzamento na área.",
+      "clean_text": "cruzamento na área",
+      "is_candidate": false
+    },
+    {
+      "start": 97.1,
+      "end": 99.3,
+      "duration": 2.1999999999999993,
+      "text": " Atira a zaga do Vasco. A bola era pro Ítalo.",
+      "clean_text": "atira a zaga do vasco a bola era pro ítalo",
+      "is_candidate": false
+    },
+    {
+      "start": 100.74000000000001,
+      "end": 101.38,
+      "duration": 0.639999999999997,
+      "text": " Insiste o Papão.",
+      "clean_text": "insiste o papão",
+      "is_candidate": false
+    },
+    {
+      "start": 101.48,
+      "end": 103.32,
+      "duration": 1.8399999999999999,
+      "text": " Fez um bom primeiro tempo o Paissandu.",
+      "clean_text": "fez um bom primeiro tempo o paissandu",
+      "is_candidate": false
+    },
+    {
+      "start": 103.32,
+      "end": 105.02,
+      "duration": 1.6999999999999993,
+      "text": " Rola agora pra Edilson.",
+      "clean_text": "rola agora pra edilson",
+      "is_candidate": false
+    },
+    {
+      "start": 105.12,
+      "end": 107.38,
+      "duration": 2.2600000000000016,
+      "text": " Levantou a cabeça. Travado. Bola pra fora.",
+      "clean_text": "levantou a cabeça travado bola pra fora",
+      "is_candidate": false
+    },
+    {
+      "start": 109.42,
+      "end": 111.12,
+      "duration": 1.6999999999999957,
+      "text": " E a bola no palco do",
+      "clean_text": "e a bola no palco do",
+      "is_candidate": false
+    },
+    {
+      "start": 111.12,
+      "end": 113.46000000000001,
+      "duration": 2.3400000000000034,
+      "text": " Guns N' Roses. Se apresentará",
+      "clean_text": "guns n roses se apresentará",
+      "is_candidate": false
+    },
+    {
+      "start": 113.46000000000001,
+      "end": 115.32,
+      "duration": 1.8599999999999994,
+      "text": " no estádio do Mangueirão",
+      "clean_text": "no estádio do mangueirão",
+      "is_candidate": false
+    },
+    {
+      "start": 115.32,
+      "end": 115.74000000000001,
+      "duration": 0.4200000000000017,
+      "text": " em breve.",
+      "clean_text": "em breve",
+      "is_candidate": false
+    },
+    {
+      "start": 118.94,
+      "end": 121.48,
+      "duration": 2.5400000000000063,
+      "text": " Já disse que o calendário do Guns N' Roses",
+      "clean_text": "já disse que o calendário do guns n roses",
+      "is_candidate": false
+    },
+    {
+      "start": 121.48,
+      "end": 122.68,
+      "duration": 1.1999999999999957,
+      "text": " tá mais difícil do que",
+      "clean_text": "tá mais difícil do que",
+      "is_candidate": false
+    },
+    {
+      "start": 122.68,
+      "end": 125.32,
+      "duration": 2.6400000000000006,
+      "text": " a logística dos clubes brasileiros.",
+      "clean_text": "a logística dos clubes brasileiros",
+      "is_candidate": false
+    },
+    {
+      "start": 129.2,
+      "end": 130.9,
+      "duration": 1.7000000000000028,
+      "text": " Movimentação na grande área do Vasco da Gama.",
+      "clean_text": "movimentação na grande área do vasco da gama",
+      "is_candidate": false
+    },
+    {
+      "start": 130.9,
+      "end": 132.68,
+      "duration": 1.779999999999994,
+      "text": " Tá observando tudo ali o Léo Jardim.",
+      "clean_text": "tá observando tudo ali o léo jardim",
+      "is_candidate": false
+    },
+    {
+      "start": 133.32,
+      "end": 135.07999999999998,
+      "duration": 1.759999999999998,
+      "text": " Vai lá o Marcinho",
+      "clean_text": "vai lá o marcinho",
+      "is_candidate": false
+    },
+    {
+      "start": 135.07999999999998,
+      "end": 136.04,
+      "duration": 0.9600000000000009,
+      "text": " pra fazer cobrança.",
+      "clean_text": "pra fazer cobrança",
+      "is_candidate": false
+    },
+    {
+      "start": 139.5,
+      "end": 141.01999999999998,
+      "duration": 1.519999999999996,
+      "text": " Aí o Camisa 10 é 10.",
+      "clean_text": "aí o camisa 10 é 10",
+      "is_candidate": false
+    },
+    {
+      "start": 141.12,
+      "end": 142.6,
+      "duration": 1.4799999999999898,
+      "text": " E faixa do Paissandu. Marcinho.",
+      "clean_text": "e faixa do paissandu marcinho",
+      "is_candidate": false
+    },
+    {
+      "start": 142.9,
+      "end": 144.5,
+      "duration": 1.5999999999999943,
+      "text": " Cruzamento na área. Subiu a zaga.",
+      "clean_text": "cruzamento na área subiu a zaga",
+      "is_candidate": false
+    },
+    {
+      "start": 145.6,
+      "end": 146.7,
+      "duration": 1.1000000000000085,
+      "text": " De dando a defesa do Vasco ali.",
+      "clean_text": "de dando a defesa do vasco ali",
+      "is_candidate": false
+    },
+    {
+      "start": 146.76,
+      "end": 147.78,
+      "duration": 1.019999999999996,
+      "text": " O centroavante Spinelli.",
+      "clean_text": "o centroavante spinelli",
+      "is_candidate": false
+    },
+    {
+      "start": 151.54,
+      "end": 153.14,
+      "duration": 1.6000000000000085,
+      "text": " Claramente há uma atenção",
+      "clean_text": "claramente há uma atenção",
+      "is_candidate": false
+    },
+    {
+      "start": 153.14,
+      "end": 154.94,
+      "duration": 1.7999999999999972,
+      "text": " específica ao Andrés Gomes pelo lado",
+      "clean_text": "específica ao andrés gomes pelo lado",
+      "is_candidate": false
+    },
+    {
+      "start": 154.94,
+      "end": 156.26,
+      "duration": 1.3200000000000074,
+      "text": " do Paissandu na marcação, né?",
+      "clean_text": "do paissandu na marcação né",
+      "is_candidate": false
+    },
+    {
+      "start": 156.72,
+      "end": 158.78,
+      "duration": 2.0600000000000023,
+      "text": " Vou perguntar pra Jordana se",
+      "clean_text": "vou perguntar pra jordana se",
+      "is_candidate": false
+    },
+    {
+      "start": 158.78,
+      "end": 160.84,
+      "duration": 2.0600000000000023,
+      "text": " a estratégia de marcar o Andrés",
+      "clean_text": "a estratégia de marcar o andrés",
+      "is_candidate": false
+    },
+    {
+      "start": 160.84,
+      "end": 162.8,
+      "duration": 1.9599999999999937,
+      "text": " está sendo bem executada aí pelo Paissandu.",
+      "clean_text": "está sendo bem executada aí pelo paissandu",
+      "is_candidate": false
+    },
+    {
+      "start": 163.32,
+      "end": 164.95999999999998,
+      "duration": 1.6400000000000006,
+      "text": " Gemos.",
+      "clean_text": "gemos",
+      "is_candidate": false
+    },
+    {
+      "start": 170.95999999999998,
+      "end": 171.1,
+      "duration": 0.14000000000000057,
+      "text": " Vamos ver.",
+      "clean_text": "vamos ver",
+      "is_candidate": false
+    },
+    {
+      "start": 171.1,
+      "end": 171.14,
+      "duration": 0.03999999999999204,
+      "text": " Vai lá.",
+      "clean_text": "vai lá",
+      "is_candidate": false
+    },
+    {
+      "start": 171.16,
+      "end": 171.18,
+      "duration": 0.01999999999999602,
+      "text": " Vamos lá.",
+      "clean_text": "vamos lá",
+      "is_candidate": false
+    },
+    {
+      "start": 171.5,
+      "end": 171.78,
+      "duration": 0.28000000000000114,
+      "text": " Vamos ver.",
+      "clean_text": "vamos ver",
+      "is_candidate": false
+    },
+    {
+      "start": 174.0,
+      "end": 174.06,
+      "duration": 0.05999999999998806,
+      "text": " Vamos ver.",
+      "clean_text": "vamos ver",
+      "is_candidate": false
+    },
+    {
+      "start": 174.76,
+      "end": 175.36,
+      "duration": 0.6000000000000085,
+      "text": " Vamos ver.",
+      "clean_text": "vamos ver",
+      "is_candidate": false
+    },
+    {
+      "start": 178.66,
+      "end": 178.78,
+      "duration": 0.12000000000000455,
+      "text": " Vamos ver.",
+      "clean_text": "vamos ver",
+      "is_candidate": false
+    },
+    {
+      "start": 178.78,
+      "end": 179.51999999999998,
+      "duration": 0.7399999999999949,
+      "text": " Vamos ver.",
+      "clean_text": "vamos ver",
+      "is_candidate": false
+    },
+    {
+      "start": 179.51999999999998,
+      "end": 179.83999999999997,
+      "duration": 0.3199999999999932,
+      "text": " Vamos ver.",
+      "clean_text": "vamos ver",
+      "is_candidate": false
+    },
+    {
+      "start": 179.83999999999997,
+      "end": 182.32,
+      "duration": 2.480000000000004,
+      "text": " Vamos ver.",
+      "clean_text": "vamos ver",
+      "is_candidate": false
+    },
+    {
+      "start": 182.32,
+      "end": 182.94,
+      "duration": 0.6200000000000045,
+      "text": " Vamos ver.",
+      "clean_text": "vamos ver",
+      "is_candidate": false
+    },
+    {
+      "start": 184.06,
+      "end": 184.07999999999998,
+      "duration": 0.01999999999999602,
+      "text": " Vamos ver.",
+      "clean_text": "vamos ver",
+      "is_candidate": false
+    },
+    {
+      "start": 189.16,
+      "end": 191.98,
+      "duration": 2.819999999999993,
+      "text": " Vamos ver.",
+      "clean_text": "vamos ver",
+      "is_candidate": false
+    },
+    {
+      "start": 191.98,
+      "end": 192.06,
+      "duration": 0.0800000000000125,
+      "text": " Vamos ver.",
+      "clean_text": "vamos ver",
+      "is_candidate": false
+    },
+    {
+      "start": 192.06,
+      "end": 192.12,
+      "duration": 0.05999999999998806,
+      "text": " Vamos ver.",
+      "clean_text": "vamos ver",
+      "is_candidate": false
+    },
+    {
+      "start": 192.12,
+      "end": 192.6,
+      "duration": 0.480000000000004,
+      "text": " Vamos ver.",
+      "clean_text": "vamos ver",
+      "is_candidate": false
+    },
+    {
+      "start": 192.6,
+      "end": 192.83999999999997,
+      "duration": 0.23999999999999488,
+      "text": " Vamos ver.",
+      "clean_text": "vamos ver",
+      "is_candidate": false
+    },
+    {
+      "start": 192.83999999999997,
+      "end": 193.22,
+      "duration": 0.38000000000000966,
+      "text": " Vamos ver.",
+      "clean_text": "vamos ver",
+      "is_candidate": false
+    }
+  ]
+}

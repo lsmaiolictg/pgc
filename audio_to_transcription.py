@@ -187,13 +187,12 @@ def transcribe_single(audio_file, output_folder, model):
 
 #Função principal
 def main():
-    url = "https://www.youtube.com/watch?v=x7YCIZCq89U" #Vasco x Palmeiras
+    #url = "https://www.youtube.com/watch?v=x7YCIZCq89U" #Vasco x Palmeiras
+    url = "https://www.youtube.com/watch?v=MrGb98VFBXo" #Vasco x Paysandu
 
     start_time = 0
     end_time = 600
-
     download_audio_flag = False
-
     segment_audio_flag = True
     segment_length = 90
     overlap = 15
@@ -228,7 +227,8 @@ def main():
         cut_audio(raw_audio, cut_audio_file, start_time, end_time)
 
     else:
-        cut_audio_file = "dataset/audio_cut/game_segment_vasco_palmeiras.wav"
+        #cut_audio_file = "dataset/audio_cut/game_segment_vasco_palmeiras.wav"
+        cut_audio_file = "dataset/audio_cut/game_segment_vasco_paysandu.wav"
         print("Pulando download. Usando áudio existente.")
 
     if segment_audio_flag:

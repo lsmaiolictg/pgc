@@ -1,0 +1,337 @@
+{
+  "video_id": "MrGb98VFBXo",
+  "segment_file": "MrGb98VFBXo_seg_017.wav",
+  "segment_start": 1275,
+  "segment_end": 1365,
+  "full_text": " É falta para o Paysandu Marcinho.  O Paysandu tem que voltar para o jogo.  A bola para dentro da área.  Faixa Espinel.  Curtiu a narração dos gols?  Voador aí no peito do like.  Porque não chegamos nem perto de 300 mil likes na live.  Mas agora, meu parceiro, se tu curtiu essa narração,  dá um like na live porque passamos de 175 mil likes.  E precisamos de 300 mil likes.  Estamos longe demais dessa meta.  Mas eu estou maluco.  Então vamos por partes.  Primeiro vamos passar de 200 mil likes.  Aí falta pouco.  200 mil likes.  Deixa eu ver assim quanto eu estou falando.  A galera está dando like por aqui.  175 mil likes é o que a gente tem.  Dá um like aí na live.  Alô, torcedor do Vasco na Gama.  Alô, torcedor do Papão.  Voadora no peito do like.  Quanto mais likes a gente tiver para mais gente.  Aparece a nossa transmissão de Perguntar Bastos.  Sobre a atuação do Rojas, que eu nunca critiquei em Bastos.  Manda aí.  É, o Rojas que precisou com certeza para o segundo tempo.  O Renato deve ter acabado com ele.  Parece confusão aí.  Confusão.  Thiago Mendes de novo.  Cabeça quente o Thiago Mendes hoje, hein, Robertinho.  Manda aí.  Exatamente.  O pessoal foi para cima dele ali para cobrar.  Tem um jogador.  O Branco.  O Brian.  Está caído ali.  Jogador do...",
+  "transcription": [
+    {
+      "start": 1275.0,
+      "end": 1277.06,
+      "duration": 2.06,
+      "text": " É falta para o Paysandu Marcinho.",
+      "clean_text": "é falta para o paysandu marcinho",
+      "is_candidate": false
+    },
+    {
+      "start": 1277.58,
+      "end": 1279.24,
+      "duration": 1.6600000000000001,
+      "text": " O Paysandu tem que voltar para o jogo.",
+      "clean_text": "o paysandu tem que voltar para o jogo",
+      "is_candidate": false
+    },
+    {
+      "start": 1279.4,
+      "end": 1280.3,
+      "duration": 0.8999999999999995,
+      "text": " A bola para dentro da área.",
+      "clean_text": "a bola para dentro da área",
+      "is_candidate": false
+    },
+    {
+      "start": 1280.44,
+      "end": 1281.18,
+      "duration": 0.7399999999999993,
+      "text": " Faixa Espinel.",
+      "clean_text": "faixa espinel",
+      "is_candidate": false
+    },
+    {
+      "start": 1282.8,
+      "end": 1284.3,
+      "duration": 1.5000000000000009,
+      "text": " Curtiu a narração dos gols?",
+      "clean_text": "curtiu a narração dos gols",
+      "is_candidate": true
+    },
+    {
+      "start": 1284.32,
+      "end": 1285.38,
+      "duration": 1.0600000000000005,
+      "text": " Voador aí no peito do like.",
+      "clean_text": "voador aí no peito do like",
+      "is_candidate": false
+    },
+    {
+      "start": 1285.48,
+      "end": 1288.48,
+      "duration": 3.0,
+      "text": " Porque não chegamos nem perto de 300 mil likes na live.",
+      "clean_text": "porque não chegamos nem perto de 300 mil likes na live",
+      "is_candidate": false
+    },
+    {
+      "start": 1289.26,
+      "end": 1291.82,
+      "duration": 2.5600000000000005,
+      "text": " Mas agora, meu parceiro, se tu curtiu essa narração,",
+      "clean_text": "mas agora meu parceiro se tu curtiu essa narração",
+      "is_candidate": false
+    },
+    {
+      "start": 1292.78,
+      "end": 1296.38,
+      "duration": 3.599999999999998,
+      "text": " dá um like na live porque passamos de 175 mil likes.",
+      "clean_text": "dá um like na live porque passamos de 175 mil likes",
+      "is_candidate": false
+    },
+    {
+      "start": 1297.76,
+      "end": 1299.98,
+      "duration": 2.219999999999999,
+      "text": " E precisamos de 300 mil likes.",
+      "clean_text": "e precisamos de 300 mil likes",
+      "is_candidate": false
+    },
+    {
+      "start": 1299.98,
+      "end": 1302.96,
+      "duration": 2.9800000000000004,
+      "text": " Estamos longe demais dessa meta.",
+      "clean_text": "estamos longe demais dessa meta",
+      "is_candidate": false
+    },
+    {
+      "start": 1303.06,
+      "end": 1303.8,
+      "duration": 0.7399999999999984,
+      "text": " Mas eu estou maluco.",
+      "clean_text": "mas eu estou maluco",
+      "is_candidate": false
+    },
+    {
+      "start": 1303.8,
+      "end": 1305.08,
+      "duration": 1.2800000000000011,
+      "text": " Então vamos por partes.",
+      "clean_text": "então vamos por partes",
+      "is_candidate": false
+    },
+    {
+      "start": 1305.18,
+      "end": 1306.98,
+      "duration": 1.8000000000000007,
+      "text": " Primeiro vamos passar de 200 mil likes.",
+      "clean_text": "primeiro vamos passar de 200 mil likes",
+      "is_candidate": false
+    },
+    {
+      "start": 1307.08,
+      "end": 1307.78,
+      "duration": 0.7000000000000028,
+      "text": " Aí falta pouco.",
+      "clean_text": "aí falta pouco",
+      "is_candidate": false
+    },
+    {
+      "start": 1308.74,
+      "end": 1310.08,
+      "duration": 1.3399999999999963,
+      "text": " 200 mil likes.",
+      "clean_text": "200 mil likes",
+      "is_candidate": false
+    },
+    {
+      "start": 1310.18,
+      "end": 1311.72,
+      "duration": 1.5399999999999991,
+      "text": " Deixa eu ver assim quanto eu estou falando.",
+      "clean_text": "deixa eu ver assim quanto eu estou falando",
+      "is_candidate": false
+    },
+    {
+      "start": 1312.6,
+      "end": 1314.14,
+      "duration": 1.5399999999999991,
+      "text": " A galera está dando like por aqui.",
+      "clean_text": "a galera está dando like por aqui",
+      "is_candidate": false
+    },
+    {
+      "start": 1316.06,
+      "end": 1317.66,
+      "duration": 1.5999999999999943,
+      "text": " 175 mil likes é o que a gente tem.",
+      "clean_text": "175 mil likes é o que a gente tem",
+      "is_candidate": false
+    },
+    {
+      "start": 1318.44,
+      "end": 1319.62,
+      "duration": 1.1800000000000068,
+      "text": " Dá um like aí na live.",
+      "clean_text": "dá um like aí na live",
+      "is_candidate": false
+    },
+    {
+      "start": 1319.76,
+      "end": 1320.86,
+      "duration": 1.0999999999999943,
+      "text": " Alô, torcedor do Vasco na Gama.",
+      "clean_text": "alô torcedor do vasco na gama",
+      "is_candidate": false
+    },
+    {
+      "start": 1320.92,
+      "end": 1322.14,
+      "duration": 1.2199999999999989,
+      "text": " Alô, torcedor do Papão.",
+      "clean_text": "alô torcedor do papão",
+      "is_candidate": false
+    },
+    {
+      "start": 1322.64,
+      "end": 1323.7,
+      "duration": 1.0600000000000023,
+      "text": " Voadora no peito do like.",
+      "clean_text": "voadora no peito do like",
+      "is_candidate": false
+    },
+    {
+      "start": 1323.84,
+      "end": 1325.26,
+      "duration": 1.4200000000000017,
+      "text": " Quanto mais likes a gente tiver para mais gente.",
+      "clean_text": "quanto mais likes a gente tiver para mais gente",
+      "is_candidate": false
+    },
+    {
+      "start": 1325.78,
+      "end": 1328.12,
+      "duration": 2.3400000000000034,
+      "text": " Aparece a nossa transmissão de Perguntar Bastos.",
+      "clean_text": "aparece a nossa transmissão de perguntar bastos",
+      "is_candidate": false
+    },
+    {
+      "start": 1328.12,
+      "end": 1332.22,
+      "duration": 4.099999999999994,
+      "text": " Sobre a atuação do Rojas, que eu nunca critiquei em Bastos.",
+      "clean_text": "sobre a atuação do rojas que eu nunca critiquei em bastos",
+      "is_candidate": false
+    },
+    {
+      "start": 1332.3,
+      "end": 1332.62,
+      "duration": 0.3200000000000074,
+      "text": " Manda aí.",
+      "clean_text": "manda aí",
+      "is_candidate": false
+    },
+    {
+      "start": 1332.62,
+      "end": 1339.28,
+      "duration": 6.660000000000004,
+      "text": " É, o Rojas que precisou com certeza para o segundo tempo.",
+      "clean_text": "é o rojas que precisou com certeza para o segundo tempo",
+      "is_candidate": false
+    },
+    {
+      "start": 1341.16,
+      "end": 1345.44,
+      "duration": 4.280000000000001,
+      "text": " O Renato deve ter acabado com ele.",
+      "clean_text": "o renato deve ter acabado com ele",
+      "is_candidate": false
+    },
+    {
+      "start": 1345.94,
+      "end": 1346.7,
+      "duration": 0.7600000000000051,
+      "text": " Parece confusão aí.",
+      "clean_text": "parece confusão aí",
+      "is_candidate": false
+    },
+    {
+      "start": 1346.92,
+      "end": 1347.52,
+      "duration": 0.5999999999999943,
+      "text": " Confusão.",
+      "clean_text": "confusão",
+      "is_candidate": false
+    },
+    {
+      "start": 1347.62,
+      "end": 1348.92,
+      "duration": 1.2999999999999972,
+      "text": " Thiago Mendes de novo.",
+      "clean_text": "thiago mendes de novo",
+      "is_candidate": false
+    },
+    {
+      "start": 1350.0,
+      "end": 1352.6,
+      "duration": 2.5999999999999943,
+      "text": " Cabeça quente o Thiago Mendes hoje, hein, Robertinho.",
+      "clean_text": "cabeça quente o thiago mendes hoje hein robertinho",
+      "is_candidate": false
+    },
+    {
+      "start": 1352.74,
+      "end": 1353.08,
+      "duration": 0.3400000000000034,
+      "text": " Manda aí.",
+      "clean_text": "manda aí",
+      "is_candidate": false
+    },
+    {
+      "start": 1356.82,
+      "end": 1357.42,
+      "duration": 0.6000000000000085,
+      "text": " Exatamente.",
+      "clean_text": "exatamente",
+      "is_candidate": false
+    },
+    {
+      "start": 1357.7,
+      "end": 1360.36,
+      "duration": 2.6599999999999966,
+      "text": " O pessoal foi para cima dele ali para cobrar.",
+      "clean_text": "o pessoal foi para cima dele ali para cobrar",
+      "is_candidate": false
+    },
+    {
+      "start": 1360.36,
+      "end": 1361.28,
+      "duration": 0.9200000000000017,
+      "text": " Tem um jogador.",
+      "clean_text": "tem um jogador",
+      "is_candidate": false
+    },
+    {
+      "start": 1361.94,
+      "end": 1362.36,
+      "duration": 0.4200000000000017,
+      "text": " O Branco.",
+      "clean_text": "o branco",
+      "is_candidate": false
+    },
+    {
+      "start": 1362.62,
+      "end": 1362.88,
+      "duration": 0.2600000000000051,
+      "text": " O Brian.",
+      "clean_text": "o brian",
+      "is_candidate": false
+    },
+    {
+      "start": 1363.0,
+      "end": 1363.82,
+      "duration": 0.8200000000000074,
+      "text": " Está caído ali.",
+      "clean_text": "está caído ali",
+      "is_candidate": false
+    },
+    {
+      "start": 1364.34,
+      "end": 1365.04,
+      "duration": 0.7000000000000028,
+      "text": " Jogador do...",
+      "clean_text": "jogador do",
+      "is_candidate": false
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "video_id": "MrGb98VFBXo",
+  "segment_file": "MrGb98VFBXo_seg_021.wav",
+  "segment_start": 1575,
+  "segment_end": 1665,
+  "full_text": " A bola foi para fora.  Perdão, Jojo, é que o Vasco, um da gama, está demais no segundo tempo.  Encaixou o jogo. Vou pegar um gancho nesse seu comentário.  Encaixou porque a equipe aproxima e com os dois gols do Spinelli você passa a ter um pouco mais de confiança.  No segundo tempo a gente criticou o Vasco porque de fato estava jogando abaixo.  Estava um time com muito espaço, não tinha o jogo associativo.  E nesse segundo tempo a equipe conseguiu encontrar, conseguiu encaixar o jogo nesse sentido  e aproveitar os espaços que o Paissandu passou a ceder nesse segundo tempo.  Tem uma questão física, tem uma série de outros pontos que a gente pode destacar.  Mas a partir do momento que o Vasco consegue fazer com que jogadores importantes,  que a gente sabe que pode produzir, passem a participar do jogo,  você tem uma melhora coletiva e aí consequentemente um placar.  Para favor.  Jordana Araújo, um show de comentários.  Meu parceiro Felipe Vaz, hoje também um show de comentários.  Vem o Vasco, olha o Colômbia.  Agora se jogou ali o Andrés Gomes.  Jogador que provavelmente estará na Copa do Mundo.  Vamos ver, ó.  Andrés Edilson.  Teve um trança-pé, né?  Só que aí depois ele deu um salto.  Caiu com o Belém.  É isso.  Caiu com o Belém o nosso Colômbia.  É o Andrés Gomes.  E aí",
+  "transcription": [
+    {
+      "start": 1575.0,
+      "end": 1576.16,
+      "duration": 1.16,
+      "text": " A bola foi para fora.",
+      "clean_text": "a bola foi para fora",
+      "is_candidate": false
+    },
+    {
+      "start": 1578.46,
+      "end": 1582.5,
+      "duration": 4.04,
+      "text": " Perdão, Jojo, é que o Vasco, um da gama, está demais no segundo tempo.",
+      "clean_text": "perdão jojo é que o vasco um da gama está demais no segundo tempo",
+      "is_candidate": false
+    },
+    {
+      "start": 1582.76,
+      "end": 1585.4,
+      "duration": 2.6400000000000006,
+      "text": " Encaixou o jogo. Vou pegar um gancho nesse seu comentário.",
+      "clean_text": "encaixou o jogo vou pegar um gancho nesse seu comentário",
+      "is_candidate": false
+    },
+    {
+      "start": 1585.46,
+      "end": 1591.36,
+      "duration": 5.899999999999999,
+      "text": " Encaixou porque a equipe aproxima e com os dois gols do Spinelli você passa a ter um pouco mais de confiança.",
+      "clean_text": "encaixou porque a equipe aproxima e com os dois gols do spinelli você passa a ter um pouco mais de confiança",
+      "is_candidate": true
+    },
+    {
+      "start": 1591.72,
+      "end": 1595.7,
+      "duration": 3.9800000000000004,
+      "text": " No segundo tempo a gente criticou o Vasco porque de fato estava jogando abaixo.",
+      "clean_text": "no segundo tempo a gente criticou o vasco porque de fato estava jogando abaixo",
+      "is_candidate": false
+    },
+    {
+      "start": 1596.26,
+      "end": 1600.72,
+      "duration": 4.459999999999997,
+      "text": " Estava um time com muito espaço, não tinha o jogo associativo.",
+      "clean_text": "estava um time com muito espaço não tinha o jogo associativo",
+      "is_candidate": false
+    },
+    {
+      "start": 1600.72,
+      "end": 1606.74,
+      "duration": 6.02,
+      "text": " E nesse segundo tempo a equipe conseguiu encontrar, conseguiu encaixar o jogo nesse sentido",
+      "clean_text": "e nesse segundo tempo a equipe conseguiu encontrar conseguiu encaixar o jogo nesse sentido",
+      "is_candidate": false
+    },
+    {
+      "start": 1606.74,
+      "end": 1612.16,
+      "duration": 5.419999999999998,
+      "text": " e aproveitar os espaços que o Paissandu passou a ceder nesse segundo tempo.",
+      "clean_text": "e aproveitar os espaços que o paissandu passou a ceder nesse segundo tempo",
+      "is_candidate": false
+    },
+    {
+      "start": 1612.28,
+      "end": 1617.52,
+      "duration": 5.239999999999995,
+      "text": " Tem uma questão física, tem uma série de outros pontos que a gente pode destacar.",
+      "clean_text": "tem uma questão física tem uma série de outros pontos que a gente pode destacar",
+      "is_candidate": false
+    },
+    {
+      "start": 1617.96,
+      "end": 1622.66,
+      "duration": 4.699999999999996,
+      "text": " Mas a partir do momento que o Vasco consegue fazer com que jogadores importantes,",
+      "clean_text": "mas a partir do momento que o vasco consegue fazer com que jogadores importantes",
+      "is_candidate": false
+    },
+    {
+      "start": 1622.72,
+      "end": 1626.46,
+      "duration": 3.740000000000002,
+      "text": " que a gente sabe que pode produzir, passem a participar do jogo,",
+      "clean_text": "que a gente sabe que pode produzir passem a participar do jogo",
+      "is_candidate": false
+    },
+    {
+      "start": 1626.46,
+      "end": 1630.46,
+      "duration": 4.0,
+      "text": " você tem uma melhora coletiva e aí consequentemente um placar.",
+      "clean_text": "você tem uma melhora coletiva e aí consequentemente um placar",
+      "is_candidate": false
+    },
+    {
+      "start": 1630.72,
+      "end": 1631.2,
+      "duration": 0.4799999999999969,
+      "text": " Para favor.",
+      "clean_text": "para favor",
+      "is_candidate": false
+    },
+    {
+      "start": 1632.54,
+      "end": 1634.58,
+      "duration": 2.039999999999999,
+      "text": " Jordana Araújo, um show de comentários.",
+      "clean_text": "jordana araújo um show de comentários",
+      "is_candidate": false
+    },
+    {
+      "start": 1634.72,
+      "end": 1637.56,
+      "duration": 2.8400000000000034,
+      "text": " Meu parceiro Felipe Vaz, hoje também um show de comentários.",
+      "clean_text": "meu parceiro felipe vaz hoje também um show de comentários",
+      "is_candidate": false
+    },
+    {
+      "start": 1637.72,
+      "end": 1639.54,
+      "duration": 1.8199999999999932,
+      "text": " Vem o Vasco, olha o Colômbia.",
+      "clean_text": "vem o vasco olha o colômbia",
+      "is_candidate": false
+    },
+    {
+      "start": 1641.82,
+      "end": 1643.56,
+      "duration": 1.740000000000009,
+      "text": " Agora se jogou ali o Andrés Gomes.",
+      "clean_text": "agora se jogou ali o andrés gomes",
+      "is_candidate": false
+    },
+    {
+      "start": 1645.94,
+      "end": 1649.58,
+      "duration": 3.6400000000000006,
+      "text": " Jogador que provavelmente estará na Copa do Mundo.",
+      "clean_text": "jogador que provavelmente estará na copa do mundo",
+      "is_candidate": false
+    },
+    {
+      "start": 1649.68,
+      "end": 1650.22,
+      "duration": 0.539999999999992,
+      "text": " Vamos ver, ó.",
+      "clean_text": "vamos ver ó",
+      "is_candidate": false
+    },
+    {
+      "start": 1651.72,
+      "end": 1652.86,
+      "duration": 1.1400000000000006,
+      "text": " Andrés Edilson.",
+      "clean_text": "andrés edilson",
+      "is_candidate": false
+    },
+    {
+      "start": 1653.98,
+      "end": 1655.22,
+      "duration": 1.2399999999999949,
+      "text": " Teve um trança-pé, né?",
+      "clean_text": "teve um trançapé né",
+      "is_candidate": false
+    },
+    {
+      "start": 1655.22,
+      "end": 1657.66,
+      "duration": 2.4399999999999977,
+      "text": " Só que aí depois ele deu um salto.",
+      "clean_text": "só que aí depois ele deu um salto",
+      "is_candidate": false
+    },
+    {
+      "start": 1657.84,
+      "end": 1658.48,
+      "duration": 0.6400000000000006,
+      "text": " Caiu com o Belém.",
+      "clean_text": "caiu com o belém",
+      "is_candidate": false
+    },
+    {
+      "start": 1659.22,
+      "end": 1659.72,
+      "duration": 0.5,
+      "text": " É isso.",
+      "clean_text": "é isso",
+      "is_candidate": false
+    },
+    {
+      "start": 1660.72,
+      "end": 1663.34,
+      "duration": 2.6200000000000045,
+      "text": " Caiu com o Belém o nosso Colômbia.",
+      "clean_text": "caiu com o belém o nosso colômbia",
+      "is_candidate": false
+    },
+    {
+      "start": 1664.06,
+      "end": 1664.8,
+      "duration": 0.7399999999999949,
+      "text": " É o Andrés Gomes.",
+      "clean_text": "é o andrés gomes",
+      "is_candidate": false
+    },
+    {
+      "start": 1664.8,
+      "end": 1665.0,
+      "duration": 0.20000000000000284,
+      "text": " E aí",
+      "clean_text": "e aí",
+      "is_candidate": false
+    }
+  ]
+}

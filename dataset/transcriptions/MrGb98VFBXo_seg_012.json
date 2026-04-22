@@ -1,0 +1,177 @@
+{
+  "video_id": "MrGb98VFBXo",
+  "segment_file": "MrGb98VFBXo_seg_012.wav",
+  "segment_start": 900,
+  "segment_end": 990,
+  "full_text": " A bola saiu, é tiro de meta para o Paysandu.  Atualiza aí novamente o Robertinho as alterações do jogo, manda aí.  Saíram Rinkel, camisa 94, 9 Ítalo, para as entradas de Juninho, 98, e Lucas Cardoso com a 99.  Mudanças no Paysandu.  Bom, então as mudanças na equipe do Paysandu.  Tentou a jogada ali o Cuiabano.  A bola foi pela linha de lado, já perguntei a Jordana, Felipe Bastos.  O homem que ganhou a Copa do Brasil vestindo essa camisa pesada do Vascão da Gama, 15 minutos, 12 segundos do tempo.  Qual é a da parada, qual é a do jogo? Já já você fala.  Aqui tem escanteio para o Vascão da Gama, Cuiabano na parada, ele o Rojas.  Escanteio para o Vasco.  O Cuiabano no cruzamento, essa bola vai na...  Olha o Spinelli, ele vai em todas, cara.  Tietê.  Thiago Mendes.  De novo Tietê.  Ataque do Vasco, Thiago Mendes no cruzamento, tira a zaga do Paysandu do jeito que deu.  Andrés Gomes.  Rojas, cruzamento na área, Spinelli!  Spinelli!  Tá dentro!",
+  "transcription": [
+    {
+      "start": 900.0,
+      "end": 902.1,
+      "duration": 2.1,
+      "text": " A bola saiu, é tiro de meta para o Paysandu.",
+      "clean_text": "a bola saiu é tiro de meta para o paysandu",
+      "is_candidate": false
+    },
+    {
+      "start": 902.66,
+      "end": 906.34,
+      "duration": 3.6799999999999997,
+      "text": " Atualiza aí novamente o Robertinho as alterações do jogo, manda aí.",
+      "clean_text": "atualiza aí novamente o robertinho as alterações do jogo manda aí",
+      "is_candidate": false
+    },
+    {
+      "start": 909.68,
+      "end": 920.1,
+      "duration": 10.420000000000002,
+      "text": " Saíram Rinkel, camisa 94, 9 Ítalo, para as entradas de Juninho, 98, e Lucas Cardoso com a 99.",
+      "clean_text": "saíram rinkel camisa 94 9 ítalo para as entradas de juninho 98 e lucas cardoso com a 99",
+      "is_candidate": false
+    },
+    {
+      "start": 921.28,
+      "end": 922.36,
+      "duration": 1.0799999999999983,
+      "text": " Mudanças no Paysandu.",
+      "clean_text": "mudanças no paysandu",
+      "is_candidate": false
+    },
+    {
+      "start": 924.36,
+      "end": 929.76,
+      "duration": 5.400000000000002,
+      "text": " Bom, então as mudanças na equipe do Paysandu.",
+      "clean_text": "bom então as mudanças na equipe do paysandu",
+      "is_candidate": false
+    },
+    {
+      "start": 930.0,
+      "end": 932.84,
+      "duration": 2.8400000000000034,
+      "text": " Tentou a jogada ali o Cuiabano.",
+      "clean_text": "tentou a jogada ali o cuiabano",
+      "is_candidate": false
+    },
+    {
+      "start": 934.84,
+      "end": 938.0,
+      "duration": 3.1599999999999966,
+      "text": " A bola foi pela linha de lado, já perguntei a Jordana, Felipe Bastos.",
+      "clean_text": "a bola foi pela linha de lado já perguntei a jordana felipe bastos",
+      "is_candidate": false
+    },
+    {
+      "start": 939.2,
+      "end": 944.8,
+      "duration": 5.599999999999994,
+      "text": " O homem que ganhou a Copa do Brasil vestindo essa camisa pesada do Vascão da Gama, 15 minutos, 12 segundos do tempo.",
+      "clean_text": "o homem que ganhou a copa do brasil vestindo essa camisa pesada do vascão da gama 15 minutos 12 segundos do tempo",
+      "is_candidate": false
+    },
+    {
+      "start": 945.32,
+      "end": 948.36,
+      "duration": 3.039999999999999,
+      "text": " Qual é a da parada, qual é a do jogo? Já já você fala.",
+      "clean_text": "qual é a da parada qual é a do jogo já já você fala",
+      "is_candidate": false
+    },
+    {
+      "start": 948.62,
+      "end": 953.78,
+      "duration": 5.159999999999997,
+      "text": " Aqui tem escanteio para o Vascão da Gama, Cuiabano na parada, ele o Rojas.",
+      "clean_text": "aqui tem escanteio para o vascão da gama cuiabano na parada ele o rojas",
+      "is_candidate": false
+    },
+    {
+      "start": 956.12,
+      "end": 957.12,
+      "duration": 1.0,
+      "text": " Escanteio para o Vasco.",
+      "clean_text": "escanteio para o vasco",
+      "is_candidate": false
+    },
+    {
+      "start": 960.0,
+      "end": 964.8199999999999,
+      "duration": 4.819999999999993,
+      "text": " O Cuiabano no cruzamento, essa bola vai na...",
+      "clean_text": "o cuiabano no cruzamento essa bola vai na",
+      "is_candidate": false
+    },
+    {
+      "start": 964.8199999999999,
+      "end": 966.9,
+      "duration": 2.0800000000000125,
+      "text": " Olha o Spinelli, ele vai em todas, cara.",
+      "clean_text": "olha o spinelli ele vai em todas cara",
+      "is_candidate": false
+    },
+    {
+      "start": 967.58,
+      "end": 968.0,
+      "duration": 0.4200000000000017,
+      "text": " Tietê.",
+      "clean_text": "tietê",
+      "is_candidate": false
+    },
+    {
+      "start": 969.44,
+      "end": 970.36,
+      "duration": 0.9200000000000017,
+      "text": " Thiago Mendes.",
+      "clean_text": "thiago mendes",
+      "is_candidate": false
+    },
+    {
+      "start": 971.3,
+      "end": 972.24,
+      "duration": 0.9399999999999977,
+      "text": " De novo Tietê.",
+      "clean_text": "de novo tietê",
+      "is_candidate": false
+    },
+    {
+      "start": 972.76,
+      "end": 976.88,
+      "duration": 4.11999999999999,
+      "text": " Ataque do Vasco, Thiago Mendes no cruzamento, tira a zaga do Paysandu do jeito que deu.",
+      "clean_text": "ataque do vasco thiago mendes no cruzamento tira a zaga do paysandu do jeito que deu",
+      "is_candidate": false
+    },
+    {
+      "start": 979.36,
+      "end": 980.0,
+      "duration": 0.6400000000000006,
+      "text": " Andrés Gomes.",
+      "clean_text": "andrés gomes",
+      "is_candidate": false
+    },
+    {
+      "start": 985.06,
+      "end": 987.0,
+      "duration": 1.9399999999999977,
+      "text": " Rojas, cruzamento na área, Spinelli!",
+      "clean_text": "rojas cruzamento na área spinelli",
+      "is_candidate": false
+    },
+    {
+      "start": 987.0,
+      "end": 987.56,
+      "duration": 0.5600000000000023,
+      "text": " Spinelli!",
+      "clean_text": "spinelli",
+      "is_candidate": false
+    },
+    {
+      "start": 988.6800000000001,
+      "end": 989.6800000000001,
+      "duration": 1.0,
+      "text": " Tá dentro!",
+      "clean_text": "tá dentro",
+      "is_candidate": false
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "video_id": "MrGb98VFBXo",
+  "segment_file": "MrGb98VFBXo_seg_020.wav",
+  "segment_start": 1500,
+  "segment_end": 1590,
+  "full_text": " Saindo lá do banco do Paissandu e indo para o banco do Vasco.  Copa do Brasil é na GATV.  Quem pede R$ 99,00 em cupom X-Desconto, entrega grátis, sem pegadinha, pede 99Food.  Quem pede, pede. Quem pede, repede. 99Food vai.  Orçamento do Thiago Mendes foi errado. Tira a zaga do Paissandu.  Em Barros, Adson.  Jordana Araújo e as três alterações aí no Vasco da Gama, hein, Jordana?  A entrada do Bremer, né, vai você.  Olha, o Nuno, muita força na bola, ela foi pela linha de fundo, pode falar, Juju.  A entrada do Bremer, né, a gente espera...  Aliás, eu tenho a vontade de ver ele atuando como um segundo atacante, né?  É um cara que eu acho que vai funcionar melhor nesse sentido.  E acho que a ideia, né, é você colocar ele nessa função porque ele costuma ajudar mais o ataque do Vasco assim, né?  Sendo esse cara que vem de trás, né, mais propriamente como referência.  Olha essa bola agora, Cuiabano dominou.  Vem cruzamento, pegou mal na bola o Cuiabano, a bola foi pra fora.  Perdão, Juju, aqui o Vasco da Gama tá demais no segundo tempo.  Encaixou o jogo. Vou pegar um gancho nesse seu comentário.  Encaixou porque a equipe aproxima.  E com os dois gols do Spinelli, você passa...",
+  "transcription": [
+    {
+      "start": 1500.0,
+      "end": 1503.82,
+      "duration": 3.8200000000000003,
+      "text": " Saindo lá do banco do Paissandu e indo para o banco do Vasco.",
+      "clean_text": "saindo lá do banco do paissandu e indo para o banco do vasco",
+      "is_candidate": false
+    },
+    {
+      "start": 1504.42,
+      "end": 1505.88,
+      "duration": 1.46,
+      "text": " Copa do Brasil é na GATV.",
+      "clean_text": "copa do brasil é na gatv",
+      "is_candidate": false
+    },
+    {
+      "start": 1510.24,
+      "end": 1516.52,
+      "duration": 6.279999999999999,
+      "text": " Quem pede R$ 99,00 em cupom X-Desconto, entrega grátis, sem pegadinha, pede 99Food.",
+      "clean_text": "quem pede r 9900 em cupom xdesconto entrega grátis sem pegadinha pede 99food",
+      "is_candidate": false
+    },
+    {
+      "start": 1516.52,
+      "end": 1519.98,
+      "duration": 3.460000000000001,
+      "text": " Quem pede, pede. Quem pede, repede. 99Food vai.",
+      "clean_text": "quem pede pede quem pede repede 99food vai",
+      "is_candidate": false
+    },
+    {
+      "start": 1524.06,
+      "end": 1527.22,
+      "duration": 3.1599999999999966,
+      "text": " Orçamento do Thiago Mendes foi errado. Tira a zaga do Paissandu.",
+      "clean_text": "orçamento do thiago mendes foi errado tira a zaga do paissandu",
+      "is_candidate": false
+    },
+    {
+      "start": 1527.22,
+      "end": 1530.42,
+      "duration": 3.1999999999999993,
+      "text": " Em Barros, Adson.",
+      "clean_text": "em barros adson",
+      "is_candidate": false
+    },
+    {
+      "start": 1533.62,
+      "end": 1537.0,
+      "duration": 3.3800000000000026,
+      "text": " Jordana Araújo e as três alterações aí no Vasco da Gama, hein, Jordana?",
+      "clean_text": "jordana araújo e as três alterações aí no vasco da gama hein jordana",
+      "is_candidate": false
+    },
+    {
+      "start": 1537.52,
+      "end": 1540.62,
+      "duration": 3.1000000000000014,
+      "text": " A entrada do Bremer, né, vai você.",
+      "clean_text": "a entrada do bremer né vai você",
+      "is_candidate": false
+    },
+    {
+      "start": 1541.22,
+      "end": 1545.56,
+      "duration": 4.340000000000003,
+      "text": " Olha, o Nuno, muita força na bola, ela foi pela linha de fundo, pode falar, Juju.",
+      "clean_text": "olha o nuno muita força na bola ela foi pela linha de fundo pode falar juju",
+      "is_candidate": false
+    },
+    {
+      "start": 1546.04,
+      "end": 1548.22,
+      "duration": 2.1799999999999997,
+      "text": " A entrada do Bremer, né, a gente espera...",
+      "clean_text": "a entrada do bremer né a gente espera",
+      "is_candidate": false
+    },
+    {
+      "start": 1549.06,
+      "end": 1553.6,
+      "duration": 4.539999999999992,
+      "text": " Aliás, eu tenho a vontade de ver ele atuando como um segundo atacante, né?",
+      "clean_text": "aliás eu tenho a vontade de ver ele atuando como um segundo atacante né",
+      "is_candidate": false
+    },
+    {
+      "start": 1553.6,
+      "end": 1556.6,
+      "duration": 3.0,
+      "text": " É um cara que eu acho que vai funcionar melhor nesse sentido.",
+      "clean_text": "é um cara que eu acho que vai funcionar melhor nesse sentido",
+      "is_candidate": false
+    },
+    {
+      "start": 1557.22,
+      "end": 1565.74,
+      "duration": 8.519999999999996,
+      "text": " E acho que a ideia, né, é você colocar ele nessa função porque ele costuma ajudar mais o ataque do Vasco assim, né?",
+      "clean_text": "e acho que a ideia né é você colocar ele nessa função porque ele costuma ajudar mais o ataque do vasco assim né",
+      "is_candidate": false
+    },
+    {
+      "start": 1565.8,
+      "end": 1569.58,
+      "duration": 3.780000000000001,
+      "text": " Sendo esse cara que vem de trás, né, mais propriamente como referência.",
+      "clean_text": "sendo esse cara que vem de trás né mais propriamente como referência",
+      "is_candidate": false
+    },
+    {
+      "start": 1569.64,
+      "end": 1571.96,
+      "duration": 2.319999999999993,
+      "text": " Olha essa bola agora, Cuiabano dominou.",
+      "clean_text": "olha essa bola agora cuiabano dominou",
+      "is_candidate": false
+    },
+    {
+      "start": 1572.22,
+      "end": 1576.14,
+      "duration": 3.9200000000000017,
+      "text": " Vem cruzamento, pegou mal na bola o Cuiabano, a bola foi pra fora.",
+      "clean_text": "vem cruzamento pegou mal na bola o cuiabano a bola foi pra fora",
+      "is_candidate": false
+    },
+    {
+      "start": 1578.46,
+      "end": 1582.5,
+      "duration": 4.039999999999992,
+      "text": " Perdão, Juju, aqui o Vasco da Gama tá demais no segundo tempo.",
+      "clean_text": "perdão juju aqui o vasco da gama tá demais no segundo tempo",
+      "is_candidate": false
+    },
+    {
+      "start": 1582.78,
+      "end": 1585.4,
+      "duration": 2.6200000000000045,
+      "text": " Encaixou o jogo. Vou pegar um gancho nesse seu comentário.",
+      "clean_text": "encaixou o jogo vou pegar um gancho nesse seu comentário",
+      "is_candidate": false
+    },
+    {
+      "start": 1585.4,
+      "end": 1587.16,
+      "duration": 1.759999999999991,
+      "text": " Encaixou porque a equipe aproxima.",
+      "clean_text": "encaixou porque a equipe aproxima",
+      "is_candidate": false
+    },
+    {
+      "start": 1587.22,
+      "end": 1590.04,
+      "duration": 2.819999999999993,
+      "text": " E com os dois gols do Spinelli, você passa...",
+      "clean_text": "e com os dois gols do spinelli você passa",
+      "is_candidate": true
+    }
+  ]
+}

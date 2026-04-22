@@ -1,0 +1,321 @@
+{
+  "video_id": "MrGb98VFBXo",
+  "segment_file": "MrGb98VFBXo_seg_007.wav",
+  "segment_start": 525,
+  "segment_end": 615,
+  "full_text": " na área. O Vasco melhorou  no segundo tempo, mas a tomada de decisão  ainda é muito ruim.  Eita! Jogada  duríssima!  Tá ali o Cauã Barros, pelo lado do  Vasco da Gama, pelo lado do  Paissandu Marcinho.  Vamos ver, ó, os dois  pés. É, não foi tão duro  assim, né? Os dois abaixam o pé, né?  Ele escolheu a falta pra  dar pro Vasco, mas os dois  foram com o pé alto, né?  O Ramon Abateabel agora  escolheu. Vou dar a falta pro Paissandu.  Isso. Escolheu  aí porque a jogada foi igual.  Passa de bola da equipe do Paissandu.  Vai lá o Marcinho pra fazer a cobrança.  Foi a voadora... Fala, Veloso!  Foi a voadora no peito do  like, ô, Casalete. Foi isso.  Foi a voadora no peito do like.  Dizem que se chegar aos 300 mil  que você quer, sai gol aqui, hein?  Se chegar a 300 mil lá,  a gente sai gol.  Passa de bola da equipe do Paissandu, Marcinho.  Edilson.  Mais atrás vem o lançamento.  Essa bola pelo alto. Sai do gol, né?  O Jardim de Soco. Vai tentar  puxar o contra-ataque, o Tietchan.  A divisão tá marcando uma irregularidade  do ataque do Paissandu no lance anterior.  E a posse de bola pra equipe do Vasco.  Jordana Araújo, 10 minutos no segundo.  Per...",
+  "transcription": [
+    {
+      "start": 525.0,
+      "end": 527.0,
+      "duration": 2.0,
+      "text": " na área. O Vasco melhorou",
+      "clean_text": "na área o vasco melhorou",
+      "is_candidate": false
+    },
+    {
+      "start": 527.0,
+      "end": 529.16,
+      "duration": 2.16,
+      "text": " no segundo tempo, mas a tomada de decisão",
+      "clean_text": "no segundo tempo mas a tomada de decisão",
+      "is_candidate": false
+    },
+    {
+      "start": 529.16,
+      "end": 529.96,
+      "duration": 0.7999999999999998,
+      "text": " ainda é muito ruim.",
+      "clean_text": "ainda é muito ruim",
+      "is_candidate": false
+    },
+    {
+      "start": 531.22,
+      "end": 532.72,
+      "duration": 1.5,
+      "text": " Eita! Jogada",
+      "clean_text": "eita jogada",
+      "is_candidate": false
+    },
+    {
+      "start": 532.72,
+      "end": 534.04,
+      "duration": 1.3200000000000012,
+      "text": " duríssima!",
+      "clean_text": "duríssima",
+      "is_candidate": false
+    },
+    {
+      "start": 538.66,
+      "end": 540.92,
+      "duration": 2.26,
+      "text": " Tá ali o Cauã Barros, pelo lado do",
+      "clean_text": "tá ali o cauã barros pelo lado do",
+      "is_candidate": false
+    },
+    {
+      "start": 540.92,
+      "end": 542.84,
+      "duration": 1.92,
+      "text": " Vasco da Gama, pelo lado do",
+      "clean_text": "vasco da gama pelo lado do",
+      "is_candidate": false
+    },
+    {
+      "start": 542.84,
+      "end": 543.92,
+      "duration": 1.0800000000000018,
+      "text": " Paissandu Marcinho.",
+      "clean_text": "paissandu marcinho",
+      "is_candidate": false
+    },
+    {
+      "start": 547.5,
+      "end": 548.74,
+      "duration": 1.240000000000002,
+      "text": " Vamos ver, ó, os dois",
+      "clean_text": "vamos ver ó os dois",
+      "is_candidate": false
+    },
+    {
+      "start": 548.74,
+      "end": 551.06,
+      "duration": 2.3200000000000003,
+      "text": " pés. É, não foi tão duro",
+      "clean_text": "pés é não foi tão duro",
+      "is_candidate": false
+    },
+    {
+      "start": 551.06,
+      "end": 553.02,
+      "duration": 1.9599999999999973,
+      "text": " assim, né? Os dois abaixam o pé, né?",
+      "clean_text": "assim né os dois abaixam o pé né",
+      "is_candidate": false
+    },
+    {
+      "start": 553.42,
+      "end": 554.84,
+      "duration": 1.4199999999999982,
+      "text": " Ele escolheu a falta pra",
+      "clean_text": "ele escolheu a falta pra",
+      "is_candidate": false
+    },
+    {
+      "start": 554.84,
+      "end": 556.26,
+      "duration": 1.4199999999999982,
+      "text": " dar pro Vasco, mas os dois",
+      "clean_text": "dar pro vasco mas os dois",
+      "is_candidate": false
+    },
+    {
+      "start": 556.26,
+      "end": 558.8,
+      "duration": 2.539999999999999,
+      "text": " foram com o pé alto, né?",
+      "clean_text": "foram com o pé alto né",
+      "is_candidate": false
+    },
+    {
+      "start": 559.0,
+      "end": 560.58,
+      "duration": 1.5799999999999983,
+      "text": " O Ramon Abateabel agora",
+      "clean_text": "o ramon abateabel agora",
+      "is_candidate": false
+    },
+    {
+      "start": 560.58,
+      "end": 562.62,
+      "duration": 2.039999999999999,
+      "text": " escolheu. Vou dar a falta pro Paissandu.",
+      "clean_text": "escolheu vou dar a falta pro paissandu",
+      "is_candidate": false
+    },
+    {
+      "start": 562.76,
+      "end": 564.88,
+      "duration": 2.1200000000000045,
+      "text": " Isso. Escolheu",
+      "clean_text": "isso escolheu",
+      "is_candidate": false
+    },
+    {
+      "start": 564.88,
+      "end": 566.88,
+      "duration": 2.0,
+      "text": " aí porque a jogada foi igual.",
+      "clean_text": "aí porque a jogada foi igual",
+      "is_candidate": false
+    },
+    {
+      "start": 569.3,
+      "end": 570.7,
+      "duration": 1.4000000000000057,
+      "text": " Passa de bola da equipe do Paissandu.",
+      "clean_text": "passa de bola da equipe do paissandu",
+      "is_candidate": false
+    },
+    {
+      "start": 570.78,
+      "end": 572.3,
+      "duration": 1.519999999999996,
+      "text": " Vai lá o Marcinho pra fazer a cobrança.",
+      "clean_text": "vai lá o marcinho pra fazer a cobrança",
+      "is_candidate": false
+    },
+    {
+      "start": 572.54,
+      "end": 575.16,
+      "duration": 2.6199999999999974,
+      "text": " Foi a voadora... Fala, Veloso!",
+      "clean_text": "foi a voadora fala veloso",
+      "is_candidate": false
+    },
+    {
+      "start": 575.6,
+      "end": 576.86,
+      "duration": 1.259999999999998,
+      "text": " Foi a voadora no peito do",
+      "clean_text": "foi a voadora no peito do",
+      "is_candidate": false
+    },
+    {
+      "start": 576.86,
+      "end": 578.7,
+      "duration": 1.8400000000000034,
+      "text": " like, ô, Casalete. Foi isso.",
+      "clean_text": "like ô casalete foi isso",
+      "is_candidate": false
+    },
+    {
+      "start": 578.82,
+      "end": 580.3,
+      "duration": 1.4799999999999969,
+      "text": " Foi a voadora no peito do like.",
+      "clean_text": "foi a voadora no peito do like",
+      "is_candidate": false
+    },
+    {
+      "start": 581.02,
+      "end": 583.14,
+      "duration": 2.1200000000000045,
+      "text": " Dizem que se chegar aos 300 mil",
+      "clean_text": "dizem que se chegar aos 300 mil",
+      "is_candidate": false
+    },
+    {
+      "start": 583.14,
+      "end": 584.62,
+      "duration": 1.480000000000004,
+      "text": " que você quer, sai gol aqui, hein?",
+      "clean_text": "que você quer sai gol aqui hein",
+      "is_candidate": true
+    },
+    {
+      "start": 585.36,
+      "end": 586.66,
+      "duration": 1.2999999999999972,
+      "text": " Se chegar a 300 mil lá,",
+      "clean_text": "se chegar a 300 mil lá",
+      "is_candidate": false
+    },
+    {
+      "start": 586.7,
+      "end": 587.32,
+      "duration": 0.6199999999999974,
+      "text": " a gente sai gol.",
+      "clean_text": "a gente sai gol",
+      "is_candidate": true
+    },
+    {
+      "start": 590.78,
+      "end": 592.86,
+      "duration": 2.0799999999999983,
+      "text": " Passa de bola da equipe do Paissandu, Marcinho.",
+      "clean_text": "passa de bola da equipe do paissandu marcinho",
+      "is_candidate": false
+    },
+    {
+      "start": 594.34,
+      "end": 594.78,
+      "duration": 0.4399999999999977,
+      "text": " Edilson.",
+      "clean_text": "edilson",
+      "is_candidate": false
+    },
+    {
+      "start": 596.92,
+      "end": 598.48,
+      "duration": 1.5600000000000023,
+      "text": " Mais atrás vem o lançamento.",
+      "clean_text": "mais atrás vem o lançamento",
+      "is_candidate": false
+    },
+    {
+      "start": 598.58,
+      "end": 600.4,
+      "duration": 1.8200000000000074,
+      "text": " Essa bola pelo alto. Sai do gol, né?",
+      "clean_text": "essa bola pelo alto sai do gol né",
+      "is_candidate": true
+    },
+    {
+      "start": 600.4,
+      "end": 602.56,
+      "duration": 2.1599999999999966,
+      "text": " O Jardim de Soco. Vai tentar",
+      "clean_text": "o jardim de soco vai tentar",
+      "is_candidate": false
+    },
+    {
+      "start": 602.56,
+      "end": 603.92,
+      "duration": 1.3599999999999994,
+      "text": " puxar o contra-ataque, o Tietchan.",
+      "clean_text": "puxar o contraataque o tietchan",
+      "is_candidate": false
+    },
+    {
+      "start": 605.26,
+      "end": 606.78,
+      "duration": 1.519999999999996,
+      "text": " A divisão tá marcando uma irregularidade",
+      "clean_text": "a divisão tá marcando uma irregularidade",
+      "is_candidate": false
+    },
+    {
+      "start": 606.78,
+      "end": 608.82,
+      "duration": 2.0400000000000063,
+      "text": " do ataque do Paissandu no lance anterior.",
+      "clean_text": "do ataque do paissandu no lance anterior",
+      "is_candidate": false
+    },
+    {
+      "start": 610.66,
+      "end": 612.46,
+      "duration": 1.8000000000000114,
+      "text": " E a posse de bola pra equipe do Vasco.",
+      "clean_text": "e a posse de bola pra equipe do vasco",
+      "is_candidate": false
+    },
+    {
+      "start": 612.62,
+      "end": 614.72,
+      "duration": 2.0999999999999943,
+      "text": " Jordana Araújo, 10 minutos no segundo.",
+      "clean_text": "jordana araújo 10 minutos no segundo",
+      "is_candidate": false
+    },
+    {
+      "start": 614.84,
+      "end": 615.0,
+      "duration": 0.1599999999999966,
+      "text": " Per...",
+      "clean_text": "per",
+      "is_candidate": false
+    }
+  ]
+}

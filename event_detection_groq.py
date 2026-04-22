@@ -284,7 +284,6 @@ def process_transcription_file(input_file, output_folder):
 def process_all_transcriptions(input_folder, output_folder):
 
     for file in os.listdir(input_folder):
-
         if file.endswith(".json"):
 
             logging.info(f"Processando {file}")
@@ -301,7 +300,6 @@ def main():
 
     process_all_transcriptions(input_folder, output_folder)
 
-    # 🔥 NOVO: consolidação global (resolve duplicidade de segmentos)
     process_full_game(
         output_folder,
         "dataset/final_events.json"

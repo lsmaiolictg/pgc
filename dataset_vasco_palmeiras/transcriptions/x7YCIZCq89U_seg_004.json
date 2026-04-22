@@ -1,0 +1,241 @@
+{
+  "video_id": "x7YCIZCq89U",
+  "segment_file": "x7YCIZCq89U_seg_004.wav",
+  "segment_start": 300,
+  "segment_end": 390,
+  "full_text": " O Vasco vem pra cima e a gente vai trazer aqui mais a torcida do Vasco no lance do momento do gol.  Agora em flamação, Januário vem a...  Adson!  Traz a imagem aí, vai!  Tá a galera do Vasco fazendo a festa lá.  No momento do gol, voa-se!  Veja, São Januário do Mato!  Igual!  Uma qualidade do Thiago Mendes, né?  Foi mal no lance anterior, mas aí mostrando a visão de jogo, a qualidade que ele tem, a categoria.  Foi muito bem o DVD pra fazer o pivô só dar um toque.  E o Thiago Mendes é o cara que dá essa dinâmica pro meio campo, né?  Tem o bom passe e ele dá o passe e já ataca o espaço, já pisa na grande área pra marcar um gol.  E um jogo importante pra ele, né?  Um jogo da consolidação dele como uma referência, como um líder, né?  Como um capitão do Vasco da Gama.  Bonito gol do Vasco.  E aqui vem o Andrés Gomes, levanta, tira de cabeça, rebatendo.  Gustavo Gomes!  Flaco Lopes tenta a jogada pessoal, ganha.  Thiago Mendes!  Deixa com Andrés Gomes.  É outro jogo agora, hein?  Outra dinâmica a partir de agora.  A chuva tá apertando em São Januário.  Ju, vamos ver qual vai ser agora o desgolado da parada, porque o Vasco empata e agora virou o famoso Caldeirão em São Januário.  E com um golaço também do Thiago Mendes, né?  Uma bobeada da defesa do Palmeiras que deixa a parede.  Vai acontecer a liberdade pro Thiago, ninguém o acompanha.",
+  "transcription": [
+    {
+      "start": 300.0,
+      "end": 304.14,
+      "duration": 4.14,
+      "text": " O Vasco vem pra cima e a gente vai trazer aqui mais a torcida do Vasco no lance do momento do gol.",
+      "clean_text": "o vasco vem pra cima e a gente vai trazer aqui mais a torcida do vasco no lance do momento do gol",
+      "is_candidate": true
+    },
+    {
+      "start": 304.9,
+      "end": 307.0,
+      "duration": 2.0999999999999996,
+      "text": " Agora em flamação, Januário vem a...",
+      "clean_text": "agora em flamação januário vem a",
+      "is_candidate": false
+    },
+    {
+      "start": 307.64,
+      "end": 308.0,
+      "duration": 0.35999999999999943,
+      "text": " Adson!",
+      "clean_text": "adson",
+      "is_candidate": false
+    },
+    {
+      "start": 308.32,
+      "end": 309.24,
+      "duration": 0.9199999999999999,
+      "text": " Traz a imagem aí, vai!",
+      "clean_text": "traz a imagem aí vai",
+      "is_candidate": false
+    },
+    {
+      "start": 309.78,
+      "end": 312.26,
+      "duration": 2.4800000000000004,
+      "text": " Tá a galera do Vasco fazendo a festa lá.",
+      "clean_text": "tá a galera do vasco fazendo a festa lá",
+      "is_candidate": false
+    },
+    {
+      "start": 312.58,
+      "end": 313.72,
+      "duration": 1.1400000000000006,
+      "text": " No momento do gol, voa-se!",
+      "clean_text": "no momento do gol voase",
+      "is_candidate": true
+    },
+    {
+      "start": 313.84,
+      "end": 315.0,
+      "duration": 1.1600000000000001,
+      "text": " Veja, São Januário do Mato!",
+      "clean_text": "veja são januário do mato",
+      "is_candidate": false
+    },
+    {
+      "start": 315.78,
+      "end": 316.14,
+      "duration": 0.35999999999999943,
+      "text": " Igual!",
+      "clean_text": "igual",
+      "is_candidate": false
+    },
+    {
+      "start": 317.1,
+      "end": 318.72,
+      "duration": 1.6199999999999974,
+      "text": " Uma qualidade do Thiago Mendes, né?",
+      "clean_text": "uma qualidade do thiago mendes né",
+      "is_candidate": false
+    },
+    {
+      "start": 318.8,
+      "end": 323.48,
+      "duration": 4.68,
+      "text": " Foi mal no lance anterior, mas aí mostrando a visão de jogo, a qualidade que ele tem, a categoria.",
+      "clean_text": "foi mal no lance anterior mas aí mostrando a visão de jogo a qualidade que ele tem a categoria",
+      "is_candidate": false
+    },
+    {
+      "start": 323.92,
+      "end": 327.56,
+      "duration": 3.6400000000000006,
+      "text": " Foi muito bem o DVD pra fazer o pivô só dar um toque.",
+      "clean_text": "foi muito bem o dvd pra fazer o pivô só dar um toque",
+      "is_candidate": false
+    },
+    {
+      "start": 327.56,
+      "end": 330.74,
+      "duration": 3.1799999999999997,
+      "text": " E o Thiago Mendes é o cara que dá essa dinâmica pro meio campo, né?",
+      "clean_text": "e o thiago mendes é o cara que dá essa dinâmica pro meio campo né",
+      "is_candidate": false
+    },
+    {
+      "start": 330.74,
+      "end": 337.64,
+      "duration": 6.900000000000002,
+      "text": " Tem o bom passe e ele dá o passe e já ataca o espaço, já pisa na grande área pra marcar um gol.",
+      "clean_text": "tem o bom passe e ele dá o passe e já ataca o espaço já pisa na grande área pra marcar um gol",
+      "is_candidate": true
+    },
+    {
+      "start": 338.0,
+      "end": 339.6,
+      "duration": 1.6000000000000014,
+      "text": " E um jogo importante pra ele, né?",
+      "clean_text": "e um jogo importante pra ele né",
+      "is_candidate": false
+    },
+    {
+      "start": 339.6,
+      "end": 343.06,
+      "duration": 3.460000000000001,
+      "text": " Um jogo da consolidação dele como uma referência, como um líder, né?",
+      "clean_text": "um jogo da consolidação dele como uma referência como um líder né",
+      "is_candidate": false
+    },
+    {
+      "start": 343.06,
+      "end": 344.7,
+      "duration": 1.6400000000000006,
+      "text": " Como um capitão do Vasco da Gama.",
+      "clean_text": "como um capitão do vasco da gama",
+      "is_candidate": false
+    },
+    {
+      "start": 344.8,
+      "end": 345.6,
+      "duration": 0.7999999999999972,
+      "text": " Bonito gol do Vasco.",
+      "clean_text": "bonito gol do vasco",
+      "is_candidate": true
+    },
+    {
+      "start": 346.08,
+      "end": 349.94,
+      "duration": 3.8599999999999994,
+      "text": " E aqui vem o Andrés Gomes, levanta, tira de cabeça, rebatendo.",
+      "clean_text": "e aqui vem o andrés gomes levanta tira de cabeça rebatendo",
+      "is_candidate": false
+    },
+    {
+      "start": 350.96,
+      "end": 352.04,
+      "duration": 1.0799999999999983,
+      "text": " Gustavo Gomes!",
+      "clean_text": "gustavo gomes",
+      "is_candidate": false
+    },
+    {
+      "start": 354.6,
+      "end": 357.12,
+      "duration": 2.5200000000000102,
+      "text": " Flaco Lopes tenta a jogada pessoal, ganha.",
+      "clean_text": "flaco lopes tenta a jogada pessoal ganha",
+      "is_candidate": false
+    },
+    {
+      "start": 357.12,
+      "end": 358.08,
+      "duration": 0.9600000000000009,
+      "text": " Thiago Mendes!",
+      "clean_text": "thiago mendes",
+      "is_candidate": false
+    },
+    {
+      "start": 358.96,
+      "end": 361.12,
+      "duration": 2.1599999999999966,
+      "text": " Deixa com Andrés Gomes.",
+      "clean_text": "deixa com andrés gomes",
+      "is_candidate": false
+    },
+    {
+      "start": 361.26,
+      "end": 362.64,
+      "duration": 1.3800000000000026,
+      "text": " É outro jogo agora, hein?",
+      "clean_text": "é outro jogo agora hein",
+      "is_candidate": false
+    },
+    {
+      "start": 365.34000000000003,
+      "end": 367.53999999999996,
+      "duration": 2.1999999999999886,
+      "text": " Outra dinâmica a partir de agora.",
+      "clean_text": "outra dinâmica a partir de agora",
+      "is_candidate": false
+    },
+    {
+      "start": 370.38,
+      "end": 373.12,
+      "duration": 2.740000000000009,
+      "text": " A chuva tá apertando em São Januário.",
+      "clean_text": "a chuva tá apertando em são januário",
+      "is_candidate": false
+    },
+    {
+      "start": 373.36,
+      "end": 380.8,
+      "duration": 7.439999999999998,
+      "text": " Ju, vamos ver qual vai ser agora o desgolado da parada, porque o Vasco empata e agora virou o famoso Caldeirão em São Januário.",
+      "clean_text": "ju vamos ver qual vai ser agora o desgolado da parada porque o vasco empata e agora virou o famoso caldeirão em são januário",
+      "is_candidate": true
+    },
+    {
+      "start": 380.8,
+      "end": 383.52,
+      "duration": 2.719999999999999,
+      "text": " E com um golaço também do Thiago Mendes, né?",
+      "clean_text": "e com um golaço também do thiago mendes né",
+      "is_candidate": true
+    },
+    {
+      "start": 383.6,
+      "end": 387.06,
+      "duration": 3.460000000000008,
+      "text": " Uma bobeada da defesa do Palmeiras que deixa a parede.",
+      "clean_text": "uma bobeada da defesa do palmeiras que deixa a parede",
+      "is_candidate": false
+    },
+    {
+      "start": 387.12,
+      "end": 389.86,
+      "duration": 2.739999999999995,
+      "text": " Vai acontecer a liberdade pro Thiago, ninguém o acompanha.",
+      "clean_text": "vai acontecer a liberdade pro thiago ninguém o acompanha",
+      "is_candidate": false
+    }
+  ]
+}

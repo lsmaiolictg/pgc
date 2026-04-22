@@ -1,0 +1,281 @@
+{
+  "video_id": "MrGb98VFBXo",
+  "segment_file": "MrGb98VFBXo_seg_008.wav",
+  "segment_start": 600,
+  "segment_end": 690,
+  "full_text": " O gol é um jardim de soco.  Vai tentar puxar o contra-ataque o Tietchan.  A divisão está marcando uma irregularidade do ataque do Paysandu no lance anterior.  E a posse de bola para a equipe do Vasco.  Jordana Araújo, 10 minutos no segundo tempo.  E a perguntinha.  Qual é a da parada? Qual é a do jogo, Jordana?  A gente vê um Vasco que vai buscando mais esse jogo aproximado.  Mas ainda existe uma dificuldade de conectar.  Muito pelo que o Bastos falou.  Está faltando um pouquinho mais de atenção.  Mas é uma equipe que está fazendo a leitura de olhar com mais carinho para o lado direito.  Isso é importante.  Falta aproximar para conectar esse jogo.  E o Paysandu vai tentando encaixar novamente a sua marcação.  Que no primeiro tempo foi um pouco mais efetiva.  A gente vê a equipe ocupando um pouco mais de qualidade todos os lados do campo.  Postando um 4-4-2.  Baixando ali os pontas para poder tirar os espaços dos dois laterais.  Da equipe do Vasco.  Tem funcionado do lado direito.  Mas o lado esquerdo não está tão encaixado.  E é, mais uma vez, bato na tecla.  O Vasco pode apostar ali.  Tentava chegar ali o Rojas.  Afasta a zaga do Paysandu.  Lateral rapidamente cobrado.  Rojas.  Andrés.  Para trás.  Espinel.  Está dentro.  Gol.  Gol.",
+  "transcription": [
+    {
+      "start": 600.0,
+      "end": 601.36,
+      "duration": 1.36,
+      "text": " O gol é um jardim de soco.",
+      "clean_text": "o gol é um jardim de soco",
+      "is_candidate": true
+    },
+    {
+      "start": 601.98,
+      "end": 603.92,
+      "duration": 1.94,
+      "text": " Vai tentar puxar o contra-ataque o Tietchan.",
+      "clean_text": "vai tentar puxar o contraataque o tietchan",
+      "is_candidate": false
+    },
+    {
+      "start": 605.28,
+      "end": 608.84,
+      "duration": 3.5599999999999996,
+      "text": " A divisão está marcando uma irregularidade do ataque do Paysandu no lance anterior.",
+      "clean_text": "a divisão está marcando uma irregularidade do ataque do paysandu no lance anterior",
+      "is_candidate": false
+    },
+    {
+      "start": 610.72,
+      "end": 612.44,
+      "duration": 1.7199999999999989,
+      "text": " E a posse de bola para a equipe do Vasco.",
+      "clean_text": "e a posse de bola para a equipe do vasco",
+      "is_candidate": false
+    },
+    {
+      "start": 612.58,
+      "end": 615.18,
+      "duration": 2.5999999999999996,
+      "text": " Jordana Araújo, 10 minutos no segundo tempo.",
+      "clean_text": "jordana araújo 10 minutos no segundo tempo",
+      "is_candidate": false
+    },
+    {
+      "start": 616.64,
+      "end": 618.22,
+      "duration": 1.5799999999999983,
+      "text": " E a perguntinha.",
+      "clean_text": "e a perguntinha",
+      "is_candidate": false
+    },
+    {
+      "start": 618.36,
+      "end": 620.98,
+      "duration": 2.620000000000001,
+      "text": " Qual é a da parada? Qual é a do jogo, Jordana?",
+      "clean_text": "qual é a da parada qual é a do jogo jordana",
+      "is_candidate": false
+    },
+    {
+      "start": 620.98,
+      "end": 626.14,
+      "duration": 5.16,
+      "text": " A gente vê um Vasco que vai buscando mais esse jogo aproximado.",
+      "clean_text": "a gente vê um vasco que vai buscando mais esse jogo aproximado",
+      "is_candidate": false
+    },
+    {
+      "start": 626.24,
+      "end": 629.02,
+      "duration": 2.7799999999999976,
+      "text": " Mas ainda existe uma dificuldade de conectar.",
+      "clean_text": "mas ainda existe uma dificuldade de conectar",
+      "is_candidate": false
+    },
+    {
+      "start": 629.02,
+      "end": 630.68,
+      "duration": 1.6600000000000001,
+      "text": " Muito pelo que o Bastos falou.",
+      "clean_text": "muito pelo que o bastos falou",
+      "is_candidate": false
+    },
+    {
+      "start": 630.98,
+      "end": 632.74,
+      "duration": 1.7600000000000016,
+      "text": " Está faltando um pouquinho mais de atenção.",
+      "clean_text": "está faltando um pouquinho mais de atenção",
+      "is_candidate": false
+    },
+    {
+      "start": 633.22,
+      "end": 637.08,
+      "duration": 3.8599999999999994,
+      "text": " Mas é uma equipe que está fazendo a leitura de olhar com mais carinho para o lado direito.",
+      "clean_text": "mas é uma equipe que está fazendo a leitura de olhar com mais carinho para o lado direito",
+      "is_candidate": false
+    },
+    {
+      "start": 637.22,
+      "end": 638.2,
+      "duration": 0.980000000000004,
+      "text": " Isso é importante.",
+      "clean_text": "isso é importante",
+      "is_candidate": false
+    },
+    {
+      "start": 638.64,
+      "end": 640.74,
+      "duration": 2.1000000000000014,
+      "text": " Falta aproximar para conectar esse jogo.",
+      "clean_text": "falta aproximar para conectar esse jogo",
+      "is_candidate": false
+    },
+    {
+      "start": 641.02,
+      "end": 645.98,
+      "duration": 4.960000000000008,
+      "text": " E o Paysandu vai tentando encaixar novamente a sua marcação.",
+      "clean_text": "e o paysandu vai tentando encaixar novamente a sua marcação",
+      "is_candidate": false
+    },
+    {
+      "start": 646.34,
+      "end": 648.82,
+      "duration": 2.479999999999997,
+      "text": " Que no primeiro tempo foi um pouco mais efetiva.",
+      "clean_text": "que no primeiro tempo foi um pouco mais efetiva",
+      "is_candidate": false
+    },
+    {
+      "start": 648.82,
+      "end": 653.74,
+      "duration": 4.919999999999995,
+      "text": " A gente vê a equipe ocupando um pouco mais de qualidade todos os lados do campo.",
+      "clean_text": "a gente vê a equipe ocupando um pouco mais de qualidade todos os lados do campo",
+      "is_candidate": false
+    },
+    {
+      "start": 653.9,
+      "end": 655.22,
+      "duration": 1.3200000000000003,
+      "text": " Postando um 4-4-2.",
+      "clean_text": "postando um 442",
+      "is_candidate": false
+    },
+    {
+      "start": 655.38,
+      "end": 658.82,
+      "duration": 3.440000000000005,
+      "text": " Baixando ali os pontas para poder tirar os espaços dos dois laterais.",
+      "clean_text": "baixando ali os pontas para poder tirar os espaços dos dois laterais",
+      "is_candidate": false
+    },
+    {
+      "start": 659.02,
+      "end": 660.12,
+      "duration": 1.1000000000000014,
+      "text": " Da equipe do Vasco.",
+      "clean_text": "da equipe do vasco",
+      "is_candidate": false
+    },
+    {
+      "start": 660.78,
+      "end": 662.5,
+      "duration": 1.7199999999999989,
+      "text": " Tem funcionado do lado direito.",
+      "clean_text": "tem funcionado do lado direito",
+      "is_candidate": false
+    },
+    {
+      "start": 662.7,
+      "end": 665.24,
+      "duration": 2.5400000000000063,
+      "text": " Mas o lado esquerdo não está tão encaixado.",
+      "clean_text": "mas o lado esquerdo não está tão encaixado",
+      "is_candidate": false
+    },
+    {
+      "start": 665.34,
+      "end": 667.58,
+      "duration": 2.239999999999995,
+      "text": " E é, mais uma vez, bato na tecla.",
+      "clean_text": "e é mais uma vez bato na tecla",
+      "is_candidate": false
+    },
+    {
+      "start": 667.66,
+      "end": 668.84,
+      "duration": 1.1800000000000068,
+      "text": " O Vasco pode apostar ali.",
+      "clean_text": "o vasco pode apostar ali",
+      "is_candidate": false
+    },
+    {
+      "start": 670.06,
+      "end": 671.1800000000001,
+      "duration": 1.1200000000000045,
+      "text": " Tentava chegar ali o Rojas.",
+      "clean_text": "tentava chegar ali o rojas",
+      "is_candidate": false
+    },
+    {
+      "start": 671.34,
+      "end": 672.34,
+      "duration": 1.0,
+      "text": " Afasta a zaga do Paysandu.",
+      "clean_text": "afasta a zaga do paysandu",
+      "is_candidate": false
+    },
+    {
+      "start": 672.42,
+      "end": 674.02,
+      "duration": 1.6000000000000085,
+      "text": " Lateral rapidamente cobrado.",
+      "clean_text": "lateral rapidamente cobrado",
+      "is_candidate": false
+    },
+    {
+      "start": 674.4,
+      "end": 674.88,
+      "duration": 0.480000000000004,
+      "text": " Rojas.",
+      "clean_text": "rojas",
+      "is_candidate": false
+    },
+    {
+      "start": 675.2,
+      "end": 675.6800000000001,
+      "duration": 0.480000000000004,
+      "text": " Andrés.",
+      "clean_text": "andrés",
+      "is_candidate": false
+    },
+    {
+      "start": 675.94,
+      "end": 676.42,
+      "duration": 0.480000000000004,
+      "text": " Para trás.",
+      "clean_text": "para trás",
+      "is_candidate": false
+    },
+    {
+      "start": 676.42,
+      "end": 677.64,
+      "duration": 1.2199999999999989,
+      "text": " Espinel.",
+      "clean_text": "espinel",
+      "is_candidate": false
+    },
+    {
+      "start": 678.06,
+      "end": 680.1800000000001,
+      "duration": 2.1200000000000045,
+      "text": " Está dentro.",
+      "clean_text": "está dentro",
+      "is_candidate": false
+    },
+    {
+      "start": 682.98,
+      "end": 683.82,
+      "duration": 0.8400000000000034,
+      "text": " Gol.",
+      "clean_text": "gol",
+      "is_candidate": true
+    },
+    {
+      "start": 689.02,
+      "end": 689.98,
+      "duration": 0.9599999999999937,
+      "text": " Gol.",
+      "clean_text": "gol",
+      "is_candidate": true
+    }
+  ]
+}

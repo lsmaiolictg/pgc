@@ -1,0 +1,297 @@
+{
+  "video_id": "x7YCIZCq89U",
+  "segment_file": "x7YCIZCq89U_seg_008.wav",
+  "segment_start": 600,
+  "segment_end": 690,
+  "full_text": " Saída do Felipe Anderson, saída do Flaco Lopes, Alan e Luiz.  E o Spinelli também vem a campo na equipe do Vasco.  O Flaco saiu, mas a galera pediu no chat a movimentação, o mapa de calor do Flaco Lopes.  Um pouco intenso.  É, um pouco.  E um jogador da qualidade do Flaco Lopes.  Saiu o David, o Targo no sete.  Precisa de muito pouco para fazer o gol.  A gente falou sobre isso.  Precisa de pouco espaço, precisa de uma oportunidade.  Já apareceu ali uma chance, um jute a gol.  Não foi nenhuma partida exuberante do Flaco Lopes para o Fils-Finsense para fazer gol, Donato.  Só uma questão, né?  O Palmeiras estava cozinhando o jogo.  Estava muito satisfeito.  São dez finalizações do Vasco no segundo tempo.  Nenhuma do Palmeiras, tá?  O segundo tempo do Vasco, principalmente depois das mudanças no Renato, é de uma imposição maior.  Muito mais agressividade.  Ela subindo para pressionar, criando muito mais.  Até por conta disso, o João Martins já modifica.  Já coloca o Alan para ser um cara de mais força, de mais criatividade.  É muito talentoso, né?  O Alan, mais um cria da academia.  E o Luiz, jogador de velocidade.  Até para tentar puxar um possível contra-ataque, né?  O Palmeiras é muito forte nas transições.  Só que o Palmeiras não está conseguindo trocar dois, três passes.  O Vasco está conseguindo recuperar essa bola e vem de novo para a pressão.  A bola vem por dentro.  PH.  Vem no meio de dois.  Toca, Bruno Fulch se antecipe.  E agora parte.  Vem o Cuiabano.  Alan brigou.",
+  "transcription": [
+    {
+      "start": 600.0,
+      "end": 606.28,
+      "duration": 6.28,
+      "text": " Saída do Felipe Anderson, saída do Flaco Lopes, Alan e Luiz.",
+      "clean_text": "saída do felipe anderson saída do flaco lopes alan e luiz",
+      "is_candidate": false
+    },
+    {
+      "start": 608.7,
+      "end": 611.44,
+      "duration": 2.7399999999999984,
+      "text": " E o Spinelli também vem a campo na equipe do Vasco.",
+      "clean_text": "e o spinelli também vem a campo na equipe do vasco",
+      "is_candidate": false
+    },
+    {
+      "start": 611.54,
+      "end": 616.36,
+      "duration": 4.8199999999999985,
+      "text": " O Flaco saiu, mas a galera pediu no chat a movimentação, o mapa de calor do Flaco Lopes.",
+      "clean_text": "o flaco saiu mas a galera pediu no chat a movimentação o mapa de calor do flaco lopes",
+      "is_candidate": false
+    },
+    {
+      "start": 617.82,
+      "end": 618.78,
+      "duration": 0.9600000000000009,
+      "text": " Um pouco intenso.",
+      "clean_text": "um pouco intenso",
+      "is_candidate": false
+    },
+    {
+      "start": 618.92,
+      "end": 620.1,
+      "duration": 1.1799999999999997,
+      "text": " É, um pouco.",
+      "clean_text": "é um pouco",
+      "is_candidate": false
+    },
+    {
+      "start": 620.46,
+      "end": 621.38,
+      "duration": 0.9199999999999982,
+      "text": " E um jogador da qualidade do Flaco Lopes.",
+      "clean_text": "e um jogador da qualidade do flaco lopes",
+      "is_candidate": false
+    },
+    {
+      "start": 621.38,
+      "end": 623.02,
+      "duration": 1.6400000000000006,
+      "text": " Saiu o David, o Targo no sete.",
+      "clean_text": "saiu o david o targo no sete",
+      "is_candidate": false
+    },
+    {
+      "start": 623.5,
+      "end": 625.2,
+      "duration": 1.6999999999999993,
+      "text": " Precisa de muito pouco para fazer o gol.",
+      "clean_text": "precisa de muito pouco para fazer o gol",
+      "is_candidate": true
+    },
+    {
+      "start": 625.28,
+      "end": 626.1,
+      "duration": 0.8200000000000003,
+      "text": " A gente falou sobre isso.",
+      "clean_text": "a gente falou sobre isso",
+      "is_candidate": false
+    },
+    {
+      "start": 626.22,
+      "end": 629.14,
+      "duration": 2.9200000000000017,
+      "text": " Precisa de pouco espaço, precisa de uma oportunidade.",
+      "clean_text": "precisa de pouco espaço precisa de uma oportunidade",
+      "is_candidate": false
+    },
+    {
+      "start": 629.14,
+      "end": 630.92,
+      "duration": 1.7800000000000011,
+      "text": " Já apareceu ali uma chance, um jute a gol.",
+      "clean_text": "já apareceu ali uma chance um jute a gol",
+      "is_candidate": true
+    },
+    {
+      "start": 631.54,
+      "end": 635.46,
+      "duration": 3.9200000000000017,
+      "text": " Não foi nenhuma partida exuberante do Flaco Lopes para o Fils-Finsense para fazer gol, Donato.",
+      "clean_text": "não foi nenhuma partida exuberante do flaco lopes para o filsfinsense para fazer gol donato",
+      "is_candidate": true
+    },
+    {
+      "start": 635.58,
+      "end": 636.42,
+      "duration": 0.8400000000000034,
+      "text": " Só uma questão, né?",
+      "clean_text": "só uma questão né",
+      "is_candidate": false
+    },
+    {
+      "start": 636.42,
+      "end": 638.08,
+      "duration": 1.6599999999999966,
+      "text": " O Palmeiras estava cozinhando o jogo.",
+      "clean_text": "o palmeiras estava cozinhando o jogo",
+      "is_candidate": false
+    },
+    {
+      "start": 638.72,
+      "end": 639.6,
+      "duration": 0.8800000000000026,
+      "text": " Estava muito satisfeito.",
+      "clean_text": "estava muito satisfeito",
+      "is_candidate": false
+    },
+    {
+      "start": 639.7,
+      "end": 641.7,
+      "duration": 2.0,
+      "text": " São dez finalizações do Vasco no segundo tempo.",
+      "clean_text": "são dez finalizações do vasco no segundo tempo",
+      "is_candidate": false
+    },
+    {
+      "start": 641.78,
+      "end": 642.82,
+      "duration": 1.0399999999999991,
+      "text": " Nenhuma do Palmeiras, tá?",
+      "clean_text": "nenhuma do palmeiras tá",
+      "is_candidate": false
+    },
+    {
+      "start": 644.36,
+      "end": 648.74,
+      "duration": 4.380000000000003,
+      "text": " O segundo tempo do Vasco, principalmente depois das mudanças no Renato, é de uma imposição maior.",
+      "clean_text": "o segundo tempo do vasco principalmente depois das mudanças no renato é de uma imposição maior",
+      "is_candidate": false
+    },
+    {
+      "start": 648.88,
+      "end": 649.82,
+      "duration": 0.9399999999999977,
+      "text": " Muito mais agressividade.",
+      "clean_text": "muito mais agressividade",
+      "is_candidate": false
+    },
+    {
+      "start": 650.06,
+      "end": 652.02,
+      "duration": 1.9599999999999937,
+      "text": " Ela subindo para pressionar, criando muito mais.",
+      "clean_text": "ela subindo para pressionar criando muito mais",
+      "is_candidate": false
+    },
+    {
+      "start": 652.12,
+      "end": 654.26,
+      "duration": 2.1400000000000006,
+      "text": " Até por conta disso, o João Martins já modifica.",
+      "clean_text": "até por conta disso o joão martins já modifica",
+      "is_candidate": false
+    },
+    {
+      "start": 654.66,
+      "end": 657.8,
+      "duration": 3.1400000000000006,
+      "text": " Já coloca o Alan para ser um cara de mais força, de mais criatividade.",
+      "clean_text": "já coloca o alan para ser um cara de mais força de mais criatividade",
+      "is_candidate": false
+    },
+    {
+      "start": 657.8,
+      "end": 658.96,
+      "duration": 1.1600000000000037,
+      "text": " É muito talentoso, né?",
+      "clean_text": "é muito talentoso né",
+      "is_candidate": false
+    },
+    {
+      "start": 658.96,
+      "end": 660.88,
+      "duration": 1.9200000000000017,
+      "text": " O Alan, mais um cria da academia.",
+      "clean_text": "o alan mais um cria da academia",
+      "is_candidate": false
+    },
+    {
+      "start": 661.04,
+      "end": 662.9,
+      "duration": 1.8599999999999994,
+      "text": " E o Luiz, jogador de velocidade.",
+      "clean_text": "e o luiz jogador de velocidade",
+      "is_candidate": false
+    },
+    {
+      "start": 663.12,
+      "end": 665.66,
+      "duration": 2.539999999999992,
+      "text": " Até para tentar puxar um possível contra-ataque, né?",
+      "clean_text": "até para tentar puxar um possível contraataque né",
+      "is_candidate": false
+    },
+    {
+      "start": 665.66,
+      "end": 667.28,
+      "duration": 1.6200000000000045,
+      "text": " O Palmeiras é muito forte nas transições.",
+      "clean_text": "o palmeiras é muito forte nas transições",
+      "is_candidate": false
+    },
+    {
+      "start": 667.7,
+      "end": 669.9,
+      "duration": 2.200000000000003,
+      "text": " Só que o Palmeiras não está conseguindo trocar dois, três passes.",
+      "clean_text": "só que o palmeiras não está conseguindo trocar dois três passes",
+      "is_candidate": false
+    },
+    {
+      "start": 670.52,
+      "end": 673.04,
+      "duration": 2.5200000000000102,
+      "text": " O Vasco está conseguindo recuperar essa bola e vem de novo para a pressão.",
+      "clean_text": "o vasco está conseguindo recuperar essa bola e vem de novo para a pressão",
+      "is_candidate": false
+    },
+    {
+      "start": 675.98,
+      "end": 676.98,
+      "duration": 1.0,
+      "text": " A bola vem por dentro.",
+      "clean_text": "a bola vem por dentro",
+      "is_candidate": false
+    },
+    {
+      "start": 679.26,
+      "end": 679.62,
+      "duration": 0.35999999999999943,
+      "text": " PH.",
+      "clean_text": "ph",
+      "is_candidate": false
+    },
+    {
+      "start": 680.78,
+      "end": 681.9,
+      "duration": 1.1200000000000045,
+      "text": " Vem no meio de dois.",
+      "clean_text": "vem no meio de dois",
+      "is_candidate": false
+    },
+    {
+      "start": 682.22,
+      "end": 683.94,
+      "duration": 1.7199999999999989,
+      "text": " Toca, Bruno Fulch se antecipe.",
+      "clean_text": "toca bruno fulch se antecipe",
+      "is_candidate": false
+    },
+    {
+      "start": 684.02,
+      "end": 684.6800000000001,
+      "duration": 0.6599999999999966,
+      "text": " E agora parte.",
+      "clean_text": "e agora parte",
+      "is_candidate": false
+    },
+    {
+      "start": 687.84,
+      "end": 688.94,
+      "duration": 1.0999999999999943,
+      "text": " Vem o Cuiabano.",
+      "clean_text": "vem o cuiabano",
+      "is_candidate": false
+    },
+    {
+      "start": 688.96,
+      "end": 689.98,
+      "duration": 1.019999999999996,
+      "text": " Alan brigou.",
+      "clean_text": "alan brigou",
+      "is_candidate": false
+    }
+  ]
+}
